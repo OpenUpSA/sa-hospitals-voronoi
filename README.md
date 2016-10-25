@@ -1,2 +1,2 @@
-# sa-hospitals-voronoi
-South African Hospitals Survey 2011-2012 Voronoi map
+# South African Hospitals Survey 2011-2012 Voronoi map
+A Voronoi map of South African hospitals, clinics, and other health care centres. Coordinates obtained from the ([South African Hospitals Survey 2011-2012]([https://data.code4sa.org/Health/South-African-Hospitals-Survey-2011-2012/ft5b-smjr)).

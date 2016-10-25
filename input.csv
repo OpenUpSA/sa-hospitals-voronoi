@@ -1,0 +1,3091 @@
+name,latitude,longitude,type,color
+"Aberdeen Hospital",-32.473958,24.054372,"DISTRICT HOSPITAL",e41a1c
+"Addo Clinic",-33.546594,25.68993,"SATELLITE CLINIC",e41a1c
+"Adelaide Gateway Clinic",-32.69994,26.29404,CLINIC,e41a1c
+"Adelaide Hospital",-32.70092,26.29427,"DISTRICT HOSPITAL",e41a1c
+"Aeroville Clinic",-32.750808,25.601076,CLINIC,e41a1c
+"Afsondering Clinic",-30.179141,28.948674,CLINIC,e41a1c
+"Agnes Rest Clinic",-31.697272,27.031056,CLINIC,e41a1c
+"Alexandria Clinic",-33.651166,26.413786,CLINIC,e41a1c
+"Algoa Frail Care Centre",-33.87848,25.48888,UNKNOWN,e41a1c
+"Algoa Park Clinic",-33.900956,25.56466,CLINIC,e41a1c
+"Aliwal North Block H Clinic",-30.691622,26.680411,CLINIC,e41a1c
+"Aliwal North Hospital",-30.697167,26.70719,"DISTRICT HOSPITAL",e41a1c
+"All Saints Gateway Clinic",-28.04807,28.046663,CLINIC,e41a1c
+"All Saints Hospital",-31.66098,28.046663,"DISTRICT HOSPITAL",e41a1c
+"Alphendale Clinic",-33.013279,27.841346,CLINIC,e41a1c
+"Amabele Clinic",-32.66337,27.52389,CLINIC,e41a1c
+"Amadiba Clinic",-31.073091,30.179014,CLINIC,e41a1c
+"Amahleke Clinic",-32.834766,27.230218,CLINIC,e41a1c
+"Amandengane Clinic",-31.099178,29.750606,CLINIC,e41a1c
+"Amantshangase Clinic",-30.839589,29.587928,CLINIC,e41a1c
+"Amathole Basin Clinic",-32.69596,26.99311,CLINIC,e41a1c
+"Andries Vosloo Hospital",-32.731182,25.591224,"DISTRICT HOSPITAL",e41a1c
+"Andrieskraal Satellite Clinic",-33.746529,24.640381,"SATELLITE CLINIC",e41a1c
+"Anglo African Street Clinic",-33.311444,26.525867,CLINIC,e41a1c
+"Askeaton Clinic",-31.625093,27.460434,CLINIC,e41a1c
+"Aspiranza Clinic",-33.019228,27.849545,CLINIC,e41a1c
+"Assina Mandla Clinic",-32.75045,26.7941,CLINIC,e41a1c
+"Bacclesfarm Clinic",-32.040569,26.461371,CLINIC,e41a1c
+"Badi Clinic",-32.287058,28.662158,CLINIC,e41a1c
+"Bala Clinic",-30.99031,29.53658,CLINIC,e41a1c
+"Baleni Clinic",-31.159225,29.971658,CLINIC,e41a1c
+"Balfour Clinic",-32.54578,26.68213,CLINIC,e41a1c
+"Bambisana Hospital",-31.451172,29.454045,"DISTRICT HOSPITAL",e41a1c
+"Bambisana PHC Clinic",-31.45022,29.45341,CLINIC,e41a1c
+"Banzi Clinic",-32.126371,27.520087,CLINIC,e41a1c
+"Baroda Clinic",-32.00237,25.51043,CLINIC,e41a1c
+"Baviaans Clinic",-33.33402,24.343214,CLINIC,e41a1c
+"Baziya CHC",-31.614431,28.385099,CHC,e41a1c
+"Beacon Bay Clinic",-32.968498,27.938766,CLINIC,e41a1c
+"Beatrice Ngwentle Clinic",-32.726067,25.596479,CLINIC,e41a1c
+"Bedford Clinic",-32.68292,26.0883,CLINIC,e41a1c
+"Bedford Hospital",-32.67534,26.09012,"DISTRICT HOSPITAL",e41a1c
+"Bedford Orthopaedic Hospital
+(Mthatha)",-31.577228,28.706814,"SPECIALISED ORTHOPAEDIC HOSPITAL",e41a1c
+"Beestekraal Clinic",-31.517471,27.815988,CLINIC,e41a1c
+"Bengu Clinic (Emalahleni)",-31.792709,27.335165,CLINIC,e41a1c
+"Bensonvale Clinic",-30.582562,27.356668,CLINIC,e41a1c
+"Bergsig Clinic",-33.387515,25.450146,CLINIC,e41a1c
+"Berlin Clinic",-32.88395,27.57776,CLINIC,e41a1c
+"Bethania Clinic",-30.659827,28.295921,CLINIC,e41a1c
+"Bezuidenhoutville Clinic",-32.68805,26.29813,CLINIC,e41a1c
+"Bhele Clinic",-33.20301,27.182662,CLINIC,e41a1c
+"Bhisho Gateway Clinic",-32.82697,27.456626,CLINIC,e41a1c
+"Bhisho Hospital",-32.82774,27.45516,"DISTRICT HOSPITAL",e41a1c
+"Bhisho Parliament Clinic",-32.863183,27.427524,"SPECIALISED CLINIC",e41a1c
+"Bhongweni Clinic",-32.74653,25.798455,CLINIC,e41a1c
+"Bilatye Clinic",-31.946554,27.365533,CLINIC,e41a1c
+"Bityi Clinic",-31.79406,28.52346,CLINIC,e41a1c
+"BJ Vorster (Kareedouw) Hospital",-33.951165,24.296093,"DISTRICT HOSPITAL",e41a1c
+"Bluegums Clinic",-30.547432,27.232095,CLINIC,e41a1c
+"Bodweni Clinic",-31.184761,29.551313,CLINIC,e41a1c
+"Bokleni Clinic",-31.595891,28.194118,CLINIC,e41a1c
+"Bolotwa Clinic (Confimvaba)",-31.986428,27.198906,CLINIC,e41a1c
+"Bolotwa Clinic (Idutywa)",-31.91607,28.292898,CLINIC,e41a1c
+"Bomvana Clinic",-32.106372,28.812726,CLINIC,e41a1c
+"Bomvini Clinic",-31.401671,29.472287,CLINIC,e41a1c
+"Boomplaas Clinic",-31.498463,27.185436,CLINIC,e41a1c
+"Booysens Park Clinic",-33.862104,25.459131,CLINIC,e41a1c
+"Braelyn Clinic",-33.000183,27.879621,CLINIC,e41a1c
+"Braelyn Extension Clinic",-33.003994,27.860727,CLINIC,e41a1c
+"Breidbach Clinic",-32.88561,27.446562,CLINIC,e41a1c
+"Brug Straat Clinic (Jansenville)",-32.947678,24.666844,CLINIC,e41a1c
+"Buchele Clinic",-31.495867,29.621311,CLINIC,e41a1c
+"Bulembu Clinic",-32.872872,27.266548,CLINIC,e41a1c
+"Buntingville Clinic",-31.636098,28.870371,CLINIC,e41a1c
+"Burgersdorp Clinic",-30.99439,26.331863,CLINIC,e41a1c
+"Burgersdorp Hospital",-30.992951,26.31416,"DISTRICT HOSPITAL",e41a1c
+"Burnshill Clinic",-32.768647,27.055024,CLINIC,e41a1c
+"Butterworth Gateway Clinic",-32.33287,28.139457,CLINIC,e41a1c
+"Butterworth Hospital",-32.331642,28.137971,"DISTRICT HOSPITAL",e41a1c
+"Caba Clinic",-31.083777,28.613033,CLINIC,e41a1c
+"Caguba Clinic",-31.638268,29.469001,CLINIC,e41a1c
+"Cala Hospital",-31.523473,27.678997,"DISTRICT HOSPITAL",e41a1c
+"Cambridge Clinic",-32.978086,27.889687,CLINIC,e41a1c
+"Cancele Clinic",-30.848116,28.78742,CLINIC,e41a1c
+"Canzibe Gateway Clinic",-31.809503,29.065801,CLINIC,e41a1c
+"Canzibe Hospital",-31.809503,29.065801,"DISTRICT HOSPITAL",e41a1c
+"Cata Clinic",-32.595165,27.124842,CLINIC,e41a1c
+"Cathcart Clinic",-32.29816,27.14426,CLINIC,e41a1c
+"Cathcart Hospital",-32.29026,27.13691,"DISTRICT HOSPITAL",e41a1c
+"CC Lloyd Clinic",-32.77502,26.63361,CLINIC,e41a1c
+"Cecilia Makiwane Hospital",-32.92785,27.74422,"REGIONAL HOSPITAL",e41a1c
+"Central CHC (Sandford)",-33.958027,25.601723,CHC,e41a1c
+"Central Clinic (East London)",-33.016927,27.906105,CLINIC,e41a1c
+"Central Clinic (Port Elizabeth)",-33.964585,25.612789,CLINIC,e41a1c
+"Chatty Clinic",-33.873729,25.495512,CLINIC,e41a1c
+"Chris Hani Clinic",-32.954635,27.924749,CLINIC,e41a1c
+"Cimezile Clinic",-32.262829,26.636344,CLINIC,e41a1c
+"Civic Centre Clinic (Mthatha)",-31.58265,28.78992,CLINIC,e41a1c
+"Clarkebury Clinic",-31.790883,28.286925,CLINIC,e41a1c
+"Clarkson Clinic",-34.010403,24.348788,CLINIC,e41a1c
+"Cloete Joubert (Barkly East) Hospital",-30.967559,27.586734,"DISTRICT HOSPITAL",e41a1c
+"Cofimvaba Hospital",-32.011347,27.581767,"DISTRICT HOSPITAL",e41a1c
+"Coldstream Satellite Clinic",-33.961849,23.700766,"SATELLITE CLINIC",e41a1c
+"Collondale Satellite Clinic",-33.03977,27.818606,"SATELLITE CLINIC",e41a1c
+"Cradock Hospital",-32.167989,25.622912,"DISTRICT HOSPITAL",e41a1c
+"Cumakala 1 Clinic",-32.55717,27.44754,CLINIC,e41a1c
+"Cumakala 2 Clinic",-32.56293,27.44868,CLINIC,e41a1c
+"Cuyler Youth Centre",-33.765979,25.392124,CLINIC,e41a1c
+"Cwecweni Clinic",-31.936795,28.054667,CLINIC,e41a1c
+"Cwele Clinic",-31.672414,29.24055,CLINIC,e41a1c
+"Cwili Clinic",-32.676982,28.363489,CLINIC,e41a1c
+"Daliwe Clinic",-32.301795,27.151704,CLINIC,e41a1c
+"Daliwonga Clinic",-31.103457,29.904348,CLINIC,e41a1c
+"Debe Nek Clinic",-32.84583,27.13793,CLINIC,e41a1c
+"Didimana Clinic",-32.121421,26.611464,CLINIC,e41a1c
+"Dimbaza CHC",-32.835462,27.214074,CHC,e41a1c
+"Donnington Clinic",-32.72367,27.42576,CLINIC,e41a1c
+"Dora Nginza Hospital",-33.8773,25.56,"REGIONAL HOSPITAL",e41a1c
+"Dordrecht Clinic",-31.377304,27.047887,CLINIC,e41a1c
+"Dordrecht Hospital",-31.391496,27.045958,"DISTRICT HOSPITAL",e41a1c
+"Double Falls Clinic",-31.627443,29.383525,CLINIC,e41a1c
+"Dr CL Bikitsha Clinic",-32.278377,28.105042,CLINIC,e41a1c
+"Dr Malizo Mpehle Memorial Hospital",-31.316606,28.777753,"DISTRICT HOSPITAL",e41a1c
+"Drake Road Clinic",-32.985686,27.929081,CLINIC,e41a1c
+"Du Preez Street Clinic",-33.803141,25.463042,CLINIC,e41a1c
+"Duncan Village CHC",-33.00773,27.886691,CHC,e41a1c
+"Dundee Clinic",-30.74694,29.42436,CLINIC,e41a1c
+"Dungu Clinic",-31.222931,29.206274,CLINIC,e41a1c
+"Edamini Clinic",-33.832414,25.385955,CLINIC,e41a1c
+"Efata Clinic",-31.568563,28.71823,CLINIC,e41a1c
+"Ekuphumleni Clinic",-32.178409,26.782093,CLINIC,e41a1c
+"Elizabeth Donkin Hospital",-33.979422,25.627584,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Elliot Clinic",-31.333386,27.850213,CLINIC,e41a1c
+"Elliot Hospital",-31.337492,27.839329,"DISTRICT HOSPITAL",e41a1c
+"Elucwecwe Clinic",-31.7357,27.88056,CLINIC,e41a1c
+"Eluhewini Clinic",-31.705876,28.126829,CLINIC,e41a1c
+"Elukholweni Clinic",-30.629156,28.852099,CLINIC,e41a1c
+"Eluxolweni Clinic",-31.643611,25.805589,CLINIC,e41a1c
+"Empilisweni Clinic",-31.193879,28.240383,CLINIC,e41a1c
+"Empilisweni Hospital",-30.53231,27.37433,"DISTRICT HOSPITAL",e41a1c
+"Empilweni CHC",-33.014525,27.849384,CHC,e41a1c
+"Empilweni TB Hospital",-33.908859,25.58468,"SPECIALISED TB HOSPITAL",e41a1c
+"Engojini Clinic",-32.22432,26.753857,CLINIC,e41a1c
+"Esilindini Clinic",-30.543866,27.330267,CLINIC,e41a1c
+"Ethembeni Clinic",-32.7628,27.43183,CLINIC,e41a1c
+"Eureka Clinic",-31.007249,26.317977,CLINIC,e41a1c
+"Ezibeleni Clinic",-31.90093,26.959004,CLINIC,e41a1c
+"Ezingcuka Clinic",-31.300924,28.657982,CLINIC,e41a1c
+"Fezeka NU 3 Clinic",-32.931768,27.753004,CLINIC,e41a1c
+"Fish River Clinic",-31.911817,25.415886,CLINIC,e41a1c
+"Flagstaff Clinic",-31.080063,29.496124,CLINIC,e41a1c
+"Fort Beaufort Gateway Clinic",-32.7816,26.6348,CLINIC,e41a1c
+"Fort Beaufort Hospital",-32.7817,26.63483,"DISTRICT HOSPITAL",e41a1c
+"Fort England Hospital",-33.315436,26.543186,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Fort Grey Clinic",-33.036973,27.8031,CLINIC,e41a1c
+"Fort Grey TB Hospital",-33.02207,27.82122,"SPECIALISED TB HOSPITAL",e41a1c
+"Fort Malan Clinic",-32.150659,28.523716,CLINIC,e41a1c
+"Frankfort Clinic",-32.72026,27.45267,CLINIC,e41a1c
+"Fransbury Satellite Clinic",-31.964426,27.07867,"SATELLITE CLINIC",e41a1c
+"Frere Gateway Clinic",-32.996458,27.891186,CLINIC,e41a1c
+"Frere Hospital",-32.99599,27.89156,"REGIONAL HOSPITAL",e41a1c
+"Frontier Hospital",-31.889209,26.871405,"DISTRICT HOSPITAL",e41a1c
+"Gardens Clinic",-31.893643,26.874388,CLINIC,e41a1c
+"Gcaleka Clinic",-32.338445,28.319415,CLINIC,e41a1c
+"Gelvandale Clinic",-33.9163,25.55013,CLINIC,e41a1c
+"Gilton Clinic",-32.66184,26.94244,CLINIC,e41a1c
+"Ginsberg Clinic",-32.892174,27.385266,CLINIC,e41a1c
+"Glen Grey Hospital",-31.719037,27.199579,"DISTRICT HOSPITAL",e41a1c
+"Glenmore Clinic",-33.142572,26.858592,CLINIC,e41a1c
+"Gompo A Ndende Clinic",-33.007219,27.876342,CLINIC,e41a1c
+"Gompo B Jwayi Clinic",-33.016742,27.858008,CLINIC,e41a1c
+"Gompo C Jabavu Clinic",-33.011861,27.864001,CLINIC,e41a1c
+"Gonubie Clinic",-32.941637,28.021826,CLINIC,e41a1c
+"Goso Forest Clinic",-31.38858,29.622249,CLINIC,e41a1c
+"Govan Mbeki Clinic",-33.857166,25.535381,CLINIC,e41a1c
+"Gqaga Clinic",-31.544896,28.213019,CLINIC,e41a1c
+"Gqaqhala Clinic",-31.282466,28.387733,CLINIC,e41a1c
+"Gqebera CHC",-33.986143,25.588864,CHC,e41a1c
+"Gqogqora Clinic",-31.98243,27.887051,CLINIC,e41a1c
+"Gqunqe Clinic",-32.468859,28.562297,CLINIC,e41a1c
+"Graaff-Reinet Day Hospital",-32.275577,24.555366,CHC,e41a1c
+"Gracey Clinic",-32.582041,25.133514,CLINIC,e41a1c
+"Grainvalley Clinic",-32.237561,28.048927,CLINIC,e41a1c
+"Greenfields Clinic",-33.03499,27.864482,CLINIC,e41a1c
+"Greenville Hospital",-30.930565,30.108987,"DISTRICT HOSPITAL",e41a1c
+"Greenville PHC Clinic",-30.929712,30.110006,CLINIC,e41a1c
+"Grey Gateway Clinic",-32.879623,27.394377,CLINIC,e41a1c
+"Grey Hospital",-32.87932,27.39579,"DISTRICT HOSPITAL",e41a1c
+"Guba Clinic",-31.51514,27.30681,CLINIC,e41a1c
+"Gubenxa Clinic",-31.717355,27.820856,CLINIC,e41a1c
+"Gura Clinic",-31.027071,28.833393,CLINIC,e41a1c
+"Gustav Lamour Clinic",-33.815938,25.46398,CLINIC,e41a1c
+"Gwabeni Clinic",-33.09613,26.961981,CLINIC,e41a1c
+"Gwadana Clinic",-32.214998,28.290675,CLINIC,e41a1c
+"Gwadu Clinic",-32.220094,28.66811,CLINIC,e41a1c
+"Gwatyu Clinic",-32.006477,27.321933,CLINIC,e41a1c
+"Gxulu Clinic",-32.645222,27.110173,CLINIC,e41a1c
+"Gxwederha Clinic",-32.84161,26.78648,CLINIC,e41a1c
+"Hackney Clinic",-32.318133,26.644903,CLINIC,e41a1c
+"Hamburg Clinic",-33.290568,27.473226,CLINIC,e41a1c
+"Haytor Clinic",-32.294688,26.771021,CLINIC,e41a1c
+"Healdtown Clinic",-32.73159,26.70145,CLINIC,e41a1c
+"Hebe-Hebe Clinic",-32.23609,27.83032,CLINIC,e41a1c
+"Helenvale Clinic",-33.911279,25.551799,CLINIC,e41a1c
+"Herschel Clinic",-30.61497,27.16345,CLINIC,e41a1c
+"Hewu Hospital",-32.168393,26.792752,"DISTRICT HOSPITAL",e41a1c
+"High Street Clinic",-32.167248,25.616341,CLINIC,e41a1c
+"Highview Clinic",-32.434991,27.947188,CLINIC,e41a1c
+"Hillside Clinic (Nkonkobe)",-32.75227,26.63978,CLINIC,e41a1c
+"Hillside Clinic (Senqu)",-30.561099,27.563748,CLINIC,e41a1c
+"Hilton Clinic",-30.698823,26.69755,CLINIC,e41a1c
+"Hlabatshane Clinic",-31.745112,28.856835,CLINIC,e41a1c
+"Hlala Uphilile Clinic",-31.377135,27.037944,CLINIC,e41a1c
+"Hlamandana Clinic",-30.817607,29.720654,CLINIC,e41a1c
+"Hlangalane Clinic",-30.963845,28.529668,CLINIC,e41a1c
+"Hlankomo Clinic",-30.929601,28.419166,CLINIC,e41a1c
+"Hlomendlini Clinic",-30.5861,27.263198,CLINIC,e41a1c
+"Hobeni Clinic",-32.184044,28.878765,CLINIC,e41a1c
+"Hofmeyer Clinic",-31.655724,25.804267,CLINIC,e41a1c
+"Holy Cross Hospital",-31.148278,29.676084,"DISTRICT HOSPITAL",e41a1c
+"Holy Cross PHC Clinic",-31.148278,29.676084,CLINIC,e41a1c
+"Horseshoe Clinic",-32.248514,24.534568,CLINIC,e41a1c
+"Horton Clinic",-33.112276,27.021561,CLINIC,e41a1c
+"Hukuwa Clinic",-32.155198,26.6598,CLINIC,e41a1c
+"Humansdorp Clinic",-34.035093,24.775393,CLINIC,e41a1c
+"Humansdorp Hospital",-34.029998,24.780098,"DISTRICT HOSPITAL",e41a1c
+"Ibika Clinic",-32.301684,28.213494,CLINIC,e41a1c
+"Idutywa Nqabara Clinic",-32.101122,28.454407,CLINIC,e41a1c
+"Idutywa Village CHC",-32.107531,28.3139,CHC,e41a1c
+"Ikamvelihle Clinic",-33.793258,25.613033,CLINIC,e41a1c
+"Ilinge Clinic",-31.977343,27.040419,CLINIC,e41a1c
+"Ilita Clinic",-32.889788,27.534048,CLINIC,e41a1c
+"Imidange Clinic",-32.779608,27.486798,CLINIC,e41a1c
+"Imizamo Yetho Clinic",-33.742686,24.796878,CLINIC,e41a1c
+"Imizizi Clinic",-30.904938,29.969515,CLINIC,e41a1c
+"Indwe Hospital",-31.4676,27.340628,"DISTRICT HOSPITAL",e41a1c
+"Isikelo Clinic",-30.786719,29.767942,CLINIC,e41a1c
+"Isikhoba Clinic",-32.983049,27.610212,CLINIC,e41a1c
+"Isilimela Gateway Clinic",-31.733779,29.359197,CLINIC,e41a1c
+"Isilimela Hospital",-31.733779,29.359197,"DISTRICT HOSPITAL",e41a1c
+"Isilindini Clinic",-30.61905,28.57801,CLINIC,e41a1c
+"Isolomzi Clinic",-33.825409,25.375398,CLINIC,e41a1c
+"Jafta Clinic",-32.798911,27.310558,CLINIC,e41a1c
+"Jaji Clinic",-33.345739,27.119217,CLINIC,e41a1c
+"Jalamba Clinic",-31.961948,28.68011,CLINIC,e41a1c
+"Jama Clinic",-33.377311,27.093522,CLINIC,e41a1c
+"Jamestown Clinic",-31.130482,26.804023,CLINIC,e41a1c
+"Jamestown Hospital",-31.123632,26.807276,"DISTRICT HOSPITAL",e41a1c
+"Jingqi Clinic",-32.332831,28.657679,CLINIC,e41a1c
+"Joe Slovo Clinic",-33.825072,25.50272,CLINIC,e41a1c
+"John Dube Clinic",-32.991561,27.88565,CLINIC,e41a1c
+"Jose Pearson TB Hospital",-33.891712,25.468588,"SPECIALISED TB HOSPITAL",e41a1c
+"Joubertina CHC",-33.82642,23.865129,CHC,e41a1c
+"Joza Clinic",-33.291604,26.560315,CLINIC,e41a1c
+"Kalankomo Clinic",-30.9316,28.70536,CLINIC,e41a1c
+"Kamastone Clinic",-32.067226,26.650088,CLINIC,e41a1c
+"Kambi Clinic",-31.492821,28.661469,CLINIC,e41a1c
+"Kanyayo (Bizana) Clinic",-31.079268,29.800673,CLINIC,e41a1c
+"Kareedouw Clinic",-33.951684,24.305658,CLINIC,e41a1c
+"Kati-Kati Clinic",-32.288389,27.155862,CLINIC,e41a1c
+"Katkop Clinic",-30.898011,28.54957,CLINIC,e41a1c
+"KB Siswana Clinic",-32.059339,26.765965,CLINIC,e41a1c
+"Madlangala Clinic",-30.1058,28.3528,CLINIC,e41a1c
+"Kenton-On-Sea Clinic",-33.676401,26.66601,CLINIC,e41a1c
+"Keti Clinic",-32.01328,28.14104,CLINIC,e41a1c
+"Khanyayo (Holy Cross) Clinic",-31.193877,29.845441,CLINIC,e41a1c
+"Khayamnandi Clinic",-31.281664,25.811927,CLINIC,e41a1c
+"Khuze Clinic",-32.2134,27.628274,CLINIC,e41a1c
+"Kirkwood Clinic",-33.402012,25.442649,CLINIC,e41a1c
+"Kleinbulhoek Clinic",-32.100067,26.560577,CLINIC,e41a1c
+"Kohlo Clinic",-31.549321,29.379748,CLINIC,e41a1c
+"Kolomana Clinic",-32.42551,26.78879,CLINIC,e41a1c
+"Komani Hospital",-31.918073,26.90732,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Komga Hospital",-32.57606,27.89576,"DISTRICT HOSPITAL",e41a1c
+"Komga Rural Clinic",-32.582127,27.962895,CLINIC,e41a1c
+"Korsten CHC",-33.925352,25.56967,CHC,e41a1c
+"Kotana Clinic",-32.14878,28.14648,CLINIC,e41a1c
+"Kotyana Clinic",-32.043264,28.999443,CLINIC,e41a1c
+"Krakeel Clinic",-33.814302,23.7275,CLINIC,e41a1c
+"Kroonvale Clinic",-32.255736,24.561326,CLINIC,e41a1c
+"Kruisfontein Clinic",-34.021866,24.746691,CLINIC,e41a1c
+"Kruisrivier Clinic",-33.765623,25.349225,CLINIC,e41a1c
+"Ku Bengu Clinic",-32.14341,27.61732,CLINIC,e41a1c
+"Kubusi Clinic",-32.59433,27.41285,CLINIC,e41a1c
+"Kungisizwe Clinic",-30.828515,28.604944,CLINIC,e41a1c
+"Kuyasa CHC",-32.00716,27.58245,CHC,e41a1c
+"Kwa-Mkholoza Clinic",-32.320357,28.594657,CLINIC,e41a1c
+"Kwa-Nonqubela Clinic",-33.656687,26.420368,CLINIC,e41a1c
+"Kwa-Nonzwakazi Clinic",-33.317408,26.090721,CLINIC,e41a1c
+"Kwadwesi Clinic",-33.848369,25.51866,CLINIC,e41a1c
+"Kwamagxaki Clinic",-33.839579,25.533908,CLINIC,e41a1c
+"Kwanonzame New Clinic",-31.517377,24.008493,CLINIC,e41a1c
+"Kwanonzame Old Clinic",-31.508756,25.003909,CLINIC,e41a1c
+"Kwazakhele CHC",-33.87768,25.585444,CHC,e41a1c
+"Kwazakhele Clinic",-33.883269,25.591568,CLINIC,e41a1c
+"Kwazenzele Clinic",-33.522907,25.710757,CLINIC,e41a1c
+"Kwelera Clinic",-32.823116,27.962895,CLINIC,e41a1c
+"Lady Grey Hospital",-30.712482,27.21163,"DISTRICT HOSPITAL",e41a1c
+"Laetitia Bam CHC",-33.916423,25.550061,CHC,e41a1c
+"Lahlangubo Clinic (Ngcobo)",-31.660669,27.867814,CLINIC,e41a1c
+"Lahlangubo Clinic (Queenstown)",-32.187208,26.665363,CLINIC,e41a1c
+"Langeni Clinic",-31.481478,28.484502,CLINIC,e41a1c
+"Lanti Clinic",-31.880582,27.401595,CLINIC,e41a1c
+"Lenye Clinic",-32.749682,27.086272,CLINIC,e41a1c
+"Lesseyton Clinic",-31.842416,26.777496,CLINIC,e41a1c
+"Libode Clinic",-31.540018,29.024363,CLINIC,e41a1c
+"Likhetlane Clinic",-30.356069,28.527176,CLINIC,e41a1c
+"Lingelihle Clinic",-32.180253,25.6291,CLINIC,e41a1c
+"Linton Grange Clinic",-33.943404,25.516064,CLINIC,e41a1c
+"Livingstone Hospital",-33.925352,25.56967,"TERTIARY HOSPITAL",e41a1c
+"Lizo Ngcana Clinic",-31.92061,26.85484,CLINIC,e41a1c
+"Loerie Clinic",-33.87597,25.019163,CLINIC,e41a1c
+"Lota Clinic",-31.863207,28.335996,CLINIC,e41a1c
+"Lotana Clinic",-31.282835,28.930174,CLINIC,e41a1c
+"Louterwater Clinic",-33.792884,23.631313,CLINIC,e41a1c
+"Lower Gungululu Clinic",-31.463056,28.821889,CLINIC,e41a1c
+"Lower Mncuncuzo Clinic",-31.908552,27.597924,CLINIC,e41a1c
+"Lower Regu Clinic",-32.81815,26.95249,CLINIC,e41a1c
+"Lower Seplan Clinic",-31.712696,27.443542,CLINIC,e41a1c
+"Lower Tsitsana Clinic",-31.522995,28.207996,CLINIC,e41a1c
+"Lower Zingcuka Clinic",-32.718808,27.099369,CLINIC,e41a1c
+"Lubaleko Clinic",-30.697234,29.369365,CLINIC,e41a1c
+"Lubisi Clinic",-31.799026,27.459879,CLINIC,e41a1c
+"Ludalasi Clinic",-31.637786,29.313878,CLINIC,e41a1c
+"Lugangeni Clinic",-30.826852,28.935054,CLINIC,e41a1c
+"Lujizweni Clinic",-31.77005,28.991354,CLINIC,e41a1c
+"Lukhanyiso Clinic",-33.522837,25.711041,CLINIC,e41a1c
+"Lukhanyo Clinic",-33.817418,25.45617,CLINIC,e41a1c
+"Lulama Kama Clinic",-32.7686,26.65496,CLINIC,e41a1c
+"Lunga Kobese Clinic",-33.885237,25.580512,CLINIC,e41a1c
+"Lusikisiki Village Clinic (Qaukeni)",-31.365064,29.573178,CLINIC,e41a1c
+"Luthuli Clinic",-31.120592,27.738735,CLINIC,e41a1c
+"Lutshaya Clinic",-31.322742,29.36108,CLINIC,e41a1c
+"Lutubeni Clinic",-31.927063,28.881764,CLINIC,e41a1c
+"Luyengweni Clinic",-30.653885,28.766053,CLINIC,e41a1c
+"Luyolo NU 9 Clinic",-32.926063,27.73391,CLINIC,e41a1c
+"Lwandile Clinic",-31.867282,29.213862,CLINIC,e41a1c
+"Mabandla Clinic",-33.806195,25.369781,CLINIC,e41a1c
+"Macacuma Satellite Clinic",-30.457349,27.352186,CLINIC,e41a1c
+"Machibini Clinic (Kwabhaca)",-30.72652,28.726172,CLINIC,e41a1c
+"Machibini Clinic (Queenstown)",-31.920509,27.024771,CLINIC,e41a1c
+"Machubeni Clinic",-31.55987,27.18929,CLINIC,e41a1c
+"Macibe Clinic",-32.509413,28.320286,CLINIC,e41a1c
+"Maclear Clinic",-31.06886,28.35162,CLINIC,e41a1c
+"Maclear Hospital",-31.075459,28.347012,"DISTRICT HOSPITAL",e41a1c
+"Madwaleni Hospital",-32.0965,28.88005,"DISTRICT HOSPITAL",e41a1c
+"Madzikane kaZulu Memorial Hospital",-30.881997,29.002554,"DISTRICT HOSPITAL",e41a1c
+"Magadla Clinic",-30.338227,28.681784,CLINIC,e41a1c
+"Magwa Clinic",-31.4184,29.671594,CLINIC,e41a1c
+"Magwala Clinic",-32.006743,27.549768,CLINIC,e41a1c
+"Mahasana Clinic",-32.33607,28.727489,CLINIC,e41a1c
+"Mahlubini Clinic",-32.063537,27.628132,CLINIC,e41a1c
+"Mahlungulu Clinic (KSD)",-31.57268,28.49288,CLINIC,e41a1c
+"Mahlungulu Clinic (Mhlontlo)",-31.077384,28.81672,CLINIC,e41a1c
+"Majola Clinic",-31.516293,29.318765,CLINIC,e41a1c
+"Makhotyana CHC",-31.43541,29.022912,CHC,e41a1c
+"Makwantini Clinic",-31.105733,29.990211,CLINIC,e41a1c
+"Malangeni Clinic",-31.311207,29.700685,CLINIC,e41a1c
+"Maletswai Clinic",-30.692789,26.692395,CLINIC,e41a1c
+"Malongwana Clinic",-31.013647,29.606057,CLINIC,e41a1c
+"Malusi Clinic",-31.578922,28.872701,CLINIC,e41a1c
+"Maluti CHC",-30.265329,28.788844,CLINIC,e41a1c
+"Mampondomiseni Clinic",-31.63437,29.09081,CLINIC,e41a1c
+"Mangcwanguleni Clinic",-31.329304,29.172623,CLINIC,e41a1c
+"Mangoloaneng Clinic",-30.518884,28.460799,CLINIC,e41a1c
+"Mangqamzeni Clinic",-30.995591,29.069079,CLINIC,e41a1c
+"Mantlaneni Clinic",-31.237756,29.342718,CLINIC,e41a1c
+"Mantusini Clinic",-31.575012,29.294014,CLINIC,e41a1c
+"Manzana Clinic",-31.737231,28.009169,CLINIC,e41a1c
+"Manzimahle Clinic",-31.624819,27.556549,CLINIC,e41a1c
+"Mapheleni Clinic",-30.78344,29.2536,CLINIC,e41a1c
+"Mapuzi Clinic",-31.959265,29.130018,CLINIC,e41a1c
+"Maqanyeni Clinic",-31.642225,28.973141,CLINIC,e41a1c
+"Maqashu Clinic",-31.743298,27.334743,CLINIC,e41a1c
+"Margery Parkes TB Hospital",-32.267834,24.556476,"SPECIALISED TB HOSPITAL",e41a1c
+"Marjorie Parrish TB Hospital",-33.56243,26.88126,"SPECIALISED TB HOSPITAL",e41a1c
+"Marselle Clinic",-33.679336,26.635121,CLINIC,e41a1c
+"Martje Venter (Tarkastad) Hospital",-32.009252,26.258435,"DISTRICT HOSPITAL",e41a1c
+"Masakhane Clinic (Aberdeen)",-32.892649,23.158642,CLINIC,e41a1c
+"Masakhane Clinic (Hankey)",-33.82773,24.872886,CLINIC,e41a1c
+"Masakhane Clinic (N Mandela Metro)",-33.92395,25.44428,CLINIC,e41a1c
+"Masakhane Clinic (Zwelitsha)",-32.925458,27.43269,CLINIC,e41a1c
+"Masakhe Clinic",-33.923854,25.444234,CLINIC,e41a1c
+"Masele Clinic",-32.936187,27.330889,CLINIC,e41a1c
+"Masibulele Clinic",-30.598462,27.735533,CLINIC,e41a1c
+"Masincedane Clinic",-32.686116,27.11374,CLINIC,e41a1c
+"Masiphile Clinic",-32.8544,27.788984,CLINIC,e41a1c
+"Matatiele Municipality Clinic",-30.333313,28.808658,CLINIC,e41a1c
+"Matomela Clinic",-33.275743,27.113743,CLINIC,e41a1c
+"Matubeni Clinic",-30.112592,29.315112,CLINIC,e41a1c
+"Matyantya Clinic",-31.785279,27.072034,CLINIC,e41a1c
+"Mawusheni Clinic",-31.94064,27.67016,CLINIC,e41a1c
+"Max Madlingozi Clinic",-33.869667,25.58314,CLINIC,e41a1c
+"Maxwele Clinic",-31.704023,28.735492,CLINIC,e41a1c
+"Mbalisweni Clinic",-31.267639,29.115813,CLINIC,e41a1c
+"Mbekweni CHC",-31.719949,28.686582,CHC,e41a1c
+"Mbokotwana Clinic",-31.259789,28.805868,CLINIC,e41a1c
+"Mbulukweza Clinic",-32.23262,27.71693,CLINIC,e41a1c
+"Mcambalala Clinic",-31.884384,27.494611,CLINIC,e41a1c
+"Mcewula Clinic",-31.51225,27.528179,CLINIC,e41a1c
+"Mdanjelwa Clinic",-31.805703,28.238095,CLINIC,e41a1c
+"Mdeni Clinic",-31.034761,28.779043,CLINIC,e41a1c
+"Mdingi Clinic",-32.82356,27.330355,CLINIC,e41a1c
+"Mdyobe Clinic",-31.132259,29.050711,CLINIC,e41a1c
+"Meje Clinic",-31.05028,29.8747,CLINIC,e41a1c
+"Melani Clinic",-32.72545,26.87394,CLINIC,e41a1c
+"Melitafa Clinic",-32.07117,28.680142,CLINIC,e41a1c
+"Mevana Clinic",-31.528123,29.296173,CLINIC,e41a1c
+"Mfundambini Clinic",-30.898802,29.519513,CLINIC,e41a1c
+"Mfundisweni Clinic",-30.898846,29.519502,CLINIC,e41a1c
+"Mgudu Clinic",-31.478168,28.34699,CLINIC,e41a1c
+"Mgwalana Clinic",-32.75516,26.96204,CLINIC,e41a1c
+"Mgwali Clinic",-32.461027,27.606076,CLINIC,e41a1c
+"Mgwenyane Clinic",-31.555307,29.233211,CLINIC,e41a1c
+"Mhlahlane Clinic",-31.41913,28.54072,CLINIC,e41a1c
+"Mhlakulo CHC",-31.401689,28.844363,CLINIC,e41a1c
+"Mhlanga Clinic",-31.464525,27.15988,CLINIC,e41a1c
+"Mhlopekazi Clinic",-31.740331,28.289607,CLINIC,e41a1c
+"Kildare Clinic",-24.877051,31.32373,CLINIC,e41a1c
+"Michausdal Clinic",-32.173692,25.645032,CLINIC,e41a1c
+"Middelburg Clinic",-31.49488,25.00754,CLINIC,e41a1c
+"Middle Street Clinic",-33.75772,25.390842,CLINIC,e41a1c
+"Middle Terrace Clinic",-33.300141,26.536497,CLINIC,e41a1c
+"Middledrift CHC",-32.81356,26.98832,CHC,e41a1c
+"Midland Hospital",-32.261339,24.535453,"DISTRICT HOSPITAL",e41a1c
+"Midros Clinic",-31.50263,25.026222,CLINIC,e41a1c
+"Misgund Clinic",-33.762563,23.502387,CLINIC,e41a1c
+"Missionvale Clinic",-33.87666,25.549961,CLINIC,e41a1c
+"Mitford Clinic",-31.990625,26.532328,CLINIC,e41a1c
+"Mjanyana Clinic",-31.842552,28.095399,CLINIC,e41a1c
+"Mjanyana Hospital",-31.83408,28.106128,"DISTRICT HOSPITAL",e41a1c
+"Mjika Clinic",-31.434572,28.646263,CLINIC,e41a1c
+"Mkapusi Clinic",-31.595162,27.106699,CLINIC,e41a1c
+"Mkemane Clinic",-30.672483,29.030259,CLINIC,e41a1c
+"Mnceba Clinic",-30.89352,29.210485,CLINIC,e41a1c
+"Mncotsho Clinic",-32.934917,27.600172,CLINIC,e41a1c
+"Mngungu Clinic",-31.056413,30.032035,CLINIC,e41a1c
+"Mntwana Clinic",-30.976448,28.924639,CLINIC,e41a1c
+"Mnyibashe Clinic",-32.128792,27.801319,CLINIC,e41a1c
+"Mnyolo Clinic",-31.494445,28.289151,CLINIC,e41a1c
+"Molteno Clinic",-26.21361,31.23523,CLINIC,e41a1c
+"Molteno Hospital",-31.392238,26.355799,"DISTRICT HOSPITAL",e41a1c
+"Mooiplaas Clinic",-32.737743,28.054039,CLINIC,e41a1c
+"Moore Street Clinic",-33.012865,27.915498,CLINIC,e41a1c
+"Moses Mabida Clinic",-33.397238,25.481546,CLINIC,e41a1c
+"Motherwell CHC",-33.811459,25.597329,CHC,e41a1c
+"Motherwell NU 2 Clinic",-33.80062,25.60322,CLINIC,e41a1c
+"Mount Arthur Clinic",-31.697279,27.031042,CLINIC,e41a1c
+"Mount Ayliff Hospital",-30.797433,29.370913,"DISTRICT HOSPITAL",e41a1c
+"Mount Ayliff PHC Clinic",-30.797433,29.370913,CLINIC,e41a1c
+"Mount Coke CHC",-32.980932,27.443461,CHC,e41a1c
+"Mount Frere PHC Clinic",-30.900045,28.995707,CLINIC,e41a1c
+"Mount Hargreaves Clinic",-30.405267,28.706004,CLINIC,e41a1c
+"Mpame Clinic",-32.097922,29.041827,CLINIC,e41a1c
+"Mpeko Clinic",-31.623736,28.633102,CLINIC,e41a1c
+"Mpetsheni Clinic",-30.990764,29.792508,CLINIC,e41a1c
+"Mpharane Clinic",-30.263905,28.47763,CLINIC,e41a1c
+"Mpindweni Clinic",-31.51167,28.781015,CLINIC,e41a1c
+"Mpongo Clinic",-33.157751,27.526366,CLINIC,e41a1c
+"Mpoza Clinic (Lusikisiki)",-31.236078,29.55686,CLINIC,e41a1c
+"Mpoza Clinic (Mount Frere)",-30.731786,29.069586,CLINIC,e41a1c
+"Mpozolo Clinic",-32.181989,28.779075,CLINIC,e41a1c
+"Mpukane Clinic",-32.196401,27.937202,CLINIC,e41a1c
+"Mpunzana Clinic",-31.801862,28.669877,CLINIC,e41a1c
+"Mqambeli Clinic",-32.420046,28.10859,CLINIC,e41a1c
+"Mqanduli CHC",-31.819878,28.766794,CHC,e41a1c
+"Mqhekezweni Clinic",-31.73366,28.46755,CLINIC,e41a1c
+"Mqhele Clinic",-31.994178,28.89164,CLINIC,e41a1c
+"Mqokolweni Clinic",-31.121665,28.549725,CLINIC,e41a1c
+"Msendo Clinic",-32.27135,28.790078,CLINIC,e41a1c
+"Msobomvu Clinic",-32.70058,26.85278,CLINIC,e41a1c
+"Mtakatye Clinic",-31.846699,29.244806,CLINIC,e41a1c
+"Mtambalala Clinic",-31.542039,29.587904,CLINIC,e41a1c
+"Mthatha Gateway Clinic",-31.586633,28.764181,CLINIC,e41a1c
+"Mthatha General Hospital",-31.586633,28.764181,"DISTRICT HOSPITAL",e41a1c
+"Mtingwevu Clinic",-31.766053,27.589545,CLINIC,e41a1c
+"Mtombe Clinic",-33.054755,27.334735,CLINIC,e41a1c
+"Mtyholo Clinic",-32.99244,27.35531,CLINIC,e41a1c
+"Musong Clinic",-30.490633,27.548054,CLINIC,e41a1c
+"Mvenyane Clinic",-30.547871,29.022961,CLINIC,e41a1c
+"Mwaca Clinic",-30.639996,29.237779,CLINIC,e41a1c
+"Mxalanga Clinic",-32.73985,27.36593,CLINIC,e41a1c
+"Mxhelo Clinic",-32.79465,26.73477,CLINIC,e41a1c
+"Mzamomhle Clinic (Albert)",-31.011357,26.333976,CLINIC,e41a1c
+"Mzamomhle Clinic (Bedford)",-32.69044,26.09306,CLINIC,e41a1c
+"Mzintlava Clinic",-31.40584,29.510428,CLINIC,e41a1c
+"Mzongwana Clinic",-30.166121,29.057813,CLINIC,e41a1c
+"Ncambele Clinic",-31.501461,28.735943,CLINIC,e41a1c
+"Ncedolwethu Clinic",-31.330584,27.826357,CLINIC,e41a1c
+"Nceduluntu Clinic",-31.376821,26.354498,CLINIC,e41a1c
+"Ncembu Clinic",-31.3941,28.404854,CLINIC,e41a1c
+"Ncera Clinic",-33.115196,27.592246,CLINIC,e41a1c
+"Ncizele Clinic",-32.598832,28.433481,CLINIC,e41a1c
+"Ncora Clinic",-31.818157,27.741243,CLINIC,e41a1c
+"Ndabakazi Clinic",-32.355667,28.035827,CLINIC,e41a1c
+"Ndanya Clinic",-31.572718,28.961581,CLINIC,e41a1c
+"Ndawenzima Clinic",-30.90933,29.3621,CLINIC,e41a1c
+"Ndela Clinic",-30.947755,29.713195,CLINIC,e41a1c
+"Ndevana Clinic",-32.909852,27.50726,CLINIC,e41a1c
+"Ndibela Clinic",-31.83416,28.43121,CLINIC,e41a1c
+"Ndofela Clinic",-30.384042,27.431772,CLINIC,e41a1c
+"Ndonga Clinic",-31.625191,27.388479,CLINIC,e41a1c
+"Ndwayana Clinic",-33.160354,26.872451,CLINIC,e41a1c
+"Needs Camp Clinic",-33.005697,27.647478,CLINIC,e41a1c
+"Nelson Mandela Academic Hospital",-31.586633,28.764181,"CENTRAL HOSPITAL",e41a1c
+"Nessie Knight Clinic",-31.010907,28.682261,CLINIC,e41a1c
+"Nessie Knight Hospital",-31.010907,28.682261,"DISTRICT HOSPITAL",e41a1c
+"New Brighton CHC",-33.909006,25.58468,CHC,e41a1c
+"New Brighton Clinic",-33.90498,25.59775,CLINIC,e41a1c
+"New Rest Clinic",-31.903765,26.870922,CLINIC,e41a1c
+"Newhaven Hospital",-32.98286,27.90592,"SPECIALISED CHRONIC HOSPITAL",e41a1c
+"Newlands Clinic",-32.878094,27.749394,CLINIC,e41a1c
+"Newtown Clinic",-32.77402,26.61334,CLINIC,e41a1c
+"NG Dlukulu Clinic",-33.278795,26.578084,CLINIC,e41a1c
+"Ngangelizwe CHC",-31.601755,28.799664,CHC,e41a1c
+"Ngcengane Clinic",-31.537643,28.604193,CLINIC,e41a1c
+"Ngceza Clinic",-31.97469,27.734427,CLINIC,e41a1c
+"Ngcobo CHC",-31.680584,28.011146,CLINIC,e41a1c
+"Ngcolora Clinic",-31.323777,28.89105,CLINIC,e41a1c
+"Ngcoya Clinic",-31.388419,29.336355,CLINIC,e41a1c
+"Ngcwanguba CHC",-31.919521,29.032402,CHC,e41a1c
+"Ngonyama CHC",-31.668153,26.935397,CHC,e41a1c
+"Ngqungqu Clinic",-31.865403,28.817595,CLINIC,e41a1c
+"Ngqusi Clinic",-32.489181,28.402078,CLINIC,e41a1c
+"Ngqwarha Clinic",-31.75998,28.75174,CLINIC,e41a1c
+"Ngqwaru Clinic",-31.871563,27.849559,CLINIC,e41a1c
+"Ngqwele Clinic",-32.904812,27.217804,CLINIC,e41a1c
+"Ngwemnyama Clinic",-31.25479,29.016491,CLINIC,e41a1c
+"Ngwenya Clinic",-31.949028,28.76685,CLINIC,e41a1c
+"Ngxabangu Clinic",-31.845464,27.610413,CLINIC,e41a1c
+"Ngxaza Clinic",-31.214288,28.506984,CLINIC,e41a1c
+"Nier Clinic",-33.357943,27.243964,CLINIC,e41a1c
+"Nieu-Bethesda Clinic",-31.866433,24.563037,CLINIC,e41a1c
+"Njwaxa Clinic",-32.8728,26.9056,CLINIC,e41a1c
+"Nkanga Clinic",-31.46512,29.173588,CLINIC,e41a1c
+"Nkanunu Clinic",-31.760938,29.218386,CLINIC,e41a1c
+"Nkanya Clinic",-32.158091,28.957965,CLINIC,e41a1c
+"Nkozo Clinic",-31.201744,29.429369,CLINIC,e41a1c
+"Nomonde Clinic",-31.385671,26.359538,CLINIC,e41a1c
+"Nkqubela Hospital",-32.93284,27.74088,"SPECIALISED TB HOSPITAL",e41a1c
+"Nkumandeni Clinic",-31.73017,29.04818,CLINIC,e41a1c
+"Nkwenkwana Clinic",-31.77252,28.209782,CLINIC,e41a1c
+"Nkwenkwezi Clinic",-33.577391,26.892501,CLINIC,e41a1c
+"Nobuhle NU 8 Clinic",-32.940955,27.725112,CLINIC,e41a1c
+"Nolita Clinic",-31.700004,28.946166,CLINIC,e41a1c
+"Nolukhanyo Clinic",-33.493656,26.831371,CLINIC,e41a1c
+"Nomakhwezi Makhenyane Clinic",-32.69297,26.31339,CLINIC,e41a1c
+"Nomangesi Jayiya Clinic",-33.820734,25.38441,CLINIC,e41a1c
+"Nompumelelo (Peddie) Hospital",-33.20921,27.13244,"DISTRICT HOSPITAL",e41a1c
+"Nompumelelo Clinic",-31.471441,27.347688,CLINIC,e41a1c
+"Nomzamo CHC",-31.917153,26.950525,CHC,e41a1c
+"Noncampa Clinic",-32.907172,27.29937,CLINIC,e41a1c
+"Nontsikelelo Biko Clinic",-31.473275,28.908798,CLINIC,e41a1c
+"Nontyatyambo CHC",-32.940608,27.757677,CHC,e41a1c
+"Norah Clinic",-33.227757,27.308463,CLINIC,e41a1c
+"Nozuko Clinic",-32.323487,28.16784,CLINIC,e41a1c
+"Nqabara Clinic",-32.247098,28.720745,CLINIC,e41a1c
+"Nqabeni Clinic",-32.118704,28.58487,CLINIC,e41a1c
+"Nqadu 2 Satellite Clinic",-32.21347,28.3782,CLINIC,e41a1c
+"Nqadu Clinic (Mbhashe)",-32.234666,28.420523,CLINIC,e41a1c
+"Nqamakwe CHC",-32.208453,27.935438,CHC,e41a1c
+"Nqancule Clinic",-32.35216,27.79323,CLINIC,e41a1c
+"Nqanda A Clinic",-31.77641,28.921562,CLINIC,e41a1c
+"Nququ Clinic",-31.811801,27.613181,CLINIC,e41a1c
+"Nqwathi Clinic",-31.709828,28.3584,CLINIC,e41a1c
+"Ntaba ka Ndoda Clinic",-32.818218,27.106801,CLINIC,e41a1c
+"Ntafufu Clinic",-31.497477,29.527565,CLINIC,e41a1c
+"Ntapane Clinic",-31.593458,28.847086,CLINIC,e41a1c
+"Ntibane Clinic",-31.79009,29.159185,CLINIC,e41a1c
+"Ntlabeni Clinic",-30.737944,28.920331,CLINIC,e41a1c
+"Ntlangaza Clinic",-31.827173,28.871813,CLINIC,e41a1c
+"Ntlenzi Clinic",-30.950476,29.612867,CLINIC,e41a1c
+"Ntlola Clinic",-30.594405,29.084319,CLINIC,e41a1c
+"Ntseshe Clinic",-32.09424,28.09913,CLINIC,e41a1c
+"Ntshabeni Clinic",-31.538955,28.692287,CLINIC,e41a1c
+"Ntshele Clinic",-31.67264,28.722022,CLINIC,e41a1c
+"Gcinokuhle Clinic",-30.25716,30.10782,CLINIC,e41a1c
+"Ntshentshe Clinic",-30.707612,29.535137,CLINIC,e41a1c
+"Ntshingeni Clinic",-32.048493,27.425382,CLINIC,e41a1c
+"Ntsimba Clinic",-31.859216,28.218207,CLINIC,e41a1c
+"Orsmond TB Hospital",-33.747537,25.381374,"SPECIALISED TB HOSPITAL",e41a1c
+"Port Alfred Hospital",-33.595282,26.884317,"DISTRICT HOSPITAL",e41a1c
+"Port Elizabeth Provincial Hospital",-33.957052,25.597672,"TERTIARY HOSPITAL",e41a1c
+"PZ Meyer Hospital",-34.022949,24.757935,"SPECIALISED TB HOSPITAL",e41a1c
+"SAWAS Memorial (Jansenville)
+Hospital",-32.941457,24.663282,"DISTRICT HOSPITAL",e41a1c
+"Settlers Day Hospital",-33.307725,26.532283,CHC,e41a1c
+"Settlers Hospital",-33.302811,26.51781,"DISTRICT HOSPITAL",e41a1c
+"Sipetu Hospital",-31.091683,29.186149,"DISTRICT HOSPITAL",e41a1c
+"SS Gida Hospital",-32.67458,27.1435,"DISTRICT HOSPITAL",e41a1c
+"St Barnabas Hospital",-31.565208,29.117353,"DISTRICT HOSPITAL",e41a1c
+"St Elizabeth's Hospital",-31.359015,29.566687,"DISTRICT HOSPITAL",e41a1c
+"St Francis Hospital",-30.691221,26.694036,"SPECIALISED CHRONIC HOSPITAL",e41a1c
+"St Lucy's Hospital",-31.297475,28.631337,"DISTRICT HOSPITAL",e41a1c
+"St Patrick's Hospital",-30.863285,29.854665,"DISTRICT HOSPITAL",e41a1c
+"Kwambiza Clinic",-28.553239,31.643715,CLINIC,e41a1c
+"Sterkstroom Hospital",-31.55323,26.554269,"DISTRICT HOSPITAL",e41a1c
+"Steynsburg Hospital",-31.294032,25.814894,"DISTRICT HOSPITAL",e41a1c
+"Stutterheim Hospital",-32.56883,27.42256,"DISTRICT HOSPITAL",e41a1c
+"Sundays Valley (Kirkwood) Hospital",-33.394723,25.440339,"DISTRICT HOSPITAL",e41a1c
+"Tafalofefe Hospital",-32.429283,28.473167,"DISTRICT HOSPITAL",e41a1c
+"Tayler Bequest Hospital (Matatiele)",-30.347181,28.821537,"DISTRICT HOSPITAL",e41a1c
+"Taylor Bequest Hospital (Elundini)",-30.689528,28.510369,"DISTRICT HOSPITAL",e41a1c
+"Temba TB Hospital",-33.309938,26.550712,"SPECIALISED TB HOSPITAL",e41a1c
+"Tower Hospital",-32.77024,26.63678,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Uitenhage Hospital",-33.742323,25.405996,"DISTRICT HOSPITAL",e41a1c
+"Umlamli Hospital",-30.549714,27.467215,"DISTRICT HOSPITAL",e41a1c
+"Victoria Hospital",-32.77527,26.84678,"DISTRICT HOSPITAL",e41a1c
+"Wilhelm Stahl (Middelburg) Hospital",-31.49173,24.99351,"DISTRICT HOSPITAL",e41a1c
+"Willowmore Hospital",-33.300296,23.477751,"DISTRICT HOSPITAL",e41a1c
+"Winterberg TB Hospital",-32.77916,26.65807,"SPECIALISED TB HOSPITAL",e41a1c
+"Zitulele Hospital",-32.049093,29.059165,"DISTRICT HOSPITAL",e41a1c
+"Albert Luthuli Memorial Clinic",-27.8362,26.3668,CLINIC,e41a1c
+"Allanridge Clinic",-27.753573,26.644775,CLINIC,e41a1c
+"AM Kruger Clinic",-27.87308,26.68533,CLINIC,e41a1c
+"Bainsvlei Clinic",-29.0645,26.12987,CLINIC,e41a1c
+"Bakenpark Clinic",-28.218708,28.334062,CLINIC,e41a1c
+"Batho Clinic",-29.13897,26.22728,CLINIC,e41a1c
+"Bayswater Clinic",-29.08478,26.24407,CLINIC,e41a1c
+"Bethlehem Clinic",-28.233707,28.306156,CLINIC,e41a1c
+"Bloemspruit Clinic",-29.13732,26.27142,CLINIC,e41a1c
+"Blue Gum Bush Clinic",-28.48243,28.848706,CLINIC,e41a1c
+"Bohlokong Clinic",-28.224197,28.316085,CLINIC,e41a1c
+"Boiketlo Clinic",-28.549663,28.825995,CLINIC,e41a1c
+"Boithusong Clinic",-27.85522,26.76047,CLINIC,e41a1c
+"Boitumelo (Senekal) Clinic",-28.34366,27.631297,CLINIC,e41a1c
+"Boitumelo Hospital",-27.644355,27.213199,"REGIONAL HOSPITAL",e41a1c
+"Bolata Clinic",-28.563647,28.795654,CLINIC,e41a1c
+"Bongani Hospital",-27.95315,26.7862,"REGIONAL HOSPITAL",e41a1c
+"Bophelong (Allanridge) Clinic",-27.777146,26.657327,CLINIC,e41a1c
+"Bophelong (Botshabelo) Clinic",-29.2778,26.73307,CLINIC,e41a1c
+"Bophelong (Kroonstad) Clinic",-27.634798,27.189161,CLINIC,e41a1c
+"Bophelong (Odendaalsrus) Clinic",-27.85918,26.77652,CLINIC,e41a1c
+"Bophelong (Petrusburg) CHC",-29.118907,25.417967,CHC,e41a1c
+"Bophelong (Vrede) Clinic",-27.418329,29.173639,CLINIC,e41a1c
+"Bophelong (Welkom) Clinic",-27.969,26.83533,CLINIC,e41a1c
+"Borwa Clinic",-29.19623,27.03003,CLINIC,e41a1c
+"Boshof Clinic",-28.55042,25.2516,CLINIC,e41a1c
+"Bothaville Clinic",-27.39253,26.61942,CLINIC,e41a1c
+"Botshabelo Hospital",-29.23222,26.7159,"DISTRICT HOSPITAL",e41a1c
+"Botshabelo Industrial Clinic",-29.20417,26.70412,CLINIC,e41a1c
+"Brentpark Clinic",-27.66853,27.1937,CLINIC,e41a1c
+"Bronville Clinic",-27.996618,26.812938,CLINIC,e41a1c
+"Central Park Clinic",-29.120731,26.22297,CLINIC,e41a1c
+"Chris de Wet Clinic",-29.11475,26.21535,CLINIC,e41a1c
+"Clocolan Clinic",-28.90981,27.57402,CLINIC,e41a1c
+"Daniel Ngatane Clinic",-29.22063,26.67047,CLINIC,e41a1c
+"Dealesville Clinic",-28.67175,25.76528,CLINIC,e41a1c
+"Deneysville Clinic",-26.89089,28.097169,CLINIC,e41a1c
+"Dewetsdorp One Stop Clinic",-29.58527,26.66885,CLINIC,e41a1c
+"Diamond/Diamant Hospital",-29.760438,25.423361,"DISTRICT HOSPITAL",e41a1c
+"Dihlabeng Hospital",-28.23317,28.3197,"REGIONAL HOSPITAL",e41a1c
+"Dinaane Clinic",-29.22735,26.831035,CLINIC,e41a1c
+"Dinkweng Clinic",-28.627989,28.896535,CLINIC,e41a1c
+"Dr JS Moroka Hospital",-29.20457,26.83458,"DISTRICT HOSPITAL",e41a1c
+"Dr Pedro Memorial Clinic",-29.20793,26.68177,CLINIC,e41a1c
+"Elizabeth Ross Hospital",-28.588888,28.817369,"DISTRICT HOSPITAL",e41a1c
+"Embekweni Hospital",-30.29215,27.07542,"DISTRICT HOSPITAL",e41a1c
+"Ethembeni Clinic",-29.393407,24.991504,CLINIC,e41a1c
+"Eva Mota Clinic",-28.633441,28.86853,CLINIC,e41a1c
+"Excelsior Clinic",-28.93298,27.0566,CLINIC,e41a1c
+"Fateng Tse Ntsho Clinic",-28.298987,27.967356,CLINIC,e41a1c
+"Fauna Clinic",-29.16553,26.18987,CLINIC,e41a1c
+"Fauresmith Clinic",-29.744624,25.309308,CLINIC,e41a1c
+"Fichardtpark Clinic",-29.14387,26.1818,CLINIC,e41a1c
+"Frankfort Clinic",-27.277835,28.492696,CLINIC,e41a1c
+"Free State Psychiatric Complex
+Hospital",-29.133855,26.209265,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Freedom Square Clinic",-29.17383,26.25365,CLINIC,e41a1c
+"Gaongalelwe Clinic",-29.168317,26.801011,CLINIC,e41a1c
+"Geneva Clinic",-27.850757,26.748439,CLINIC,e41a1c
+"Hani Park Clinic",-27.98719,26.82359,CLINIC,e41a1c
+"Harrismith Clinic",-28.272448,29.126816,CLINIC,e41a1c
+"Harry Gwala (Botshabelo) Clinic",-29.287732,26.711908,CLINIC,e41a1c
+"Harry Gwala (Sasolburg) Clinic",-26.850036,27.878969,CLINIC,e41a1c
+"Heidedal CHC",-29.138897,26.245611,CHC,e41a1c
+"Heilbron Clinic",-27.292016,27.967882,CLINIC,e41a1c
+"Hennenman Clinic",-27.9724,27.01997,CLINIC,e41a1c
+"Highway Junction Clinic",-28.28852,29.13155,CLINIC,e41a1c
+"Hill Street Clinic",-27.662993,27.239978,CLINIC,e41a1c
+"Hlohlolwane Clinic",-28.911489,27.551651,CLINIC,e41a1c
+"Hobhouse Clinic",-29.521429,27.147254,CLINIC,e41a1c
+"Hoopstad Clinic",-27.83235,25.91473,CLINIC,e41a1c
+"Hope CHC",-28.0817,27.14397,CHC,e41a1c
+"Hydropark Clinic",-30.59,25.49,CLINIC,e41a1c
+"Ikaheng Clinic",-29.16813,27.45985,CLINIC,e41a1c
+"Ikgomotseng Clinic",-28.736356,26.1049,CLINIC,e41a1c
+"Intabazwe Clinic",-28.252575,29.096992,CLINIC,e41a1c
+"Itemoheng Hospital",-28.32745,27.606695,"DISTRICT HOSPITAL",e41a1c
+"Itumeleng (Botshabelo) Clinic",-29.2854,26.71965,CLINIC,e41a1c
+"Itumeleng (Clarens) Clinic",-28.522482,28.421194,CLINIC,e41a1c
+"Itumeleng (Jagersfontein) Clinic",-29.767032,25.434632,CLINIC,e41a1c
+"Jacobsdal Clinic",-29.13003,24.771692,CLINIC,e41a1c
+"Jazzman Mokhothu Clinic",-29.25728,26.7139,CLINIC,e41a1c
+"John Daniel Newberry Hospital",-28.910094,27.573522,"DISTRICT HOSPITAL",e41a1c
+"K-Maile Clinic",-27.38379,26.65739,CHC,e41a1c
+"Kagisanong Clinic",-29.19625,26.24503,CLINIC,e41a1c
+"Kamohelo Clinic",-28.531027,27.001763,CLINIC,e41a1c
+"Kananelo CHC",-27.004423,27.368437,CLINIC,e41a1c
+"Katleho Hospital",-28.11057,26.85798,"DISTRICT HOSPITAL",e41a1c
+"Kgalala Clinic",-28.98888,26.80427,CLINIC,e41a1c
+"Kganya CHC",-27.23415,27.58748,CHC,e41a1c
+"Kgotso Clinic",-27.23415,27.58748,CHC,e41a1c
+"Kgotsong (Bothaville) Clinic",-27.3902,26.64423,CLINIC,e41a1c
+"Kgotsong (Welkom) Clinic",-27.97002,26.8207,CLINIC,e41a1c
+"Khotalong Clinic",-28.13183,26.90292,CLINIC,e41a1c
+"Klipfontein Clinic",-29.22954,26.983125,CLINIC,e41a1c
+"Kokelong Clinic",-28.67794,27.413882,CLINIC,e41a1c
+"Kopanong Clinic",-28.331488,28.698387,CLINIC,e41a1c
+"Ladybrand Clinic",-29.19107,27.45902,CLINIC,e41a1c
+"Langenhovenpark Clinic",-29.0978,26.15587,CLINIC,e41a1c
+"Lebohang Clinic",-29.72055,27.02715,CLINIC,e41a1c
+"Lephoi Clinic",-30.504777,25.975274,CLINIC,e41a1c
+"Leratong Clinic",-27.780743,26.657483,CLINIC,e41a1c
+"Leratswana Clinic",-28.027951,27.843851,CLINIC,e41a1c
+"Lesedi CHC",-27.640864,27.192192,CHC,e41a1c
+"Lesedi Clinic",-28.247847,29.105476,CLINIC,e41a1c
+"Leseding Clinic",-27.882066,27.90761,CLINIC,e41a1c
+"Lindley Clinic",-27.881338,27.915887,CLINIC,e41a1c
+"Lourierpark Clinic",-29.17788,26.17435,CLINIC,e41a1c
+"Luckhoff Clinic",-29.749866,24.786245,CLINIC,e41a1c
+"Lusaka Clinic",-28.4166777,26.697845,CLINIC,e41a1c
+"Ma-haig Clinic",-28.519185,28.801373,CLINIC,e41a1c
+"Mafane Clinic",-29.19897,26.81338,CLINIC,e41a1c
+"Mafube Hospital",-27.278414,28.50022,"DISTRICT HOSPITAL",e41a1c
+"Makeneng Clinic",-28.614535,28.821457,CLINIC,e41a1c
+"Makhalaneng Clinic",-28.550874,28.791306,CLINIC,e41a1c
+"Makoane Clinic",-28.534665,28.88815,CLINIC,e41a1c
+"Malesaona Clinic",-28.559901,28.720753,CLINIC,e41a1c
+"Maletsatsi Mabaso Clinic",-29.25477,26.73198,CLINIC,e41a1c
+"Mamello CHC",-28.66682,27.42652,CHC,e41a1c
+"Mamello Clinic",-30.027177,25.779371,CLINIC,e41a1c
+"Mantsopa Hospital",-29.202793,27.44822,"DISTRICT HOSPITAL",e41a1c
+"Manyatseng Clinic",-29.1724,27.4656,CLINIC,e41a1c
+"Marakong Clinic",-28.564801,28.84733,CLINIC,e41a1c
+"Marantha Clinic",-28.68743,26.462688,CLINIC,e41a1c
+"Masebabatso Clinic",-28.904297,27.882939,CLINIC,e41a1c
+"Masilo Clinic",-28.40988,26.70712,CLINIC,e41a1c
+"Matjhabeng Clinic",-27.96738,26.79838,CHC,e41a1c
+"Matlakeng Clinic",-30.295436,27.094157,CLINIC,e41a1c
+"Matsieng Clinic",-28.601827,28.800597,CLINIC,e41a1c
+"Matwabeng Clinic",-28.344392,27.628512,CLINIC,e41a1c
+"Mauersnek Clinic",-29.19032,27.43953,CLINIC,e41a1c
+"Meloding Clinic",-28.129962,26.897981,CLINIC,e41a1c
+"Memel Clinic",-27.677704,29.563683,CLINIC,e41a1c
+"Meqheleng Clinic",-28.889958,27.877124,CLINIC,e41a1c
+"Metsimaholo Clinic",-26.979165,28.210984,CLINIC,e41a1c
+"Metsimaholo Hospital",-26.803029,27.82768,"DISTRICT HOSPITAL",e41a1c
+"Mmabana Clinic",-29.15072,26.24172,CLINIC,e41a1c
+"Mmamahabane Clinic",-28.09173,27.14768,CLINIC,e41a1c
+"Mofumahadi Manapo Mopeli
+Hospital",-28.535926,28.805358,"REGIONAL HOSPITAL",e41a1c
+"Mohau Hospital",-27.83235,25.91538,"DISTRICT HOSPITAL",e41a1c
+"Mokwena Clinic",-29.19323,26.840959,CLINIC,e41a1c
+"Molefi Tau Clinic",-29.21092,26.71927,CLINIC,e41a1c
+"Monontsha Clinic",-28.565432,28.744397,CLINIC,e41a1c
+"Mphatlalatsane Clinic",-28.509611,28.836869,CLINIC,e41a1c
+"Mphohadi Clinic",-28.197995,28.325645,CLINIC,e41a1c
+"MUCPP CHC",-29.17923,26.24293,CHC,e41a1c
+"Nala Hospital",-27.39465,26.61783,"DISTRICT HOSPITAL",e41a1c
+"Namahali Clinic",-28.583799,28.829549,CLINIC,e41a1c
+"National Hospital",-29.12721,26.20619,"DISTRICT HOSPITAL",e41a1c
+"National Hospital Gateway Clinic",-29.12818,26.20703,CLINIC,e41a1c
+"Nelson Mandela Clinic",-29.73105,25.94157,CLINIC,e41a1c
+"Nketoana Hospital",-27.802701,28.419555,"DISTRICT HOSPITAL",e41a1c
+"Nothnagel Clinic",-28.676592,27.420239,CLINIC,e41a1c
+"Nthabiseng Clinic",-28.5908,28.78217,CLINIC,e41a1c
+"Opkoms Clinic",-29.14452,26.25227,CLINIC,e41a1c
+"Oppermansgronde Clinic",-29.413521,24.744904,CLINIC,e41a1c
+"OR Tambo Clinic",-28.149773,26.887343,CLINIC,e41a1c
+"Paballong Clinic",-28.555154,28.776782,CLINIC,e41a1c
+"Parys Clinic",-26.899327,27.457071,CLINIC,e41a1c
+"Parys Hospital",-26.895794,27.471882,"DISTRICT HOSPITAL",e41a1c
+"Paul Roux Clinic",-28.296049,27.955559,CLINIC,e41a1c
+"PAX CHC",-27.189062,26.949769,CHC,e41a1c
+"Pelonomi Hospital",-29.14269,26.2442,"REGIONAL HOSPITAL",e41a1c
+"Petsana Clinic",-27.804,28.44652,CLINIC,e41a1c
+"Phahameng (Bultfontein) Clinic",-28.3007,26.14848,CLINIC,e41a1c
+"Phahameng (Frankfort) Clinic",-27.256396,28.513955,CLINIC,e41a1c
+"Phedisanang Clinic",-27.739655,26.0214712,CLINIC,e41a1c
+"Phedisong Clinic",-27.02127,28.627973,CLINIC,e41a1c
+"Phekolong (Cornelia) Clinic",-27.228481,28.850725,CLINIC,e41a1c
+"Phekolong (Reddersburg) Clinic",-29.652603,26.166094,CLINIC,e41a1c
+"Phekolong Hospital",-28.217734,28.327426,"DISTRICT HOSPITAL",e41a1c
+"Phetogo Clinic",-29.36777,26.8368,CLINIC,e41a1c
+"Philani Clinic",-27.267877,28.504511,CLINIC,e41a1c
+"Philippolis Clinic",-30.266309,25.274863,CLINIC,e41a1c
+"Phomolong (Ficksburg) Clinic",-28.89358,27.882392,CLINIC,e41a1c
+"Phomolong (Hennenman) Clinic",-28.014,27.08118,CLINIC,e41a1c
+"Phumelela Hospital",-27.433556,29.155569,"DISTRICT HOSPITAL",e41a1c
+"Phuthaditjhaba Clinic",-28.520245,28.820617,CLINIC,e41a1c
+"Phuthuloha Hospital",-28.881586,27.87173,"DISTRICT HOSPITAL",e41a1c
+"Potlako Motlohi Clinic",-29.27168,26.72317,CLINIC,e41a1c
+"Pule Sefatsa Clinic",-29.26142,26.69123,CLINIC,e41a1c
+"Qalabotjha Clinic",-27.014431,28.616206,CLINIC,e41a1c
+"Qholaqhwe Clinic",-28.522866,28.855073,CLINIC,e41a1c
+"Rainbow Clinic",-27.553707,28.513282,CLINIC,e41a1c
+"Rammulotsi Clinic",-27.195411,26.953781,CLINIC,e41a1c
+"Rearabetsoe (Virginia) Clinic",-28.062362,26.864448,CLINIC,e41a1c
+"Rearabetswe Clinic",-27.65412,28.128079,CLINIC,e41a1c
+"Refengkgotso Clinic",-26.893497,28.07193,CLINIC,e41a1c
+"Reitumetse Clinic",-28.620655,28.195531,CLINIC,e41a1c
+"Reitz Clinic",-27.80303,28.41965,CLINIC,e41a1c
+"Relebohile (Heilbron) Clinic",-27.271558,27.975467,CLINIC,e41a1c
+"Relebohile (Rosendal) Clinic",-28.509234,27.923094,CLINIC,e41a1c
+"Relebohile (Vredefort) Clinic",-27.001756,27.376143,CLINIC,e41a1c
+"Rheederspark Clinic",-27.95453,26.72002,CLINIC,e41a1c
+"Riebeeckstad Clinic",-27.93358,26.81187,CLINIC,e41a1c
+"Riverside Clinic",-28.543744,28.81292,CLINIC,e41a1c
+"Sandersville Clinic",-27.274955,27.96499,CLINIC,e41a1c
+"Sasolburg Clinic",-26.81798,27.8277,CLINIC,e41a1c
+"Schonkenville Clinic",-26.933283,27.462363,CLINIC,e41a1c
+"Seadimo Clinic",-29.10045,26.9845,CLINIC,e41a1c
+"Sediba Clinic",-29.02893,26.94302,CLINIC,e41a1c
+"Sedibeng sa Bophelo Clinic",-27.945436,27.553952,CLINIC,e41a1c
+"Seeisoville Clinic",-27.653929,27.210549,CLINIC,e41a1c
+"Sehularo Tau Clinic",-30.261882,25.714614,CLINIC,e41a1c
+"Sekamotho Mota Clinic",-28.648787,28.85226,CLINIC,e41a1c
+"Senekal Clinic",-28.322917,27.619398,CLINIC,e41a1c
+"Sizabantu Clinic",-27.266284,27.977631,CLINIC,e41a1c
+"Soetwater Clinic",-28.874965,27.875909,CLINIC,e41a1c
+"Stoffel Coetzee Hospital",-30.223197,26.523206,"DISTRICT HOSPITAL",e41a1c
+"Tebang Clinic",-28.525901,28.872349,CLINIC,e41a1c
+"Thaba Bosiu Clinic",-28.598146,28.883338,CLINIC,e41a1c
+"Thaba Nchu Clinic",-29.21871,26.848073,CLINIC,e41a1c
+"Thaba Phatswa Clinic",-29.312954,27.124904,CLINIC,e41a1c
+"Thabang Clinic",-28.609871,28.829767,CLINIC,e41a1c
+"Thabong Clinic",-27.96402,26.79163,"DISTRICT HOSPITAL",e41a1c
+"Thebe Hospital",-28.271947,29.13666,"DISTRICT HOSPITAL",e41a1c
+"Thembalethu Clinic",-30.212867,26.536054,CLINIC,e41a1c
+"Thusa Bophelo Clinic",-27.835895,28.978066,CLINIC,e41a1c
+"Thusanang (Sasolburg) Clinic",-26.845085,27.864598,CLINIC,e41a1c
+"Thusanong (Kroonstad) Clinic",-27.648774,27.19018,CLINIC,e41a1c
+"Thusanong (Parys) Clinic",-26.919767,27.48572,CLINIC,e41a1c
+"Thusanong Hospital",-27.87735,26.65922,"DISTRICT HOSPITAL",e41a1c
+"Thusong Clinic",-29.18472,26.23462,CLINIC,e41a1c
+"Tiger River Clinic",-29.12047,26.78943,CLINIC,e41a1c
+"Tina Moloi Clinic",-28.609704,28.85617,CLINIC,e41a1c
+"Tokollo Hospital",-27.289189,27.961691,"DISTRICT HOSPITAL",e41a1c
+"TS Mahloko Clinic",-29.24308,26.71661,CLINIC,e41a1c
+"Tsatsi SPS Clinic",-26.844407,27.855738,CLINIC,e41a1c
+"Tseki Clinic",-28.585681,28.772019,CLINIC,e41a1c
+"Tshepong (Kroonstad) Clinic",-27.638847,27.174082,CLINIC,e41a1c
+"Tshepong (Verkeerdevlei) Clinic",-28.8401,26.76212,CLINIC,e41a1c
+"Tshepong (Welkom) Clinic",-27.95773,26.83607,CLINIC,e41a1c
+"Tshirela Clinic",-28.622886,28.804302,CLINIC,e41a1c
+"Tshwaraganang (Hertzogville) Clinic",-28.12308,25.49985,CLINIC,e41a1c
+"Tumahole Clinic",-26.916282,27.467778,CLINIC,e41a1c
+"Tweefontein Clinic",-29.37017,26.92562,CLINIC,e41a1c
+"Tweespruit Clinic",-29.185178,27.029634,CLINIC,e41a1c
+"Universitas (C) Hospital",-29.116587,26.183746,"CENTRAL HOSPITAL",e41a1c
+"Vaal Rock Clinic",-28.68152,26.46135,CLINIC,e41a1c
+"Vanstadensrus Clinic",-29.9852,27.0136,CLINIC,e41a1c
+"Villiers Clinic",-27.028574,28.59694,CLINIC,e41a1c
+"Virginia Clinic",-28.10762,26.86413,CLINIC,e41a1c
+"Vrede Clinic",-27.434361,29.155285,CLINIC,e41a1c
+"Welkom Clinic",-27.98545,26.7414,CLINIC,e41a1c
+"Westdene Clinic",-29.10278,26.20763,CLINIC,e41a1c
+"Winburg Clinic",-28.52991,26.99409,CHC,e41a1c
+"Winburg Hospital",-28.5098,27.00802,"DISTRICT HOSPITAL",e41a1c
+"Winnie Mandela (Botshabelo) Clinic",-29.21828,26.70333,CLINIC,e41a1c
+"Winnie Mandela (Rouxville) Clinic",-30.407733,26.830899,CLINIC,e41a1c
+"Zamani Clinic",-27.66872,29.56125,CLINIC,e41a1c
+"Zamdela CHC",-26.842064,27.846088,CHC,e41a1c
+"17 Esselen Street Clinic",-26.190896,28.044939,CLINIC,e41a1c
+"4th Avenue Clinic",-26.1051,28.09007,CLINIC,e41a1c
+"80 Albert Street Clinic",-26.208026,28.049984,CLINIC,e41a1c
+"Adelaide Tambo Clinic",-25.58195,28.23326,CLINIC,e41a1c
+"Albertina Sisulu Clinic",-26.57697,27.84864,CLINIC,e41a1c
+"Alberton North Clinic",-26.259778,28.128664,CLINIC,e41a1c
+"Alexandra 8th Avenue Clinic",-26.109772,28.096131,CLINIC,e41a1c
+"Alexandra CHC",-26.116169,28.090625,CHC,e41a1c
+"Alexandra East Bank Clinic",-26.106843,28.11028,CLINIC,e41a1c
+"Alra Park Clinic",-26.432645,28.508218,CLINIC,e41a1c
+"Andries Raditsela Clinic",-26.33434,28.38866,CLINIC,e41a1c
+"Atteridgeville Clinic",-25.76861,28.07841,CLINIC,e41a1c
+"Azaadville Clinic",-26.17092,27.75829,CLINIC,e41a1c
+"Badirile Clinic",-26.13027,27.59278,CLINIC,e41a1c
+"Barcelona Clinic",-26.109221,28.452586,CLINIC,e41a1c
+"Barney Molokoane Clinic",-26.492298,27.878977,CLINIC,e41a1c
+"Bedfordview Clinic",-26.178856,28.134833,CLINIC,e41a1c
+"Bekkersdal East Clinic",-26.28345,27.70399,CLINIC,e41a1c
+"Bekkersdal West CHC",-26.28619,27.6974,CHC,e41a1c
+"Berario Clinic",-26.136176,27.953049,CLINIC,e41a1c
+"Beverly Hills Clinic",-26.54248,27.82381,CLINIC,e41a1c
+"Bezvalley Clinic",-26.186704,28.088153,CLINIC,e41a1c
+"Birchleigh Clinic",-26.067763,28.228115,CLINIC,e41a1c
+"Birchleigh North Clinic",-26.052617,28.22992,CLINIC,e41a1c
+"Blybank Satellite Clinic",-26.342542,27.472684,"SATELLITE CLINIC",e41a1c
+"Blyvooruitsig Clinic",-26.39638,27.37695,CLINIC,e41a1c
+"Boekenhout CHC",-25.541304,28.301457,CLINIC,e41a1c
+"Boikhutsong Clinic",-25.44835,28.1125,CLINIC,e41a1c
+"Boipatong CHC",-26.67216,27.84787,CHC,e41a1c
+"Boitumelo Clinic",-26.56237,27.82432,CLINIC,e41a1c
+"Boksburg Civic Centre Clinic",-26.222354,28.251016,CLINIC,e41a1c
+"Boksburg North Clinic",-26.208984,28.252593,CLINIC,e41a1c
+"Bonaero Park Clinic",-26.119863,28.256042,CLINIC,e41a1c
+"Bophelong (Region 2) Clinic",-26.004592,28.190368,CLINIC,e41a1c
+"Bophelong (Region 6) Clinic",-26.24417,27.80778,CLINIC,e41a1c
+"Bophelong (Region B) CDC",-26.6939,27.79729,CDC,e41a1c
+"Bophelong (Region C) Clinic",-25.77192,28.0534,CLINIC,e41a1c
+"Bosmont Clinic",-26.189144,27.957303,CLINIC,e41a1c
+"Brackenhurst Clinic",-26.31419,28.097271,CLINIC,e41a1c
+"Bristlecone Clinic",-26.450595,27.856613,CLINIC,e41a1c
+"Bronkhorstspruit Clinic",-25.809217,28.743217,CLINIC,e41a1c
+"Calcot Dhlephu Clinic",-26.376669,28.378194,CLINIC,e41a1c
+"Carletonville Central Clinic",-26.35791,27.39726,CLINIC,e41a1c
+"Carletonville hospital",-26.34704,27.39446,"DISTRICT HOSPITAL",e41a1c
+"Charlotte Maxeke Hospital",-26.176728,28.044255,"CENTRAL HOSPITAL",e41a1c
+"Chiawelo CHC",-26.279299,27.865437,CHC,e41a1c
+"Chief Albert Luthuli Clinic",-26.158635,28.387513,CLINIC,e41a1c
+"Chris Hani Baragwanath Hospital",-26.260553,27.943919,"CENTRAL HOSPITAL",e41a1c
+"Claremont Clinic",-26.178211,27.955838,CLINIC,e41a1c
+"Crosby Clinic",-26.1926,27.989892,CLINIC,e41a1c
+"Crown Gardens Clinic",-26.24917,28.00458,CLINIC,e41a1c
+"Crystal Park Clinic",-26.137101,28.370709,CLINIC,e41a1c
+"Cullinan Rehabilitation Hospital",-25.691202,28.538929,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Dan Kubheka Clinic",-26.187793,28.394479,CLINIC,e41a1c
+"Danville Clinic",-25.74772,28.13359,CLINIC,e41a1c
+"Dark City CHC",-25.674777,28.726485,CHC,e41a1c
+"Daspoort Poli Clinic",-25.71389,28.13167,CLINIC,e41a1c
+"Daveyton East Clinic",-26.134454,28.439658,CLINIC,e41a1c
+"Daveyton Ext Clinic",-26.075501,28.261911,CLINIC,e41a1c
+"Davidsonville Clinic",-26.154778,27.848818,CLINIC,e41a1c
+"Dawn Park Clinic",-26.306469,28.257654,CLINIC,e41a1c
+"De Wagensdrift Satellite Clinic",-25.3051,28.3141,CLINIC,e41a1c
+"Diepkloof LA Clinic",-26.237208,27.946145,CLINIC,e41a1c
+"Diepkloof Prov Clinic",-26.240192,27.94776,CLINIC,e41a1c
+"Diepsloot South Clinic",-25.93107,28.00507,CLINIC,e41a1c
+"Dilopye Clinic",-25.38296,28.19353,CLINIC,e41a1c
+"Discoverers CHC",-26.166661,27.894437,CHC,e41a1c
+"DMA Kromdraai Clinic",-25.98821,27.78312,CLINIC,e41a1c
+"Doornpoort Satellite Clinic",-25.6559,28.25141,"SATELLITE CLINIC",e41a1c
+"Dr George Mukhari Hospital",-25.61904,28.01216,"CENTRAL HOSPITAL",e41a1c
+"Dr Helga Kuhn Clinic",-26.49727,27.83708,CLINIC,e41a1c
+"Dr Ramirez Martinez Clinic",-26.07464,27.75266,CLINIC,e41a1c
+"Dr Yusuf Dadoo Gateway Clinic",-26.09934,27.78333,CLINIC,e41a1c
+"Dr Yusuf Dadoo Hospital",-26.09965,27.78386,"DISTRICT HOSPITAL",e41a1c
+"Dresser Clinic",-26.355038,28.135943,CLINIC,e41a1c
+"Driehoek Clinic",-26.72609,27.8462,CLINIC,e41a1c
+"Duduza Clinic",-26.373584,28.415497,CLINIC,e41a1c
+"Dukathole Clinic",-26.22604,28.190854,CLINIC,e41a1c
+"East Lynne Clinic",-25.70512,28.2846,CLINIC,e41a1c
+"Ebony Park / Kaalfontein Clinic",-25.994083,28.179631,CLINIC,e41a1c
+"Eden Park Clinic",-26.377001,28.125998,CLINIC,e41a1c
+"Edenvale Clinic",-26.134842,28.148708,CLINIC,e41a1c
+"Edenvale Hospital",-26.127921,28.128374,"REGIONAL HOSPITAL",e41a1c
+"Eersterust CHC",-25.71645,28.30801,CHC,e41a1c
+"Eikenhof LA Clinic",-26.334473,27.987362,CLINIC,e41a1c
+"Ekangala Clinic",-25.697721,28.752589,CLINIC,e41a1c
+"Elandsfontein Clinic",-26.26104,27.50366,CLINIC,e41a1c
+"Eldorado Park Ext 2 Clinic",-26.289298,27.921023,CLINIC,e41a1c
+"Eldorado Park Ext 9 Clinic",-26.299956,27.889738,CLINIC,e41a1c
+"Eldoraigne Satellite Clinic",-25.83591,28.14881,"SATELLITE CLINIC",e41a1c
+"Elias Motsoaledi Clinic",-26.21833,27.915648,CLINIC,e41a1c
+"Elsburg Clinic",-26.245744,28.200595,CLINIC,e41a1c
+"Empilisweni CDC",-26.547603,27.874382,CDC,e41a1c
+"Endayeni Clinic",-26.01958,28.191648,CLINIC,e41a1c
+"Ennerdale Ext 8 Clinic",-26.41318,27.81714,CLINIC,e41a1c
+"Ennerdale Ext 9 Clinic",-26.402729,27.831411,CLINIC,e41a1c
+"Eric Ndeleni Clinic",-26.19463,27.76829,CLINIC,e41a1c
+"Erin Clinic",-25.994213,28.223432,CLINIC,e41a1c
+"Esangweni CHC",-26.022075,28.201073,CHC,e41a1c
+"Ethafeni Clinic",-26.023504,28.214588,CLINIC,e41a1c
+"Evaton Main Clinic",-26.53166,27.866001,CLINIC,e41a1c
+"Eyethu Yarona Clinic",-25.990026,27.927247,CLINIC,e41a1c
+"Fanyana Nhlapo Clinic",-26.15222,27.78694,CLINIC,e41a1c
+"Far East Rand Hospital",-26.236265,28.4041,"REGIONAL HOSPITAL",e41a1c
+"FF Ribeiro Clinic",-25.74501,28.19489,CLINIC,e41a1c
+"Finetown Clinic",-26.414188,27.858217,CLINIC,e41a1c
+"First Avenue Clinic",-26.25051,28.444317,CLINIC,e41a1c
+"Florida Clinic",-26.171173,27.9128,CLINIC,e41a1c
+"Fochville Clinic",-26.48662,27.48767,CLINIC,e41a1c
+"Folang Clinic",-25.74971,28.174,CLINIC,e41a1c
+"Garankuwa View Clinic",-25.54823,27.98322,CLINIC,e41a1c
+"Gazankulu Clinic",-25.7808,28.05619,CLINIC,e41a1c
+"Geluksdal Clinic",-26.34236,28.361042,CLINIC,e41a1c
+"Germiston City Clinic",-26.217029,28.164254,CLINIC,e41a1c
+"Germiston Hospital",-26.218874,28.162948,"DISTRICT HOSPITAL",e41a1c
+"Glenanda Clinic",-26.271203,28.038483,CLINIC,e41a1c
+"Glenhavie Satellite Clinic",-26.38992,27.61567,CLINIC,e41a1c
+"Goba Clinic",-26.34235,28.15183,CLINIC,e41a1c
+"Green Village Porta Cabin Clinic",-26.236903,27.804849,CLINIC,e41a1c
+"Greenfields Clinic",-26.39655,28.125408,CLINIC,e41a1c
+"Greenspark Clinic",-26.49359,27.51478,CLINIC,e41a1c
+"Halfway House Clinic",-25.998816,28.128514,CLINIC,e41a1c
+"Hands of Compassion Clinic",-25.97402,27.91211,CLINIC,e41a1c
+"Heidelberg Clinic",-26.503774,28.351947,CLINIC,e41a1c
+"Heidelberg Hospital",-26.49873,28.357912,"DISTRICT HOSPITAL",e41a1c
+"Helderkruin Clinic",-26.13764,27.869461,CLINIC,e41a1c
+"Helen Joseph Hospital",-26.183916,27.99031,"REGIONAL HOSPITAL",e41a1c
+"Hercules Clinic",-25.712,28.1477,CLINIC,e41a1c
+"Hikhensile Clinic",-25.992591,28.204485,CLINIC,e41a1c
+"Hillbrow CHC",-26.19298,28.045768,CHC,e41a1c
+"Holani Clinic",-25.70436,28.37559,CLINIC,e41a1c
+"Itireleng (Region B) Clinic",-26.045024,28.178177,CLINIC,e41a1c
+"Itireleng CHC",-26.217873,27.871354,CHC,e41a1c
+"Itumeleng Clinic",-25.89636,27.60122,CLINIC,e41a1c
+"Jabavu/Vusabantu Clinic",-26.253394,27.871703,CLINIC,e41a1c
+"Jabulane Dumane CHC",-26.367295,28.218952,CHC,e41a1c
+"Jack Hindon Clinic",-25.66656,28.16902,CLINIC,e41a1c
+"Jameson Park Satellite Clinic",-26.45114,28.41774,CLINIC,e41a1c
+"Jan Maree Clinic",-26.09488,27.74743,CLINIC,e41a1c
+"Jeppe Clinic",-26.20617,28.06758,CLINIC,e41a1c
+"Jeppe Street Clinic",-26.20617,28.06758,CLINIC,e41a1c
+"Johan Deo Clinic",-26.60141,27.80894,CLINIC,e41a1c
+"Johan Heyns CHC",-26.70309,27.83411,CHC,e41a1c
+"Joubert Park Clinic",-26.195339,28.047911,CLINIC,e41a1c
+"Joy Clinic",-26.127526,28.463208,CLINIC,e41a1c
+"Jubilee Gateway Clinic",-25.40306,28.26582,CLINIC,e41a1c
+"Jubilee Hospital",-25.40306,28.26582,"DISTRICT HOSPITAL",e41a1c
+"Kalafong Hospital",-25.76277,28.08948,"REGIONAL HOSPITAL",e41a1c
+"Kameeldrift Clinic",-25.385717,28.181144,CLINIC,e41a1c
+"Kanana Clinic",-25.777576,28.606977,CLINIC,e41a1c
+"Karenpark Clinic",-25.67252,28.108,CLINIC,e41a1c
+"Katlehong North Clinic",-26.312632,28.155022,CLINIC,e41a1c
+"Kekana Gardens Clinic",-25.378319,28.308393,CLINIC,e41a1c
+"Kekanastad Clinic",-25.35872,28.245643,CLINIC,e41a1c
+"Kempton Park Civic Centre Clinic",-26.102079,28.226044,CLINIC,e41a1c
+"Kemston Clinic",-26.187678,28.313519,CLINIC,e41a1c
+"Kgabo CHC",-25.47034,28.05896,CHC,e41a1c
+"Khumalo Clinic",-26.383657,28.161972,CLINIC,e41a1c
+"Khutsong CHC",-26.34856,27.32663,CHC,e41a1c
+"Khutsong East Clinic",-26.31549,27.32437,CLINIC,e41a1c
+"Khutsong Ext 3 Clinic",-26.3417,27.30307,CLINIC,e41a1c
+"Khutsong South Clinic",-26.34764,27.33127,CLINIC,e41a1c
+"Kibler Park Clinic",-26.319342,28.008914,CLINIC,e41a1c
+"Kingsway Clinic",-26.23064,28.367171,CLINIC,e41a1c
+"Klipspruit West Clinic",-26.289288,27.881327,CLINIC,e41a1c
+"Klopper Park Clinic",-26.146835,28.197473,"SATELLITE CLINIC",e41a1c
+"Kocksoord Clinic",-26.2219,27.64601,CLINIC,e41a1c
+"Kokosi Clinic",-26.49437,27.46834,CLINIC,e41a1c
+"Kookrus Clinic",-26.58894,28.00349,CLINIC,e41a1c
+"Kopanong Hospital",-26.63793,27.93328,"DISTRICT HOSPITAL",e41a1c
+"Krugersdorp Central Clinic",-26.09939,27.76868,CLINIC,e41a1c
+"KT Motubatse Clinic",-25.58392,28.08917,CLINIC,e41a1c
+"Kwa-Thema CHC",-26.293768,28.39129,CHC,e41a1c
+"Laudium CHC",-25.78401,28.08798,CHC,e41a1c
+"Laudium Clinic",-25.78768,28.10701,CLINIC,e41a1c
+"Lawley 2 Clinic",-26.38272,27.80625,CLINIC,e41a1c
+"Lawley Clinic",-26.391423,27.81197,CLINIC,e41a1c
+"Lenasia Clinic",-26.314757,27.850776,CLINIC,e41a1c
+"Lenasia Ext 10 Clinic",-26.339735,27.872674,CLINIC,e41a1c
+"Lenasia Ext 2 Clinic",-26.32109,27.825311,CLINIC,e41a1c
+"Lenasia South CHC",-26.378414,27.850052,CHC,e41a1c
+"Lenasia South Civic Centre Clinic",-26.388664,27.862299,CLINIC,e41a1c
+"Leondale Clinic",-26.30198,28.18256,CLINIC,e41a1c
+"Leratong Hospital",-26.17133,27.80774,"REGIONAL HOSPITAL",e41a1c
+"Lethabong Clinic",-26.222561,28.296589,CLINIC,e41a1c
+"Levai Mbatha CHC",-26.53031,27.8441,CHC,e41a1c
+"Lillian Ngoyi CHC",-26.259523,27.934628,CHC,e41a1c
+"Lotus Gardens Clinic",-25.74521,28.0825,CLINIC,e41a1c
+"Lucky Mkhwanazi Clinic",-26.385464,28.415054,CLINIC,e41a1c
+"Luipaardsvlei Old Age Home",-26.12265,27.81323,CLINIC,e41a1c
+"Lyttelton Clinic",-25.83524,28.19466,CLINIC,e41a1c
+"Magagula Clinic",-26.427584,28.191513,CLINIC,e41a1c
+"Maki Legwete Clinic",-26.17901,27.78618,CLINIC,e41a1c
+"Malvern Clinic",-26.20163,28.11171,CLINIC,e41a1c
+"Mamelodi Hospital",-25.718854,28.368936,"DISTRICT HOSPITAL",e41a1c
+"Mamelodi West Clinic",-25.7142,28.3488,CLINIC,e41a1c
+"Mandela Sisulu Clinic",-26.235067,27.906046,CLINIC,e41a1c
+"Mandisa Shiceka Clinic",-25.40372,28.28567,CLINIC,e41a1c
+"Maria Rantho Clinic",-25.53899,28.10365,CLINIC,e41a1c
+"Market Avenue Clinic",-26.6737,27.92679,CLINIC,e41a1c
+"Mary Moodley Memorial Clinic",-26.213975,28.300647,CLINIC,e41a1c
+"Mayfair Clinic",-26.207251,28.01577,CLINIC,e41a1c
+"Mayibuye Clinic",-26.033668,28.171429,CLINIC,e41a1c
+"Meadowlands Zone 2 Prov Clinic",-26.219355,27.899035,CLINIC,e41a1c
+"Mercy Winterveldt NGO Clinic",-25.452144,28.059747,CLINIC,e41a1c
+"Michael Maponya Prov Clinic",-26.263189,27.908911,CLINIC,e41a1c
+"Mid Ennerdale Clinic",-26.413982,27.846871,CLINIC,e41a1c
+"Midrand West Clinic",-25.986831,28.11205,CLINIC,e41a1c
+"Midvaal CDC",-26.555816,28.016918,CDC,e41a1c
+"ML Pessen Clinic",-26.18229,27.70204,CLINIC,e41a1c
+"Mofolo CHC",-26.248316,27.884022,CHC,e41a1c
+"Mofolo South Clinic",-26.257724,27.886165,CLINIC,e41a1c
+"Mogale Clinic",-25.99729,27.5358,CLINIC,e41a1c
+"Mohlakeng CHC",-26.2213,27.69409,CHC,e41a1c
+"Moleleki Clinic",-26.384481,28.178108,CLINIC,e41a1c
+"Moroka Clinic",-26.261762,27.865939,CLINIC,e41a1c
+"Motsamai Clinic",-26.325499,28.162993,CLINIC,e41a1c
+"Mountain View Clinic",-26.431908,27.861698,CLINIC,e41a1c
+"Mpumelelo (Evaton North) Clinic",-26.51176,27.85491,CLINIC,e41a1c
+"Mpumelelo Clinic",-25.985886,28.208712,CLINIC,e41a1c
+"Muldersdrift Clinic",-26.0157,27.85714,CLINIC,e41a1c
+"Naledi Porta Cabin",-26.25998,27.82008,CLINIC,e41a1c
+"Natalspruit Hospital",-26.32597,28.145342,"REGIONAL HOSPITAL",e41a1c
+"Nellmapius Clinic",-25.73672,28.35031,CLINIC,e41a1c
+"New Eersterus Clinic",-25.40667,28.14467,CLINIC,e41a1c
+"Nigel Clinic",-26.418988,28.467894,CLINIC,e41a1c
+"Nokuphila Clinic",-26.230513,27.851058,CLINIC,e41a1c
+"Nokuthela Ngwenya CHC",-26.350594,28.421001,CHC,e41a1c
+"Noordgesig Prov Clinic",-26.22547,27.936081,CLINIC,e41a1c
+"Noordheuwel Satellite Clinic",-26.0896,27.80777,"SATELLITE CLINIC",e41a1c
+"Northmead Clinic",-26.159321,28.312602,CLINIC,e41a1c
+"Odi Hospital",-25.5184,28.02245,"DISTRICT HOSPITAL",e41a1c
+"Odirileng Maponya Clinic",-26.15897,27.78325,CLINIC,e41a1c
+"Olievenhoutbosch Ext 13 Clinic",-25.91141,28.09309,CLINIC,e41a1c
+"Olifantsfontein Clinic",-25.956484,28.22838,CLINIC,e41a1c
+"Onverwacht Clinic",-25.3611,28.3556,CLINIC,e41a1c
+"OR Tambo Clinic",-25.92222,28.01842,CLINIC,e41a1c
+"Orange Farm Ext 7 Clinic",-26.481881,27.848239,CLINIC,e41a1c
+"Orchards Clinic",-26.154668,28.085518,CLINIC,e41a1c
+"Orlando Prov Clinic",-26.237367,27.919191,CLINIC,e41a1c
+"Osizweni Clinic",-26.5225,27.83468,CLINIC,e41a1c
+"Palmridge Clinic",-26.387353,28.143303,CLINIC,e41a1c
+"Parkhurst Clinic",-26.13776,28.01578,CLINIC,e41a1c
+"Payneville Clinic",-26.23282,28.45711,CLINIC,e41a1c
+"Petervale Clinic",-26.03804,28.047361,CLINIC,e41a1c
+"Phahameng Clinic",-25.7221,28.3926,CLINIC,e41a1c
+"Phedisong 1 Clinic",-25.59972,27.98139,CHC,e41a1c
+"Phedisong 1 MOU",-25.61499,27.98804,UNKNOWN,e41a1c
+"Phedisong 4 CHC",-25.59972,27.98139,CHC,e41a1c
+"Phedisong 6 Clinic",-25.60489,28.00799,CLINIC,e41a1c
+"Phenduka Clinic",-26.339783,28.141876,CLINIC,e41a1c
+"Phillip Moyo CHC",-26.11976,28.484631,CHC,e41a1c
+"Phola Park CHC",-26.371772,28.132076,CHC,e41a1c
+"Pholosong Hospital",-26.340965,28.377519,"REGIONAL HOSPITAL",e41a1c
+"Phomolong Clinic",-25.7804,28.0427,CLINIC,e41a1c
+"Pierre Van Ryneveld Satellite Clinic",-25.84302,28.24329,"SATELLITE CLINIC",e41a1c
+"PJ Maree Clinic",-26.20471,27.70621,CLINIC,e41a1c
+"Pontshong (Walkerville) Clinic",-26.49333,27.93308,CLINIC,e41a1c
+"Pretoria West Hospital",-25.73654,28.13962,"DISTRICT HOSPITAL",e41a1c
+"Princess Clinic",-26.137235,27.843593,CLINIC,e41a1c
+"Protea Glen Clinic",-26.272841,27.805511,CLINIC,e41a1c
+"Protea South Clinic",-26.285585,27.840407,CLINIC,e41a1c
+"Rabie Ridge Clinic",-26.019409,28.171823,CLINIC,e41a1c
+"Rahima Moosa Hospital",-26.188128,27.973852,"REGIONAL HOSPITAL",e41a1c
+"Ramokonopi CHC",-26.360614,28.161819,CHC,e41a1c
+"Ramotse Clinic",-25.3576,28.29507,CLINIC,e41a1c
+"Randburg Clinic",-26.095585,28.005052,CLINIC,e41a1c
+"Randgate Clinic",-26.16919,27.68361,CLINIC,e41a1c
+"Randvaal Clinic",-26.51518,28.04482,CLINIC,e41a1c
+"Ratanda Clinic",-26.554102,28.326745,CLINIC,e41a1c
+"Ratanda Ext 23 Clinic",-26.57477,28.32026,CLINIC,e41a1c
+"Ratanda Ext 7 Clinic",-26.57399,28.32431,CLINIC,e41a1c
+"Rayton Clinic",-25.739137,28.532041,CLINIC,e41a1c
+"Reedville Clinic",-26.264603,28.390541,CLINIC,e41a1c
+"Refentse Clinic (Odi)",-25.39589,28.15562,CLINIC,e41a1c
+"Refilwe Clinic",-25.6378,28.530663,CLINIC,e41a1c
+"Reiger Park Clinic",-26.228229,28.227503,CLINIC,e41a1c
+"Rensburg Clinic",-26.52404,28.37193,CLINIC,e41a1c
+"Rethabiseng Clinic",-25.723197,28.716972,CLINIC,e41a1c
+"Retswelapele Clinic",-26.67318,27.88029,CLINIC,e41a1c
+"Rex Street Clinic",-26.158861,27.865276,CLINIC,e41a1c
+"Rietvallei 2 and 3 Clinic",-26.185649,27.754244,CLINIC,e41a1c
+"Riverlea Major Clinic",-26.212495,27.976416,CLINIC,e41a1c
+"Rondebult Clinic",-26.311935,28.210595,CLINIC,e41a1c
+"Rooihuiskraal Clinic",-25.8937,28.15372,CLINIC,e41a1c
+"Rosebank Clinic",-26.14702,28.03733,CLINIC,e41a1c
+"Rosettenville Clinic",-26.244888,28.053884,CLINIC,e41a1c
+"Rosslyn Clinic",-25.62641,28.09489,CLINIC,e41a1c
+"Rus ter vaal Clinic",-26.57466,27.94908,CLINIC,e41a1c
+"Sandown Clinic",-26.10647,28.055796,CLINIC,e41a1c
+"Saulsville Clinic",-25.77869,28.06719,CLINIC,e41a1c
+"Sead Clinic",-26.393381,28.396153,CLINIC,e41a1c
+"Sebei Motsoeneng Clinic",-26.56419,27.84229,CLINIC,e41a1c
+"Sebokeng Hospital",-26.60673,27.84801,"REGIONAL HOSPITAL",e41a1c
+"Sedilega Clinic",-25.49973,28.0355,CLINIC,e41a1c
+"Selope Thema Clinic",-26.307133,28.419107,CLINIC,e41a1c
+"Senaoane Clinic",-26.273834,27.864938,CLINIC,e41a1c
+"Shanty Clinic",-26.229067,27.917413,CLINIC,e41a1c
+"Sharpeville CHC",-26.68694,27.87063,CHC,e41a1c
+"Silverton Clinic",-25.733389,28.297608,CLINIC,e41a1c
+"Simunye Clinic (Brakpan)",-26.368095,28.356893,CLINIC,e41a1c
+"Simunye Clinic (Westonaria)",-26.32197,27.68225,CLINIC,e41a1c
+"Sinethemba Clinic",-26.456288,27.766729,CLINIC,e41a1c
+"Sinqobile Clinic",-26.219591,27.885253,CLINIC,e41a1c
+"Siphumlile Clinic",-26.222248,27.83265,CLINIC,e41a1c
+"Sizwe Tropical Diseases Hospital",-26.13745,28.12496,"SPECIALISED TB HOSPITAL",e41a1c
+"Skinner Street Clinic",-25.73271,28.1998,CLINIC,e41a1c
+"Slovo Park Clinic",-26.214283,28.489241,CLINIC,e41a1c
+"Sokhulumi Clinic",-25.602948,28.89733,CLINIC,e41a1c
+"Sol Plaatjies Clinic",-26.162742,27.86061,CLINIC,e41a1c
+"Sonto Thobela Clinic",-26.383828,28.395179,CLINIC,e41a1c
+"Sophiatown Clinic",-26.173339,27.979238,CLINIC,e41a1c
+"Soshanguve 2 Clinic",-25.51308,28.1142,CLINIC,e41a1c
+"Soshanguve Block JJ Clinic",-25.45762,28.08334,CLINIC,e41a1c
+"Soshanguve Block TT Clinic",-25.55992,28.06515,CLINIC,e41a1c
+"Soshanguve Block X Clinic",-25.4692,28.1317,CLINIC,e41a1c
+"Soshanguve CHC",-25.49123,28.09431,CHC,e41a1c
+"South Hills Clinic",-26.251474,28.087921,CLINIC,e41a1c
+"South Rand Hospital",-26.252571,28.0628,"DISTRICT HOSPITAL",e41a1c
+"Spartan Clinic",-26.108655,28.226012,CLINIC,e41a1c
+"Stanza Bopape CHC",-25.70567,28.39402,CHC,e41a1c
+"Stanza Bopape II Clinic",-25.7144,28.4155,CLINIC,e41a1c
+"Sterkfontein Hospital",-26.05886,27.75778,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Steve Biko Academic Hospital",-25.73271,28.19978,"CENTRAL HOSPITAL",e41a1c
+"Stretford CHC",-26.469747,27.869155,CHC,e41a1c
+"Sunriseview Clinic",-26.39157,28.19707,CLINIC,e41a1c
+"Suurman Clinic",-25.377977,28.210284,CLINIC,e41a1c
+"Tamaho Clinic",-26.310812,28.143252,CLINIC,e41a1c
+"Tambo Memorial Hospital",-26.218691,28.245817,"REGIONAL HOSPITAL",e41a1c
+"Tara H Moross Centre Hospital",-26.108635,28.036975,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Tarlton Clinic",-26.09143,27.66503,CLINIC,e41a1c
+"Temba CHC",-25.37743,28.26362,CHC,e41a1c
+"Tembisa CHC",-26.008813,28.216836,CLINIC,e41a1c
+"Tembisa Hospital",-25.984107,28.237288,"REGIONAL HOSPITAL",e41a1c
+"Tembisa Main Clinic",-26.009348,28.24085,CLINIC,e41a1c
+"Thembelihle Clinic",-26.34063,27.86636,CLINIC,e41a1c
+"Thembelisha Clinic",-26.308314,28.406892,CLINIC,e41a1c
+"Thlokomelong Clinic",-26.5479,27.84962,CLINIC,e41a1c
+"Thoko Mngoma Clinic",-26.095949,28.097231,CLINIC,e41a1c
+"Thusanang Clinic",-26.49964,27.46562,CLINIC,e41a1c
+"Thusong Community Clinic",-26.14002,27.7998,CLINIC,e41a1c
+"Tladi LA Clinic",-26.25036,27.84012,CLINIC,e41a1c
+"Tladi Prov Clinic",-26.254048,27.841512,CLINIC,e41a1c
+"Tlamelong Clinic",-25.51416,28.07147,CLINIC,e41a1c
+"Tsakane Clinic",-26.348234,28.373271,CLINIC,e41a1c
+"Tsakane Ext 10 Clinic",-26.38442,28.37905,CLINIC,e41a1c
+"Tshepiso Clinic",-26.6741,27.86821,CLINIC,e41a1c
+"Tshepisong Clinic",-26.19072,27.81243,CLINIC,e41a1c
+"Tshwane District Hospital",-25.73271,28.1998,"DISTRICT HOSPITAL",e41a1c
+"Tshwane Rehabilitation Hospital",-25.73651,28.19899,"SPECIALISED REHABILITATION HOSPITAL",e41a1c
+"Tswelopele Clinic",-26.32825,28.19216,CLINIC,e41a1c
+"Ubuntu Clinic",-25.791111,28.431111,CLINIC,e41a1c
+"Usizolwethu Clinic",-26.35174,28.77772,CLINIC,e41a1c
+"Van Dyk Park Clinic",-26.257122,28.292799,CLINIC,e41a1c
+"Venterspos Clinic",-26.27367,27.62203,CLINIC,e41a1c
+"Vischuil Clinic",-26.2993,28.58501,CLINIC,e41a1c
+"Vlakfontein Clinic",-26.371493,27.876804,CLINIC,e41a1c
+"Vosloorus Ext 28 Clinic",-26.377715,28.203143,CLINIC,e41a1c
+"Vosloorus Ext 9 Clinic",-26.348032,28.218515,CLINIC,e41a1c
+"Vosloorus Poly Clinic",-26.349342,28.197825,CLINIC,e41a1c
+"Wannenburg Clinic",-26.189315,28.168334,CLINIC,e41a1c
+"Wedela Clinic",-26.46024,27.38799,CLINIC,e41a1c
+"Weilers Farm Clinic",-26.404822,27.901848,CLINIC,e41a1c
+"Weltevreden Park Clinic",-26.11981,27.933093,CLINIC,e41a1c
+"Weskoppies Hospital",-25.76389,28.16057,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Westbury Clinic",-26.183266,27.97312,CLINIC,e41a1c
+"Westonaria Clinic",-26.3302,27.65245,CLINIC,e41a1c
+"White City Clinic",-26.304789,28.385756,CLINIC,e41a1c
+"Wildebeesfontein Clinic",-26.517662,27.885001,CLINIC,e41a1c
+"Windsor Clinic",-26.122411,27.975698,CLINIC,e41a1c
+"Winnie Mandela Clinic",-25.981753,28.223209,CLINIC,e41a1c
+"Winterveldt Clinic",-25.40371,28.02454,CLINIC,e41a1c
+"Witkoppen Clinic",-26.011153,28.011036,CLINIC,e41a1c
+"Ya Rona Clinic",-26.2351,27.6985,CLINIC,e41a1c
+"Yeoville Clinic",-26.182096,28.062966,CLINIC,e41a1c
+"Zandspruit Clinic",-26.061486,27.901588,CLINIC,e41a1c
+"Zenzele Clinic",-26.26115,27.69512,CLINIC,e41a1c
+"Zithobeni Clinic",-25.784259,28.71934,CLINIC,e41a1c
+"Zola CHC",-26.239482,27.854006,CHC,e41a1c
+"Zola Gateway Clinic",-26.239482,27.854006,CLINIC,e41a1c
+"Zondi Clinic",-26.232717,27.865939,CLINIC,e41a1c
+"Zone 13 Clinic",-26.57785,27.83586,CLINIC,e41a1c
+"Zone 14 Clinic",-26.58755,27.8367,CLINIC,e41a1c
+"Zone 17 Clinic",-26.59576,27.83207,CLINIC,e41a1c
+"Zone 3 Clinic",-26.52878,27.87136,CLINIC,e41a1c
+"Zonkizizwe 1 Clinic",-26.406878,28.187144,CLINIC,e41a1c
+"Zonkizizwe 2 Clinic",-26.4144,28.180184,CLINIC,e41a1c
+"Zuurbekom Clinic",-26.31693,27.70312,CLINIC,e41a1c
+"Acaciavale Clinic",-28.586948,29.796258,CLINIC,e41a1c
+"Adams Mission Clinic",-30.017686,30.817782,CLINIC,e41a1c
+"Addington Gateway Clinic",-29.860627,31.041237,CLINIC,e41a1c
+"Addington Hospital",-29.861953,31.041967,"REGIONAL HOSPITAL",e41a1c
+"AE Haviland Memorial Clinic",-28.854031,30.093066,CLINIC,e41a1c
+"Altona Clinic",-27.3812,31.2124,CLINIC,e41a1c
+"Amakhabela Clinic",-28.85421,30.85931,CLINIC,e41a1c
+"Amandlalathi Clinic",-28.87761,30.985713,CLINIC,e41a1c
+"Amanzimtoti Clinic",-30.054121,30.880621,CLINIC,e41a1c
+"Amaoti Clinic",-29.68804,30.97942,CLINIC,e41a1c
+"Amatimatolo Clinic",-29.139533,30.823939,CLINIC,e41a1c
+"Amazizi Clinic",-28.680084,29.042509,CLINIC,e41a1c
+"Appelsbosch Gateway Clinic",-29.390638,30.843395,CLINIC,e41a1c
+"Appelsbosch Hospital",-29.390638,30.843395,"DISTRICT HOSPITAL",e41a1c
+"Ashdown Clinic",-29.639707,30.331235,CLINIC,e41a1c
+"Assisi Clinic",-30.60645,30.34957,CLINIC,e41a1c
+"Athlone Park Hall Clinic",-30.17626,30.919752,CLINIC,e41a1c
+"Austerville Clinic",-29.940474,30.983065,CLINIC,e41a1c
+"Azalea Clinic",-29.625204,30.318961,CLINIC,e41a1c
+"Balgowan Clinic",-29.39584,30.05722,CLINIC,e41a1c
+"Ballito Clinic",-29.528464,31.206064,CLINIC,e41a1c
+"Bambanani Clinic",-29.269278,30.847694,CLINIC,e41a1c
+"Baniyena Clinic",-30.118487,30.587649,CLINIC,e41a1c
+"Baphumile Clinic",-30.55292,30.35442,CLINIC,e41a1c
+"Beatrice Street Clinic",-29.85175,31.018057,CLINIC,e41a1c
+"Belgrade Clinic",-27.267152,31.282969,CLINIC,e41a1c
+"Benedictine Hospital",-27.892169,31.639414,"DISTRICT HOSPITAL",e41a1c
+"Bergville Clinic",-28.73002,29.34958,CLINIC,e41a1c
+"Besters Clinic",-29.727671,30.985479,CLINIC,e41a1c
+"Bethesda Gateway Clinic",-27.57445,32.08113,CLINIC,e41a1c
+"Bethesda Hospital",-27.575072,32.081838,"DISTRICT HOSPITAL",e41a1c
+"Bhekabantu Clinic",-26.945103,30.336229,CLINIC,e41a1c
+"Bhekimpilo Trust - Bekulwandle Clinic",-29.98935,30.89166,CLINIC,e41a1c
+"Bhekimpilo Trust - Kusakusa Clinic",-29.86146,31.64193,CLINIC,e41a1c
+"Bhekumthetho Clinic",-27.97316,30.73798,CLINIC,e41a1c
+"Bhekuzulu Clinic",-27.777203,30.821972,CLINIC,e41a1c
+"Bhobhoyi Clinic",-30.74127,30.38568,CLINIC,e41a1c
+"Bhomela Clinic",-30.76862,30.338863,CLINIC,e41a1c
+"Bluff Clinic",-29.90041,31.025825,CLINIC,e41a1c
+"Braemer Clinic",-30.96956,30.18555,CLINIC,e41a1c
+"Bruntville CHC",-29.214887,30.010947,CHC,e41a1c
+"Buchanana Clinic",-28.593299,31.756491,CLINIC,e41a1c
+"Busingatha Clinic",-28.70648,28.99807,CLINIC,e41a1c
+"Buxedene Clinic",-28.00432,31.85108,CLINIC,e41a1c
+"Caluza Clinic",-29.645524,30.311067,CLINIC,e41a1c
+"Caneside Clinic",-29.68658,31.016716,CLINIC,e41a1c
+"Catherine Booth Hospital",-28.998663,31.474355,"DISTRICT HOSPITAL",e41a1c
+"Cato Manor CHC",-29.862055,30.970065,CHC,e41a1c
+"Central City Clinic",-29.60181,30.38321,CLINIC,e41a1c
+"Ceza Gateway Clinic",-27.996182,31.377532,CLINIC,e41a1c
+"Ceza Hospital",-27.996182,31.377532,"DISTRICT HOSPITAL",e41a1c
+"Charles James TB Hospital",-30.017405,30.885401,"SPECIALISED TB HOSPITAL",e41a1c
+"Charles Johnson Memorial Gateway
+Clinic",-28.21757,30.67332,CLINIC,e41a1c
+"Charles Johnson Memorial Hospital",-28.210575,30.674552,"DISTRICT HOSPITAL",e41a1c
+"Charlestown Clinic",-27.423586,29.872714,CLINIC,e41a1c
+"Chatsworth Township Centre Clinic",-29.911454,30.879537,CLINIC,e41a1c
+"Chesterville Provincial Clinic",-29.85591,30.94979,UNKNOWN,e41a1c
+"Chibini Clinic",-29.274769,30.932286,CLINIC,e41a1c
+"Christ the King Gateway Clinic",-30.162433,30.078866,CLINIC,e41a1c
+"Christ the King Hospital",-30.162433,30.078866,"DISTRICT HOSPITAL",e41a1c
+"Church of Scotland Gateway Clinic",-28.74667,30.45009,CLINIC,e41a1c
+"Church of Scotland Hospital",-28.746026,30.449435,"DISTRICT HOSPITAL",e41a1c
+"Church Street TB Clinic",-29.599394,30.381542,CLINIC,e41a1c
+"Chwezi Clinic",-28.44769,30.989723,CLINIC,e41a1c
+"Cinci Clinic",-28.477693,32.115585,CLINIC,e41a1c
+"Clairwood Gateway Clinic",-29.935579,30.956962,CLINIC,e41a1c
+"Clairwood Hospital",-29.935579,30.956962,"SPECIALISED CHRONIC HOSPITAL",e41a1c
+"Clare Estate Clinic",-29.820894,30.974434,CLINIC,e41a1c
+"Clermont Clinic",-29.795223,30.892895,CLINIC,e41a1c
+"Collessie Clinic",-28.682122,30.522552,CLINIC,e41a1c
+"Commercial City FP Clinic",-29.856426,30.021807,CLINIC,e41a1c
+"Connor Street Clinic",-29.009264,29.874672,CLINIC,e41a1c
+"Copesville Clinic",-29.554028,30.423481,CLINIC,e41a1c
+"Cornfields Clinic",-28.862579,29.86327,CLINIC,e41a1c
+"Craigieburn Clinic",-30.199527,30.753844,CLINIC,e41a1c
+"Cramond Satellite Clinic",-29.38045,30.407163,CLINIC,e41a1c
+"Cwaka Clinic",-28.65783,30.464294,CLINIC,e41a1c
+"Danganya Clinic",-30.171927,30.816935,CLINIC,e41a1c
+"Darnall Clinic",-29.27401,31.35502,CLINIC,e41a1c
+"Dengeni Clinic",-28.00168,31.78213,CLINIC,e41a1c
+"Dinintuli Clinic",-28.704888,30.672664,CLINIC,e41a1c
+"Dlangezwa Clinic",-30.17947,30.67767,CLINIC,e41a1c
+"Dokodweni Clinic",-29.075387,31.623657,CLINIC,e41a1c
+"Don McKenzie TB Hospital",-29.739894,30.738249,"SPECIALISED TB HOSPITAL",e41a1c
+"Dondotha Clinic",-28.54413,31.945737,CLINIC,e41a1c
+"Doris Goodwin TB Hospital",-29.6484,30.336945,"SPECIALISED TB HOSPITAL",e41a1c
+"Douglas Clinic",-28.529431,30.283556,CLINIC,e41a1c
+"Driefontein Clinic",-28.34324,29.70243,CLINIC,e41a1c
+"Dududu Clinic",-30.19445,30.60341,CLINIC,e41a1c
+"Dukuza Clinic",-28.75036,29.20812,CLINIC,e41a1c
+"Dundee Hospital",-28.172115,30.229241,"DISTRICT HOSPITAL",e41a1c
+"Dunstan Farrell TB Hospital",-30.5357,30.5125,"SPECIALISED TB HOSPITAL",e41a1c
+"Durnacol Clinic",-28.047426,30.021392,CLINIC,e41a1c
+"East/Boom CHC",-29.588866,30.386767,CHC,e41a1c
+"East Griqualand and Usher Memorial
+Gateway Clinic",-30.54558,29.4156,CLINIC,e41a1c
+"East Griqualand and Usher Memorial
+Hospital",-30.54558,29.4156,"DISTRICT HOSPITAL",e41a1c
+"Eastwood Clinic",-29.5862,30.42559,CLINIC,e41a1c
+"Edendale Gateway Clinic",-29.646661,30.332083,CLINIC,e41a1c
+"Edendale Hospital",-29.646661,30.332083,"REGIONAL HOSPITAL",e41a1c
+"eDumbe CHC",-27.408138,30.824096,CHC,e41a1c
+"Efaye Clinic",-29.277401,30.795456,CLINIC,e41a1c
+"Ehlanzeni Clinic",-28.8611,30.69705,CLINIC,e41a1c
+"Ekhombe Hospital",-28.642879,30.893909,"DISTRICT HOSPITAL",e41a1c
+"Ekubungazeleni Clinic",-27.875263,31.767322,CLINIC,e41a1c
+"Ekuhlehleni Clinic",-26.85419,32.04265,CLINIC,e41a1c
+"Ekuhlengeni Sanatorium Hospital",-30.006791,30.902481,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Ekuphileni (Umlazi L) Clinic",-29.96793,30.86333,CLINIC,e41a1c
+"Ekuphumuleni Clinic",-28.78098,31.761099,CLINIC,e41a1c
+"Ekuvukeni Clinic",-28.465213,30.157814,CLINIC,e41a1c
+"Elim Clinic",-30.72638,29.99437,CLINIC,e41a1c
+"Embo CHC",-30.078049,30.552356,CLINIC,e41a1c
+"Emfundweni Clinic",-27.88854,30.1975,CLINIC,e41a1c
+"Emkhwakhweni Clinic",-27.34978,31.52314,CLINIC,e41a1c
+"Emmaus Gateway Clinic",-28.85267,29.38176,CLINIC,e41a1c
+"Emmaus Hospital",-28.853704,29.381454,"DISTRICT HOSPITAL",e41a1c
+"Empangeni Clinic",-28.74827,31.891809,CLINIC,e41a1c
+"Empathe Clinic",-28.16354,30.23433,CLINIC,e41a1c
+"Emtulwa Clinic",-29.233352,30.763034,CLINIC,e41a1c
+"Ensingweni Clinic",-28.95678,31.639692,CLINIC,e41a1c
+"Eshane Clinic",-29.101948,30.833846,CLINIC,e41a1c
+"Eshowe Clinic",-28.897908,31.467966,CLINIC,e41a1c
+"Eshowe Gateway Clinic",-28.88894,31.46631,CLINIC,e41a1c
+"Eshowe Hospital",-28.888956,31.465225,"DISTRICT HOSPITAL",e41a1c
+"Esibhudeni Clinic",-28.755089,31.166279,CLINIC,e41a1c
+"Esidakeni Clinic",-28.01487,31.34506,CLINIC,e41a1c
+"Esidumbini Clinic",-29.382577,30.996251,CLINIC,e41a1c
+"Esigodini Clinic",-29.646573,30.272098,CLINIC,e41a1c
+"Esiyembeni Clinic",-28.32931,32.00485,CLINIC,e41a1c
+"Estcourt Gateway Clinic",-29.01992,29.8939,CLINIC,e41a1c
+"Estcourt Hospital",-29.0206,29.894893,"DISTRICT HOSPITAL",e41a1c
+"Ethembeni Clinic",-28.856655,30.497709,CLINIC,e41a1c
+"Ewangu Clinic",-28.789894,31.290146,CLINIC,e41a1c
+"Ezakheni 2 Clinic",-28.618837,29.916973,CLINIC,e41a1c
+"Ezakheni E Clinic",-28.63037,29.88067,CLINIC,e41a1c
+"Ezimfabeni Clinic",-28.10519,31.43037,CLINIC,e41a1c
+"Ezimpondweni Clinic",-27.79844,32.45963,CLINIC,e41a1c
+"EZwenelisha Clinic",-28.41239,32.31265,CLINIC,e41a1c
+"Felani Clinic",-28.41207,30.77684,CLINIC,e41a1c
+"Folweni Clinic",-29.96785,30.86357,CLINIC,e41a1c
+"Forderville Clinic",-28.99564,29.87048,CLINIC,e41a1c
+"Fort Napier Hospital(Psychiatric)",-29.613135,30.369751,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"FOSA TB Hospital",-29.785926,30.968179,"SPECIALISED TB HOSPITAL",e41a1c
+"Fredville Clinic",-29.707263,30.666964,CLINIC,e41a1c
+"Friesgewacht Clinic",-27.3900902,30.953454,CLINIC,e41a1c
+"Gamalakhe CHC",-30.81067,30.3336,CHC,e41a1c
+"Gcilima Clinic",-30.91044,30.24526,CLINIC,e41a1c
+"Gcinalishone Clinic",-28.687957,30.134192,CLINIC,e41a1c
+"Gcumisa Clinic",-29.51635,30.69363,CLINIC,e41a1c
+"Gedleza Clinic",-27.48284,32.21283,CLINIC,e41a1c
+"Gingindlovu Clinic",-29.02951,31.587356,CLINIC,e41a1c
+"GJ Crooke's Hospital",-30.28821,30.74487,"DISTRICT HOSPITAL",e41a1c
+"GJ Crooke's Gateway Clinic",-30.28832,30.74493,CLINIC,e41a1c
+"Glen Earle Clinic",-29.780132,30.979407,CLINIC,e41a1c
+"Glenhills Clinic",-29.337937,31.26562,CLINIC,e41a1c
+"Glenridge Clinic",-28.17563,30.14547,CLINIC,e41a1c
+"Glenwood Clinic(Pietermaritzburg)",-29.589986,30.441565,CLINIC,e41a1c
+"Gluckstadt Clinic",-27.97413,31.03921,CLINIC,e41a1c
+"Gomane Clinic",-29.605339,29.864386,CLINIC,e41a1c
+"Goodwins Clinic",-29.735995,30.993794,CLINIC,e41a1c
+"Gowanlee Clinic",-30.348926,29.702541,CLINIC,e41a1c
+"Gqayinyanga Clinic",-30.570723,30.477437,CLINIC,e41a1c
+"Gqumeni Clinic",-30.016764,29.725834,CLINIC,e41a1c
+"Grange Clinic",-29.641367,30.372257,CLINIC,e41a1c
+"Greenock Clinic",-27.857005,30.26868,CLINIC,e41a1c
+"Greytown Gateway Clinic",-29.0664,30.59935,CLINIC,e41a1c
+"Greytown Hospital",-29.067508,30.59998,"DISTRICT HOSPITAL",e41a1c
+"Groenvlei Clinic",-27.462986,30.229923,CLINIC,e41a1c
+"Groutville Clinic",-29.391439,31.252102,CLINIC,e41a1c
+"Grove End Clinic",-29.69796,31.02438,CLINIC,e41a1c
+"Gugwini Clinic",-30.492112,29.936687,CLINIC,e41a1c
+"Gunjana Clinic",-28.636876,30.337509,CLINIC,e41a1c
+"Gunjaneni Clinic",-28.24489,32.08803,CLINIC,e41a1c
+"Gwala Clinic",-29.857454,29.790317,CLINIC,e41a1c
+"Gwaliweni Clinic",-27.30716,31.97787,CLINIC,e41a1c
+"Halambu Clinic",-28.773264,31.104843,CLINIC,e41a1c
+"Halley Stott Clinic",-29.738799,30.736442,CLINIC,e41a1c
+"Hambanathi Clinic",-29.558689,31.11963,CLINIC,e41a1c
+"Harding Clinic",-30.57485,29.88308,CLINIC,e41a1c
+"Hartland Clinic",-27.426652,31.043302,CLINIC,e41a1c
+"Hillcrest Hospital",-29.78757,30.761274,"SPECIALISED CHRONIC HOSPITAL",e41a1c
+"Hlabisa Gateway Clinic",-28.14555,31.8807,CLINIC,e41a1c
+"Hlabisa Hospital",-28.14555,31.8807,"DISTRICT HOSPITAL",e41a1c
+"Hlathi Dam Clinic",-28.237784,30.54339,CLINIC,e41a1c
+"Hlengimpilo Clinic",-28.111742,31.672275,CLINIC,e41a1c
+"Hlengisizwe CHC",-29.8229,30.65465,CHC,e41a1c
+"Hlobane Clinic",-27.72022,31.00125,CLINIC,e41a1c
+"Hlokozi Clinic",-30.361299,30.293695,CLINIC,e41a1c
+"Hlomendlini Clinic",-29.185932,31.396925,CLINIC,e41a1c
+"Howick Clinic",-29.48696,30.23167,CLINIC,e41a1c
+"Ibisi Clinic",-30.413102,29.892882,CLINIC,e41a1c
+"Idlebe Clinic",-28.696374,31.118903,CLINIC,e41a1c
+"Imbalenhle CHC",-29.656899,30.342361,CHC,e41a1c
+"Impilwenhle Clinic",-29.677914,30.350775,CLINIC,e41a1c
+"Inanda C CHC",-29.71126,30.973047,CHC,e41a1c
+"Inanda Seminary Clinic",-29.707992,30.921691,CLINIC,e41a1c
+"Inhlwathi Clinic",-28.01706,31.97459,CLINIC,e41a1c
+"Injabulo Clinic",-29.602547,30.632683,CLINIC,e41a1c
+"Injisuthi Clinic",-28.940223,29.577502,CLINIC,e41a1c
+"Inkosi Albert Luthuli Central Hospital",-29.87308,30.961694,"CENTRAL HOSPITAL",e41a1c
+"Isandlwana Clinic",-28.360695,30.673117,CLINIC,e41a1c
+"Isiboniso Clinic",-28.858375,31.984811,CLINIC,e41a1c
+"Isipingo Clinic",-29.996027,30.920151,CLINIC,e41a1c
+"Isithebe Clinic",-29.091272,31.428339,CLINIC,e41a1c
+"Isithundu Clinic",-29.243338,30.979705,CLINIC,e41a1c
+"Itshelejuba Gateway Clinic",-27.275963,31.346,CLINIC,e41a1c
+"Itshelejuba Hospital",-27.275963,31.346,"DISTRICT HOSPITAL",e41a1c
+"Ixopo Clinic",-30.147465,30.067067,CLINIC,e41a1c
+"Izingolweni Clinic",-30.78198,30.12469,CLINIC,e41a1c
+"Jolivet Clinic",-30.267356,30.354594,CLINIC,e41a1c
+"Jozini Clinic",-27.42573,32.07264,CLINIC,e41a1c
+"Kearsney Clinic",-29.296329,31.239345,CLINIC,e41a1c
+"Khambi Clinic",-27.77848,31.31442,CLINIC,e41a1c
+"Khan Road Clinic",-29.549249,30.405242,CLINIC,e41a1c
+"Khandisa Clinic",-28.859913,31.832508,CLINIC,e41a1c
+"Khayelihle Clinic",-30.45197,30.5347,CLINIC,e41a1c
+"Khombe Gateway Clinic",-28.64248,30.89349,CLINIC,e41a1c
+"Khula Village Clinic",-28.367646,32.37694,CLINIC,e41a1c
+"Kilmun Clinic",-29.95343,29.5515,CLINIC,e41a1c
+"King Dinizulu Clinic",-28.88861,31.496625,CLINIC,e41a1c
+"King Edward VIII Hospital",-29.881546,30.991155,"CENTRAL HOSPITAL",e41a1c
+"King George V Hospital",-29.82358,30.98704,"REGIONAL HOSPITAL",e41a1c
+"Kingsburgh Clinic",-30.095418,30.855832,CLINIC,e41a1c
+"Klaarwater Clinic",-29.883058,30.829573,CLINIC,e41a1c
+"Kleinfontein Clinic",-28.36273,29.649627,CLINIC,e41a1c
+"Kloof Clinic",-29.791667,30.832089,CLINIC,e41a1c
+"Kokstad Clinic",-30.550172,29.42898,CLINIC,e41a1c
+"Kranskop Clinic",-28.96863,30.86425,CLINIC,e41a1c
+"KwaDabeka CHC",-29.777203,30.897393,CHC,e41a1c
+"KwaDukuza Clinic",-29.342585,31.289111,CLINIC,e41a1c
+"KwaJali Clinic",-30.65991,29.73749,CLINIC,e41a1c
+"KwaMagwaza Gateway Clinic",-28.62904,31.34073,CLINIC,e41a1c
+"KwaMagwaza Hospital",-28.628806,31.339858,"DISTRICT HOSPITAL",e41a1c
+"KwaMakhutha Clinic",-30.024799,30.865236,CLINIC,e41a1c
+"KwaMame Clinic",-28.14098,31.49025,CLINIC,e41a1c
+"KwaMashu B Clinic",-29.746759,30.989959,CLINIC,e41a1c
+"KwaMashu Poly CHC",-29.745416,30.974136,CHC,e41a1c
+"Kwamashumi Clinic",-30.339933,30.126558,CLINIC,e41a1c
+"KwaMbonambi Clinic",-28.713302,32.165541,CLINIC,e41a1c
+"KwaMbuzi Clinic",-27.18156,32.19022,CLINIC,e41a1c
+"KwaMsane Clinic",-28.42785,32.14819,CLINIC,e41a1c
+"KwaMteyi Clinic",-28.629776,30.070913,CLINIC,e41a1c
+"KwaNdaba Clinic",-27.02172,32.30583,CLINIC,e41a1c
+"KwaNdengezi Clinic",-29.85098,30.768089,CLINIC,e41a1c
+"KwaNgcolosi Clinic",-29.70213,30.838642,CLINIC,e41a1c
+"KwaNkundla Clinic",-27.39877,31.26791,CLINIC,e41a1c
+"KwaNyezi Clinic",-28.32554,30.75887,CLINIC,e41a1c
+"KwaNyuswa Clinic",-29.440032,30.957802,CLINIC,e41a1c
+"KwaSenge Clinic",-28.80828,30.77531,CLINIC,e41a1c
+"KwaShoba Clinic",-27.3677,31.47444,CLINIC,e41a1c
+"KwaSimama Clinic",-29.748918,30.97158,CLINIC,e41a1c
+"KwaYanguye Clinic",-28.488611,31.550707,CLINIC,e41a1c
+"KwaZibi Clinic",-27.14578,32.75479,CLINIC,e41a1c
+"La Lucia Clinic",-29.754598,31.062797,CLINIC,e41a1c
+"Ladam Irene Clinic",-30.315488,29.792921,CLINIC,e41a1c
+"Ladybank Clinic",-27.96416,30.2154,CLINIC,e41a1c
+"Ladysmith Gateway Clinic",-28.55897,29.76511,CLINIC,e41a1c
+"Ladysmith Hospital",-28.558185,29.765278,"REGIONAL HOSPITAL",e41a1c
+"Lamontville Clinic",-29.950115,30.943653,CLINIC,e41a1c
+"Lancers Road Clinic",-29.857864,31.009689,CLINIC,e41a1c
+"Limehill Clinic",-28.438355,30.244248,CLINIC,e41a1c
+"Limit Hill Clinic",-28.53881,29.80534,CLINIC,e41a1c
+"Lindelani Clinic",-29.750253,30.933847,CLINIC,e41a1c
+"Lomo Clinic",-28.21684,31.63445,CLINIC,e41a1c
+"Lourdes Clinic",-30.208685,29.705948,CLINIC,e41a1c
+"Louwsburg Clinic",-27.57801,31.30045,CLINIC,e41a1c
+"Lovu Clinic",-30.062207,30.826977,CLINIC,e41a1c
+"Lower Umfolozi War Memorial
+Hospital",-28.739507,31.895639,"DISTRICT HOSPITAL",e41a1c
+"Ludimala Clinic",-30.86893,30.28333,CLINIC,e41a1c
+"Luganda Clinic",-29.888276,30.80376,CLINIC,e41a1c
+"Luneburg Clinic",-27.32985,30.63093,CLINIC,e41a1c
+"Luwamba Clinic",-28.62971,31.694929,CLINIC,e41a1c
+"Mabamba Clinic",-28.808888,31.865426,CLINIC,e41a1c
+"Mabedlane Clinic",-28.29981,31.3839,CLINIC,e41a1c
+"Mabheleni Clinic",-30.44209,30.32103,CLINIC,e41a1c
+"Mabhuqweni Clinic",-28.510373,30.835555,CLINIC,e41a1c
+"Mabibi Clinic",-27.32839,32.73092,CLINIC,e41a1c
+"Macabuzela Clinic",-28.02811,32.15997,CLINIC,e41a1c
+"Macambini Clinic",-29.125901,31.57012,CLINIC,e41a1c
+"Machibini Clinic",-28.28121,32.04522,CLINIC,e41a1c
+"Madadeni 1 Clinic",-27.752218,30.024138,CLINIC,e41a1c
+"Madadeni 5 Clinic",-27.756412,30.042055,CLINIC,e41a1c
+"Madadeni 7 Clinic",-27.74861,30.033073,CLINIC,e41a1c
+"Madadeni Gateway Clinic",-27.7636,30.0508,CLINIC,e41a1c
+"Madadeni Hospital",-27.76339,30.050536,"REGIONAL HOSPITAL",e41a1c
+"Madiba Clinic",-28.97938,29.69263,CLINIC,e41a1c
+"Madlala Clinic",-30.63114,30.42725,CLINIC,e41a1c
+"Madonela Clinic",-27.34288,32.26248,CLINIC,e41a1c
+"Madwaleni Clinic",-28.26372,32.22208,CLINIC,e41a1c
+"Mafakathini Clinic",-29.64405,30.1476,CLINIC,e41a1c
+"Magabheni Clinic",-30.173469,30.76575,CLINIC,e41a1c
+"Magagadolo Clinic",-28.032014,31.407391,CLINIC,e41a1c
+"Maguzu Clinic",-29.581533,30.564448,CLINIC,e41a1c
+"Mahashini Clinic",-27.87648,31.52567,CLINIC,e41a1c
+"Mahatma Gandhi Hospital",-29.718741,31.029532,"REGIONAL HOSPITAL",e41a1c
+"Mahlungulu Clinic",-26.88633,32.81163,CLINIC,e41a1c
+"Makhathini Clinic",-27.44383,32.16026,CLINIC,e41a1c
+"Makhosini Clinic",-28.37908,31.271612,CLINIC,e41a1c
+"Makhowe Clinic",-27.96078,32.14029,CLINIC,e41a1c
+"Makhwela Clinic",-27.68678,31.34952,CLINIC,e41a1c
+"Malenge Clinic",-30.147924,29.62289,CLINIC,e41a1c
+"Malunga Clinic",-28.53696,30.901824,CLINIC,e41a1c
+"Manaba Clinic",-27.28726,32.43432,CLINIC,e41a1c
+"Mandaba Clinic",-28.680314,31.215809,CLINIC,e41a1c
+"Mandeni Clinic",-29.153318,31.410068,CLINIC,e41a1c
+"Mandlanzini Clinic",-28.738355,32.104379,CLINIC,e41a1c
+"Mandleni Clinic",-28.72373,30.357789,CLINIC,e41a1c
+"Mangeni Clinic",-28.46614,30.772946,CLINIC,e41a1c
+"Manguzi Hospital",-26.98403,32.75637,"DISTRICT HOSPITAL",e41a1c
+"Manyane Clinic",-28.775324,30.903431,CLINIC,e41a1c
+"Manyiseni Clinic",-26.914,32.03564,CLINIC,e41a1c
+"Maphephetheni Clinic",-29.645426,30.792355,CLINIC,e41a1c
+"Maphophoma Clinic",-28.037503,31.679984,CLINIC,e41a1c
+"Maphumulo Clinic",-29.15686,31.066447,CLINIC,e41a1c
+"Maputa Clinic",-26.99444,32.75556,CLINIC,e41a1c
+"Maqumbi Clinic",-29.173628,31.202736,CLINIC,e41a1c
+"Marburg Clinic",-30.74754,30.42966,CLINIC,e41a1c
+"Margate Clinic",-30.867209,30.364194,CLINIC,e41a1c
+"Mariannridge Clinic",-29.862495,30.82117,CLINIC,e41a1c
+"Ncwadi Clinic",-29.77682,29.98536,CLINIC,e41a1c
+"Mason Street Clinic",-27.76578,30.80109,CLINIC,e41a1c
+"Masons Clinic",-29.555652,30.434774,CLINIC,e41a1c
+"Masotsheni Clinic",-28.286975,30.576856,CLINIC,e41a1c
+"Mathungela Clinic",-28.89687,31.080979,CLINIC,e41a1c
+"Matiwaneskop Clinic",-28.350763,29.897825,CLINIC,e41a1c
+"Mawele Clinic",-28.694371,30.556283,CLINIC,e41a1c
+"Mayizekane Clinic",-29.531123,30.625094,CLINIC,e41a1c
+"Mazabeko Clinic",-28.530478,30.586576,CLINIC,e41a1c
+"Mbadleni Clinic",-26.96269,32.13522,CLINIC,e41a1c
+"Mbangweni Clinic",-28.821915,30.403156,CLINIC,e41a1c
+"Mbazwana Clinic",-27.48544,32.586,CLINIC,e41a1c
+"Mbekaphansi Clinic",-29.092299,30.967514,CLINIC,e41a1c
+"Mbongolwane Hospital",-28.93597,31.196129,"DISTRICT HOSPITAL",e41a1c
+"Mbonwa Clinic",-30.618058,29.800769,CLINIC,e41a1c
+"Mboza Clinic",-27.18032,32.26986,CLINIC,e41a1c
+"Mbuthisweni Clinic",-30.059767,30.457975,CLINIC,e41a1c
+"Mduku Clinic",-27.8281,32.38807,CLINIC,e41a1c
+"Mdumezulu Clinic",-28.28497,31.42811,CLINIC,e41a1c
+"Meadow Sweet Clinic",-30.63895,30.03235,CLINIC,e41a1c
+"Melmoth Clinic",-28.589129,31.397772,CLINIC,e41a1c
+"Merebank Clinic",-29.953108,30.970279,CLINIC,e41a1c
+"Mfongosi Clinic",-28.715751,30.806482,CLINIC,e41a1c
+"Mfume Clinic",-30.11986,30.74404,CLINIC,e41a1c
+"Mgangeni Clinic",-30.237236,30.38099,CLINIC,e41a1c
+"Mgayi Clinic",-30.38428,30.47667,CLINIC,e41a1c
+"Mhlangana Clinic",-28.837005,30.301398,CLINIC,e41a1c
+"Mhlungwane Clinic",-28.13813,30.837083,CLINIC,e41a1c
+"Mkhonjane Clinic",-28.150461,30.577392,CLINIC,e41a1c
+"Mkuze Clinic",-27.61855,32.03188,CLINIC,e41a1c
+"Mndozo Clinic",-27.747401,30.190258,CLINIC,e41a1c
+"Mnqobokazi Clinic",-27.7059,32.45598,CLINIC,e41a1c
+"Mntungwana Clinic",-30.146621,30.305561,CLINIC,e41a1c
+"Mnyamana Clinic",-29.81545,29.9335,CLINIC,e41a1c
+"Molokohlo Clinic",-29.492258,31.036248,CLINIC,e41a1c
+"Molweni Clinic",-29.739899,30.878746,CLINIC,e41a1c
+"Mondlo 2 Clinic",-27.9764,30.70956,CLINIC,e41a1c
+"Montebello Hospital",-29.439345,30.807206,"DISTRICT HOSPITAL",e41a1c
+"Mooi River Clinic",-29.207438,29.996071,CLINIC,e41a1c
+"Morrison's Post Clinic",-30.56581,30.42173,CLINIC,e41a1c
+"Mosvold Gateway Clinic",-27.135974,32.004842,CLINIC,e41a1c
+"Mosvold Hospital",-27.135974,32.004842,"DISTRICT HOSPITAL",e41a1c
+"Mpandleni Clinic",-28.620445,31.088608,CLINIC,e41a1c
+"Mpembeni Clinic",-28.13231,31.94133,CLINIC,e41a1c
+"Mphise Clinic",-29.017171,31.101029,CLINIC,e41a1c
+"Mpola Clinic",-29.85356,30.810712,CLINIC,e41a1c
+"Mpophomeni Clinic",-29.566174,30.186578,CLINIC,e41a1c
+"Mpukunyoni Clinic",-28.36738,32.17427,CLINIC,e41a1c
+"Mpumalanga Clinic",-29.803945,30.621675,CLINIC,e41a1c
+"Mpumelelo Clinic",-29.194312,31.291157,CLINIC,e41a1c
+"Mpumuza Clinic",-29.60599,30.27101,CLINIC,e41a1c
+"Mpungamhlophe Clinic",-28.26602,31.25377,CLINIC,e41a1c
+"Mseleni Hospital",-27.32566,32.55664,"DISTRICT HOSPITAL",e41a1c
+"Mshudu Clinic",-26.93222,32.71829,CLINIC,e41a1c
+"Msunduze Bridge Clinic",-29.662982,30.636814,CLINIC,e41a1c
+"Mthandeni Clinic",-29.262169,31.077659,CLINIC,e41a1c
+"Mthimude Clinic",-30.79748,30.04155,CLINIC,e41a1c
+"Mthungweni Clinic",-28.811024,31.053801,CLINIC,e41a1c
+"Mtubatuba Clinic",-28.41123,32.18526,CLINIC,e41a1c
+"Mumbe Clinic",-28.753328,30.548577,CLINIC,e41a1c
+"Murchison Gateway Clinic",-30.72804,30.34402,CLINIC,e41a1c
+"Murchison Hospital",-30.72804,30.34402,"DISTRICT HOSPITAL",e41a1c
+"Mvelabusha Clinic",-27.15918,32.71321,CLINIC,e41a1c
+"Mvoti Clinic",-30.11531,29.52058,CLINIC,e41a1c
+"Mvubukazi Clinic",-30.281271,29.847091,CLINIC,e41a1c
+"Mvutshini Clinic (Hibiscus Coast)",-30.86013,30.37167,CLINIC,e41a1c
+"Mvutshini Clinic (uMlalazi)",-28.951687,31.569289,CLINIC,e41a1c
+"Mzamo Clinic",-29.872292,30.830021,CLINIC,e41a1c
+"Naas Farm Clinic",-27.827587,30.225972,CLINIC,e41a1c
+"Nagina Clinic",-29.870115,30.812235,CLINIC,e41a1c
+"Nandi Clinic",-29.322463,31.302538,CLINIC,e41a1c
+"Ncemaneni Clinic",-28.33601,31.66601,CLINIC,e41a1c
+"Ncibidwane Clinic",-29.1874,29.63677,CLINIC,e41a1c
+"Ncotshane Clinic",-27.34743,31.57839,CLINIC,e41a1c
+"Ndabaningi Clinic",-28.7527,31.068462,CLINIC,e41a1c
+"Ndaleni Clinic",-29.887002,30.247059,CLINIC,e41a1c
+"Ndelu Clinic",-30.49914,30.43265,CLINIC,e41a1c
+"Ndlangubo Clinic",-28.765842,31.697847,CLINIC,e41a1c
+"Ndulinde Clinic",-29.044085,31.431834,CLINIC,e41a1c
+"Ndumo Clinic",-26.9251,32.25149,CLINIC,e41a1c
+"Ndundulu Clinic",-28.679204,31.51057,CLINIC,e41a1c
+"Ndwebu Clinic",-29.511451,30.939442,CLINIC,e41a1c
+"Ndwedwe CHC",-29.513342,30.937473,CHC,e41a1c
+"Nkwali Clinic",-30.102,30.79818,CLINIC,e41a1c
+"Nellies Farm Clinic",-27.927014,30.168082,CLINIC,e41a1c
+"New Germany Clinic",-29.798154,30.875748,CLINIC,e41a1c
+"Newcastle Clinic",-27.75689,29.93014,CLINIC,e41a1c
+"Newcastle Gateway Clinic",-27.76253,29.93597,CLINIC,e41a1c
+"Newcastle Hospital",-27.762146,29.938189,"REGIONAL HOSPITAL",e41a1c
+"Newlands East Clinic",-29.787812,30.969906,CLINIC,e41a1c
+"Newlands West Clinic",-29.779087,30.95483,CLINIC,e41a1c
+"Newtown A CHC",-29.711684,30.941888,CHC,e41a1c
+"Ngqeku Clinic",-27.876136,31.59507,CLINIC,e41a1c
+"Ngubeni Clinic",-29.697086,30.234093,CLINIC,e41a1c
+"Ngubevu Clinic",-28.740558,30.620232,CLINIC,e41a1c
+"Ngudwini Clinic",-29.050737,31.250876,CLINIC,e41a1c
+"Ngwelezana Clinic",-28.773922,31.861982,CLINIC,e41a1c
+"Ngwelezana Hospital",-28.77774,31.864665,"TERTIARY HOSPITAL",e41a1c
+"Nhlabane Clinic",-28.641838,32.239047,CLINIC,e41a1c
+"Nhlalwane Clinic",-30.45653,30.08512,CLINIC,e41a1c
+"Nhlungwana Clinic",-28.30692,31.50194,CLINIC,e41a1c
+"Niemeyer Gateway Clinic",-27.66179,30.31595,CLINIC,e41a1c
+"Philani Clinic",-30.25138,30.68312,CLINIC,e41a1c
+"Niemeyer Memorial Hospital",-27.662444,30.316676,"DISTRICT HOSPITAL",e41a1c
+"Njoko Clinic",-27.8086,31.85331,CLINIC,e41a1c
+"Nkande Clinic",-27.992658,30.623824,CLINIC,e41a1c
+"Nkandla Hospital",-28.623753,31.087494,"DISTRICT HOSPITAL",e41a1c
+"Nkonjeni Gateway Clinic",-28.22664,31.41517,CLINIC,e41a1c
+"Nkonjeni Hospital",-28.22664,31.41517,"DISTRICT HOSPITAL",e41a1c
+"Nkundusi Clinic",-28.14607,32.31981,CLINIC,e41a1c
+"Nkungwini Clinic",-27.00989,32.00876,CLINIC,e41a1c
+"Nkunzana Clinic",-27.73985,31.70636,CLINIC,e41a1c
+"Nkwalini Clinic",-28.725936,31.524931,CLINIC,e41a1c
+"Nocomboshe Clinic",-28.668275,30.622324,CLINIC,e41a1c
+"Nokweja Clinic",-30.297344,30.02097,CLINIC,e41a1c
+"Nomdiya Clinic",-28.227386,31.377822,CLINIC,e41a1c
+"Nomponjwana Clinic",-28.638359,31.579838,CLINIC,e41a1c
+"Nondabuya Clinic",-27.34592,32.15599,CLINIC,e41a1c
+"Nondweni Clinic",-28.19461,30.81723,CLINIC,e41a1c
+"Nongamlane Clinic",-28.428968,30.923011,CLINIC,e41a1c
+"Nongoma Clinic",-27.89991,31.650186,CLINIC,e41a1c
+"Northdale Clinic",-29.566573,30.402485,CLINIC,e41a1c
+"Northdale Gateway Clinic",-29.577754,30.401037,CLINIC,e41a1c
+"Northdale Hospital",-29.577754,30.401037,"DISTRICT HOSPITAL",e41a1c
+"Nseleni CHC",-28.666106,32.025838,CHC,e41a1c
+"Nsimbini Clinic",-30.000896,30.855687,CLINIC,e41a1c
+"Ntababomvu Clinic",-28.0385,30.7151,CLINIC,e41a1c
+"Ntabamhlope Clinic",-29.103963,29.688698,CLINIC,e41a1c
+"Ntabeni Clinic",-30.97163,30.23546,CLINIC,e41a1c
+"Ntambanana Clinic",-28.604568,31.746755,CLINIC,e41a1c
+"Ntembeni Clinic",-29.715798,30.248985,CLINIC,e41a1c
+"Ntembisweni Clinic",-29.165278,30.760544,CLINIC,e41a1c
+"Ntimbankulu Clinic",-30.55663,30.27177,CLINIC,e41a1c
+"Ntinini Clinic",-28.269396,30.898104,CLINIC,e41a1c
+"Ntondweni Clinic",-28.1998,32.16822,CLINIC,e41a1c
+"Ntshongwe Clinic",-27.43392,32.37124,CLINIC,e41a1c
+"Ntshongweni Clinic",-29.853065,30.687574,CLINIC,e41a1c
+"Ntumeni Clinic",-28.858903,31.322448,CLINIC,e41a1c
+"Ntuze Clinic",-28.890278,31.740918,CLINIC,e41a1c
+"Ntuzuma Clinic",-29.72779,30.947116,CLINIC,e41a1c
+"Nxamalala Clinic (Eshowe)",-28.832613,31.117795,CLINIC,e41a1c
+"Nxamalala Clinic (Impendle)",-29.599548,29.770905,CLINIC,e41a1c
+"Nyangwini Happy Hours Clinic",-30.50311,30.59327,CLINIC,e41a1c
+"Ocilwane Clinic",-28.412653,31.989334,CLINIC,e41a1c
+"Odidini Clinic",-30.035226,30.680936,CLINIC,e41a1c
+"Ohwebede Clinic",-29.180473,31.512155,CLINIC,e41a1c
+"Oliviershoek Clinic",-28.699105,29.156985,CLINIC,e41a1c
+"Ophansi Clinic",-27.58916,32.31415,CLINIC,e41a1c
+"Ophondweni Clinic",-27.30026,32.09982,CLINIC,e41a1c
+"Ophuzana Clinic",-27.469497,30.950839,CLINIC,e41a1c
+"Oqaqeni Clinic",-29.14053,31.160861,CLINIC,e41a1c
+"Oqondweni Clinic",-27.57185,32.44586,CLINIC,e41a1c
+"Oribi Clinic",-29.63804,30.3963,CLINIC,e41a1c
+"Osindisweni Hospital",-29.608445,30.982711,"DISTRICT HOSPITAL",e41a1c
+"Osizweni (Umlazi Q) Clinic",-29.974846,30.895303,CLINIC,e41a1c
+"Osizweni 1 Clinic",-27.791203,30.130767,CLINIC,e41a1c
+"Osizweni 2 Clinic",-27.79198,30.12162,CLINIC,e41a1c
+"Osizweni 3 Clinic",-27.784274,30.161097,CLINIC,e41a1c
+"Osungulweni Clinic",-28.843985,31.204307,CLINIC,e41a1c
+"Otimati Clinic",-29.199323,31.148987,CLINIC,e41a1c
+"Pata Clinic",-29.662022,30.326176,CLINIC,e41a1c
+"Paulpietersburg Satellite Clinic",-27.76714,30.804417,CLINIC,e41a1c
+"Peaceville Clinic",-29.797369,30.609128,CLINIC,e41a1c
+"Pennington Clinic",-30.37076,30.70339,CLINIC,e41a1c
+"Phaphamani Clinic",-28.889787,31.893576,CLINIC,e41a1c
+"Phatheni Clinic",-29.95411,30.21231,CLINIC,e41a1c
+"Phelandaba Clinic",-27.08398,32.55651,CLINIC,e41a1c
+"Phoenix CHC",-29.707382,30.992609,CHC,e41a1c
+"Phoenix Rehabilitation Centre",-29.691208,30.99653,"SPECIALISED REHABILITATION HOSPITAL",e41a1c
+"Pholela CHC",-29.763837,29.858579,CHC,e41a1c
+"Phungashe Clinic",-30.42536,30.15072,CLINIC,e41a1c
+"Pine Street (Greytown) Clinic",-29.05854,30.59368,CLINIC,e41a1c
+"Pinetown Clinic",-29.817413,30.858986,CLINIC,e41a1c
+"Pisgah Clinic",-30.683914,29.879229,CLINIC,e41a1c
+"Pongola Clinic",-27.37877,31.610831,CLINIC,e41a1c
+"Port Edward Clinic",-31.04673,30.21088,CLINIC,e41a1c
+"Port Shepstone Clinic",-30.73751,30.44332,CLINIC,e41a1c
+"Port Shepstone Hospital",-30.743339,30.45173,"REGIONAL HOSPITAL",e41a1c
+"Prince Mshiyeni Gateway Clinic",-29.957593,30.94162,CLINIC,e41a1c
+"Prince Mshiyeni Memorial Hospital",-29.956366,30.93235,"REGIONAL HOSPITAL",e41a1c
+"Prince Zulu Communicable Diseases
+Centre Clinic",-29.859227,31.009549,CLINIC,e41a1c
+"Princess Mhlosheni Clinic",-27.435309,30.986513,CLINIC,e41a1c
+"Qadi Clinic",-29.66748,30.903122,CLINIC,e41a1c
+"Qalukubheka Clinic",-27.488516,31.165243,CLINIC,e41a1c
+"Qinelani Clinic",-28.531774,30.510675,CLINIC,e41a1c
+"Queen Nolonolo Clinic",-27.899103,31.649809,CLINIC,e41a1c
+"Qulashe Clinic",-30.016764,29.725834,CLINIC,e41a1c
+"Redcliffe Clinic",-29.639621,31.021614,CLINIC,e41a1c
+"Redhill Clinic",-29.777967,31.020262,CLINIC,e41a1c
+"Reservoir Hills Clinic",-29.803137,30.952156,CLINIC,e41a1c
+"Richards Bay Clinic",-28.7555,32.05025,CLINIC,e41a1c
+"Richmond Chest Hospital (TB)",-29.864933,30.275359,"SPECIALISED TB HOSPITAL",e41a1c
+"Richmond Clinic",-29.868806,30.274324,CLINIC,e41a1c
+"Rietvlei Clinic",-30.48627,29.83286,CLINIC,e41a1c
+"Rietvlei Hospital",-30.487004,29.827468,"DISTRICT HOSPITAL",e41a1c
+"Riverside Clinic",-30.08038,29.70181,CLINIC,e41a1c
+"RK Khan Gateway Clinic",-29.917127,30.886307,CLINIC,e41a1c
+"RK Khan Hospital",-29.917127,30.886307,"REGIONAL HOSPITAL",e41a1c
+"Rockcliff Clinic",-28.50071,30.20779,CLINIC,e41a1c
+"Rorke's Drift Clinic",-28.36278,30.54022,CLINIC,e41a1c
+"Rydalvale Clinic",-29.748175,30.970521,CLINIC,e41a1c
+"Sahlumbe Clinic",-28.739084,30.19308,CLINIC,e41a1c
+"Sakhimpilo Clinic",-28.18352,30.23671,CLINIC,e41a1c
+"Samungu Clinic",-28.999062,31.325476,CLINIC,e41a1c
+"Sandanezwe Clinic",-29.86822,30.00039,CLINIC,e41a1c
+"Sangcwaba Clinic",-30.185584,30.406675,CLINIC,e41a1c
+"Santombe Clinic",-30.530032,30.024852,CLINIC,e41a1c
+"Sappi Clinic (Umbonambi)",-28.594555,32.090136,CLINIC,e41a1c
+"Savannah Park Clinic",-29.883202,30.847142,CLINIC,e41a1c
+"Scottburgh Clinic",-30.28622,30.75435,CLINIC,e41a1c
+"Scottsville Clinic",-29.624998,30.394272,CLINIC,e41a1c
+"Sea Cow Lake Clinic",-29.796352,31.00205,CLINIC,e41a1c
+"Shakaskraal Clinic",-29.451725,31.218507,CLINIC,e41a1c
+"Shallcross Clinic",-29.889258,30.878636,CLINIC,e41a1c
+"Shelly Beach Clinic",-30.8007,30.4118,CLINIC,e41a1c
+"Shemula Clinic",-27.082,32.22862,CLINIC,e41a1c
+"Sibuyane Clinic",-28.84451,30.89924,CLINIC,e41a1c
+"Sihleza Clinic",-30.454121,29.725093,CLINIC,e41a1c
+"Sinathing Clinic",-29.675089,30.294848,CLINIC,e41a1c
+"Singisi Clinic",-30.251018,29.546893,CLINIC,e41a1c
+"Siphamandla Clinic",-30.132959,29.819325,CLINIC,e41a1c
+"Siphilile Clinic",-28.82402,31.503258,CLINIC,e41a1c
+"Siphimpilo Clinic",-28.195,30.159158,CLINIC,e41a1c
+"Sivananda Clinic",-29.699255,30.957273,CLINIC,e41a1c
+"Siyakhathala Clinic",-28.093513,30.787954,CLINIC,e41a1c
+"Sizana Clinic",-27.92889,31.40055,CLINIC,e41a1c
+"Sobantu Clinic",-29.595262,30.424884,CLINIC,e41a1c
+"Sokhulu Clinic",-28.553517,32.314385,CLINIC,e41a1c
+"Somkhele Clinic",-28.33076,32.10105,CLINIC,e41a1c
+"Songonzima Clinic",-29.69794,30.12528,CLINIC,e41a1c
+"Southport Clinic",-30.67819,30.50544,CLINIC,e41a1c
+"Sovane Clinic",-27.65295,31.79266,CLINIC,e41a1c
+"St Aidans Hospital",-29.850741,31.010982,"REGIONAL HOSPITAL",e41a1c
+"St Andrew's Hospital",-30.57556,29.88928,"DISTRICT HOSPITAL",e41a1c
+"St Andrew's Gateway Clinic",-30.575155,28.04807,CLINIC,e41a1c
+"St Apollinaris Gateway Clinic",-30.017389,29.727421,CLINIC,e41a1c
+"St Apollinaris Hospital",-30.017389,29.727421,"DISTRICT HOSPITAL",e41a1c
+"St Faith's Clinic",-30.52961,30.20199,CLINIC,e41a1c
+"St Francis Gateway Clinic",-28.22367,31.47712,CLINIC,e41a1c
+"St Francis Hospital",-28.22467,31.47673,"DISTRICT HOSPITAL",e41a1c
+"St Margaret's TB Hospital",-30.26925,29.93272,"SPECIALISED TB HOSPITAL",e41a1c
+"St Margaret's Clinic",-30.294234,29.939128,CLINIC,e41a1c
+"Stafford Clinic",-27.768868,30.080899,CLINIC,e41a1c
+"Stanger Hospital",-29.335753,31.285581,"REGIONAL HOSPITAL",e41a1c
+"Starwood Clinic",-29.703323,31.006368,CLINIC,e41a1c
+"Steadville Clinic",-28.56131,29.81747,CLINIC,e41a1c
+"Stedham Clinic",-28.0628,31.30274,CLINIC,e41a1c
+"Stonebridge Clinic",-29.723963,31.017907,CLINIC,e41a1c
+"Stott Road Clinic",-29.60682,30.33705,CLINIC,e41a1c
+"Sukumani Clinic",-27.780449,30.096295,CLINIC,e41a1c
+"Sundumbili CHC",-29.13652,31.400921,CHC,e41a1c
+"Swart Mfolozi Clinic",-27.93459,31.210172,CLINIC,e41a1c
+"Sydenham Heights Clinic",-29.827214,30.981558,CLINIC,e41a1c
+"Taylors Halt Clinic",-29.682034,30.191312,CLINIC,e41a1c
+"Thafamasi Clinic",-29.535507,30.856175,CLINIC,e41a1c
+"Thalaneni Clinic",-28.553786,31.045354,CLINIC,e41a1c
+"Thandanani Clinic (Dannhauser)",-28.029623,30.060128,CLINIC,e41a1c
+"Thembalesizwe Clinic",-30.86096,30.15106,CLINIC,e41a1c
+"Thembalihle Clinic",-27.92863,30.2477,CLINIC,e41a1c
+"Thembumusa Clinic",-27.98956,30.72538,CLINIC,e41a1c
+"Thengane Clinic",-27.01977,32.69127,CLINIC,e41a1c
+"Thokozani Clinic",-28.86794,31.910061,CLINIC,e41a1c
+"Tholusizo Clinic",-28.736713,29.838567,CLINIC,e41a1c
+"Thonjeni Clinic",-30.64673,30.12131,CLINIC,e41a1c
+"Thulasizwe Hospital",-27.952137,31.367512,"SPECIALISED TB HOSPITAL",e41a1c
+"Tobolsk Clinic",-27.30378,31.22592,CLINIC,e41a1c
+"Tongaat CHC",-29.568754,31.116977,CHC,e41a1c
+"Townhill Hospital (Psychiatric)",-29.58822,30.37065,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Trenance Park Clinic",-29.653803,31.004367,CLINIC,e41a1c
+"Tsatsi Memorial Clinic",-29.64956,29.6722,CLINIC,e41a1c
+"Tshelimnyama Clinic",-29.84314,30.808952,CLINIC,e41a1c
+"Ukuthula Clinic",-29.071788,30.606097,CLINIC,e41a1c
+"Ulundi A Clinic",-28.33395,31.41422,CLINIC,e41a1c
+"Umbumbulu Clinic",-29.981191,30.699194,CLINIC,e41a1c
+"Umgeni Waterfall Institute Hospital",-29.500816,30.232358,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Umkhontokayise Clinic",-28.916093,31.828246,CLINIC,e41a1c
+"Umkomaas Clinic",-30.205621,30.797583,CLINIC,e41a1c
+"Umlazi AA Clinic",-29.977585,30.867012,CLINIC,e41a1c
+"Umlazi D Clinic",-29.96903,30.904852,CLINIC,e41a1c
+"Umlazi G Clinic",-29.952497,30.884915,CLINIC,e41a1c
+"Umlazi K Clinic",-29.964309,30.850586,CLINIC,e41a1c
+"Umlazi N Clinic",-29.959543,30.87269,CLINIC,e41a1c
+"Umlazi U21 Clinic",-29.989553,30.891967,CLINIC,e41a1c
+"Umlazi V Clinic",-29.960173,30.930411,CLINIC,e41a1c
+"Umnini Clinic",-30.12931,30.823766,CLINIC,e41a1c
+"Umphumulo Hospital",-29.141566,31.041884,"DISTRICT HOSPITAL",e41a1c
+"Umtentweni Clinic",-30.71964,30.47349,CLINIC,e41a1c
+"Umzimkhulu Clinic",-30.260717,29.930041,CLINIC,e41a1c
+"Umzimkhulu Hospital",-30.260717,29.930041,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Umzinto Clinic",-30.30439,30.66762,UNKNOWN,e41a1c
+"Umzinto North Clinic",-30.30441,30.66793,CLINIC,e41a1c
+"Umzomuhle (Umlazi H) Clinic",-29.950912,30.86832,CLINIC,e41a1c
+"Underberg Clinic",-29.7954,29.49901,CLINIC,e41a1c
+"Untunjambili Hospital",-28.945181,30.948095,"DISTRICT HOSPITAL",e41a1c
+"Usuthu Clinic",-27.96356,31.49389,CLINIC,e41a1c
+"Verdriet Clinic",-27.991332,30.146356,CLINIC,e41a1c
+"Verulam Clinic",-29.645994,31.0471,CLINIC,e41a1c
+"Vryheid Gateway Clinic",-27.7585,30.79666,CLINIC,e41a1c
+"Vryheid Hospital",-27.75871,30.796942,"DISTRICT HOSPITAL",e41a1c
+"Vumanhlamvu Clinic",-28.685324,31.116382,CLINIC,e41a1c
+"Walton Clinic",-28.55752,29.77847,CLINIC,e41a1c
+"Wasbank Clinic",-28.31371,30.09895,CLINIC,e41a1c
+"Waterfall Clinic",-29.749316,30.818257,CLINIC,e41a1c
+"Watersmeet Clinic",-28.396294,29.734626,CLINIC,e41a1c
+"Wela Clinic",-28.2261,31.56834,CLINIC,e41a1c
+"Welbedacht Clinic",-29.925196,30.859922,CLINIC,e41a1c
+"Wembezi Clinic",-29.05206,29.78524,CLINIC,e41a1c
+"Wentworth Hospital",-29.92789,30.993783,"DISTRICT HOSPITAL",e41a1c
+"Westville Clinic",-29.83398,30.911947,CLINIC,e41a1c
+"Weza Clinic",-30.59111,29.74543,CLINIC,e41a1c
+"Willowfountain Clinic",-29.704106,30.326965,CLINIC,e41a1c
+"Woodlands Clinic",-29.579886,30.392658,CLINIC,e41a1c
+"Wosiyane Clinic",-29.555043,30.782637,CLINIC,e41a1c
+"Wyebank Clinic",-29.77072,30.876689,CLINIC,e41a1c
+"Xhamini Clinic",-30.74335,29.90819,CLINIC,e41a1c
+"Xulu Clinic",-28.648761,30.941558,CLINIC,e41a1c
+"Zama Zama Clinic",-27.12576,32.28077,CLINIC,e41a1c
+"Zilulwane Clinic",-28.33705,31.60549,CLINIC,e41a1c
+"Zwelibomvu Clinic",-29.885579,30.70911,CLINIC,e41a1c
+"Zwelisha Clinic",-29.059236,29.736734,CLINIC,e41a1c
+"A Mamabolo Clinic",-23.879333,29.820583,CLINIC,e41a1c
+"Abbotspoort Clinic",-23.454984,28.094192,CLINIC,e41a1c
+"Alldays Clinic",-22.68309,29.10583,CLINIC,e41a1c
+"Alma Clinic",-24.48883,28.07,CLINIC,e41a1c
+"Ambergate Clinic",-23.51674,28.93679,CLINIC,e41a1c
+"Armoed Clinic",-23.95502,28.98525,CLINIC,e41a1c
+"Bakenberg Clinic",-23.864862,28.755931,CLINIC,e41a1c
+"Basani Clinic",-23.369387,30.519226,CLINIC,e41a1c
+"Bavaria Clinic",-23.52411,28.83294,CLINIC,e41a1c
+"Beaconsfield Clinic",-22.921626,30.118812,CLINIC,e41a1c
+"Bela-Bela Clinic",-24.88501,28.31111,CLINIC,e41a1c
+"Bellevue Clinic",-23.41218,30.420756,CLINIC,e41a1c
+"Benfarm Clinic",-23.916257,31.037182,CLINIC,e41a1c
+"Bismarck Clinic",-24.204862,30.502046,CLINIC,e41a1c
+"Block 14 Clinic",-23.988778,29.785778,CLINIC,e41a1c
+"Blouberg CHC",-23.142338,29.007753,CHC,e41a1c
+"Bochabelo Clinic",-23.430491,30.51281,CLINIC,e41a1c
+"Bokwalakwala Clinic",-24.147287,28.95101,CLINIC,e41a1c
+"Bolobedu Clinic",-23.623606,30.346306,CLINIC,e41a1c
+"Boschkloof Clinic",-24.803867,30.093535,CLINIC,e41a1c
+"Boschplaats Clinic",-24.458639,29.551583,CLINIC,e41a1c
+"Botlokwa Gateway Clinic",-23.49267,29.742715,CLINIC,e41a1c
+"Botlokwa Hospital",-23.49267,29.742715,"DISTRICT HOSPITAL",e41a1c
+"Buffelshoek Clinic (Blouberg)",-23.149402,28.924309,CLINIC,e41a1c
+"Buitestraat Clinic",-23.90203,29.44171,CLINIC,e41a1c
+"Bungeni CHC",-23.202958,30.197559,CHC,e41a1c
+"Burgerecht Clinic",-22.987281,28.95354,CLINIC,e41a1c
+"Burgersfort CHC",-24.665504,30.322735,CHC,e41a1c
+"Byldrift Clinic",-24.5457,29.50373,CLINIC,e41a1c
+"Calais Clinic",-24.13552,30.33522,CLINIC,e41a1c
+"Carlotta Clinic",-23.59837,30.19,CLINIC,e41a1c
+"Chalema Clinic",-23.764964,28.747219,CLINIC,e41a1c
+"Charlie Rangaan Clinic",-23.477201,30.552182,CLINIC,e41a1c
+"Chromite Clinic",-24.78526,27.28994,CLINIC,e41a1c
+"Chuene Clinic",-24.19153,29.48562,CLINIC,e41a1c
+"Damani Clinic",-22.835295,30.512069,CLINIC,e41a1c
+"Dan Village Clinic",-23.5414,30.1617,CLINIC,e41a1c
+"Davhana Clinic",-23.209845,30.456778,CLINIC,e41a1c
+"De Hoop Clinic",-23.187468,30.276443,CLINIC,e41a1c
+"De Vrede Clinic",-22.91736,29.02086,CLINIC,e41a1c
+"Dendron Clinic",-23.36725,29.3275,CLINIC,e41a1c
+"Diana Clinic",-23.86978,29.06661,CLINIC,e41a1c
+"Dichoeung Clinic",-24.752302,29.887812,CLINIC,e41a1c
+"Dikgalaopeng Clinic",-24.985494,29.457291,CLINIC,e41a1c
+"Dikgale Clinic",-23.750333,29.773139,CLINIC,e41a1c
+"Dilokong Gateway Clinic",-24.614375,30.170742,CLINIC,e41a1c
+"Dilokong Hospital",-24.614375,30.170742,"DISTRICT HOSPITAL",e41a1c
+"Dithabaneng Clinic",-24.370444,29.577611,CLINIC,e41a1c
+"Donald Fraser Hospital",-22.886534,30.479041,"DISTRICT HOSPITAL",e41a1c
+"Dr CN Phatudi Hospital",-24.027411,30.28052,"DISTRICT HOSPITAL",e41a1c
+"Dr Hugo Nkabinde Clinic",-23.668715,30.426295,CLINIC,e41a1c
+"Dr Machupe Mphahlele CHC",-24.310972,29.337278,CHC,e41a1c
+"Duiwelskloof CHC",-23.688903,30.1349,CHC,e41a1c
+"Duiwelskloof Gateway Clinic",-23.688903,30.1349,CLINIC,e41a1c
+"Duvhuledza Clinic",-22.75654,30.78772,CLINIC,e41a1c
+"Dwaalboom Clinic",-24.722543,26.808974,CLINIC,e41a1c
+"Dzingahe Clinic",-22.909498,30.522391,CLINIC,e41a1c
+"Dzumeri CHC",-23.577,30.708,CLINIC,e41a1c
+"Dzwerani Clinic",-23.05638,30.423079,CLINIC,e41a1c
+"Eensaam Clinic",-24.95333,29.886,CLINIC,e41a1c
+"Eerstegeluk Clinic",-24.73189,30.13331,CLINIC,e41a1c
+"Eisleben Clinic",-23.51861,29.8415,CLINIC,e41a1c
+"Elandsdoorn Clinic",-25.28496,29.21345,CLINIC,e41a1c
+"Elandskraal Clinic",-24.714006,29.412109,CLINIC,e41a1c
+"Elim Hospital",-23.154608,30.055622,"DISTRICT HOSPITAL",e41a1c
+"Ellisras Clinic",-23.667839,27.745816,CLINIC,e41a1c
+"Guyuni Clinic",-22.727805,30.47608,CLINIC,e41a1c
+"Ellisras Hospital",-23.678034,27.701297,"DISTRICT HOSPITAL",e41a1c
+"Evelyn Lekganyane Clinic",-23.94575,29.798528,CLINIC,e41a1c
+"Evuxakeni Hospital",-23.318573,30.729876,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"FH Odendaal (Nylstroom) Hospital",-24.692743,28.415805,"DISTRICT HOSPITAL",e41a1c
+"FH Odendaal MDR Hospital",-24.708943,28.392963,"SPECIALISED TB HOSPITAL",e41a1c
+"Folovhodwe Clinic",-22.588436,30.427727,CLINIC,e41a1c
+"Fondwe Clinic",-22.917496,30.259019,CLINIC,e41a1c
+"Frisgewaght Clinic",-25.02083,29.66878,CLINIC,e41a1c
+"George Masebe Gateway Clinic",-23.875615,28.693596,CLINIC,e41a1c
+"George Masebe Hospital",-23.875615,28.693596,"DISTRICT HOSPITAL",e41a1c
+"Gideon Clinic",-22.901019,28.67753,CLINIC,e41a1c
+"Giyani CHC",-23.312957,30.723224,CHC,e41a1c
+"Goedentrou Clinic",-23.40075,28.91244,CLINIC,e41a1c
+"Goedgedach Clinic",-25.06067,29.71783,UNKNOWN,e41a1c
+"Goedgevonden Clinic",-23.64744,28.93106,CLINIC,e41a1c
+"Gondeni Clinic",-22.914776,30.436968,CLINIC,e41a1c
+"Groblersdal Clinic",-25.1688,29.40087,CLINIC,e41a1c
+"Groblersdal Hospital",-25.176187,29.403939,"DISTRICT HOSPITAL",e41a1c
+"Grootdraai Clinic",-23.117549,28.707927,CLINIC,e41a1c
+"Ha-mutsha Clinic",-23.064321,30.349525,CLINIC,e41a1c
+"Hayani Hospital",-22.941292,30.485537,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"HC Boshoff Gateway Clinic",-24.59593,30.0814,CHC,e41a1c
+"Helderwater Clinic",-23.28194,30.29619,CLINIC,e41a1c
+"Helene Franz Gateway Clinic",-23.28185,29.10823,CLINIC,e41a1c
+"Helene Franz Hospital",-23.28381,29.11313,"DISTRICT HOSPITAL",e41a1c
+"Hlaneki Clinic",-23.31558,30.40604,CLINIC,e41a1c
+"Hlogotlou Clinic",-25.028924,29.733556,CLINIC,e41a1c
+"Hoedspruit Clinic",-24.355627,30.951246,CLINIC,e41a1c
+"Humulani Clinic",-23.87525,31.060168,CLINIC,e41a1c
+"Ikageng Clinic",-24.57066,29.873476,CLINIC,e41a1c
+"Indermark Clinic",-23.079771,29.110379,CLINIC,e41a1c
+"J Mamabolo Clinic",-23.879667,29.820403,CLINIC,e41a1c
+"Jakkalskuil Clinic",-23.83317,28.60781,CLINIC,e41a1c
+"Jamela Clinic",-23.57629,30.22164,CLINIC,e41a1c
+"Jane Furse Gateway Clinic",-24.756818,29.854789,CLINIC,e41a1c
+"Jane Furse Hospital",-24.756818,29.854789,"DISTRICT HOSPITAL",e41a1c
+"Julesburg CHC",-24.06953,30.32853,CHC,e41a1c
+"Keerom Clinic",-24.964793,29.003091,CLINIC,e41a1c
+"Kgapane Clinic",-23.64075,30.21775,CLINIC,e41a1c
+"Kgapane Hospital",-23.648131,30.218142,"DISTRICT HOSPITAL",e41a1c
+"Khakhala-Hlomela Clinic",-23.27503,30.84423,CLINIC,e41a1c
+"Khakhu Clinic",-22.836291,30.247268,CLINIC,e41a1c
+"Kheyi Clinic",-23.579488,30.873804,CLINIC,e41a1c
+"Khomela Clinic",-22.70679,30.261318,CLINIC,e41a1c
+"Khujwana Clinic",-23.93017,30.2395,CLINIC,e41a1c
+"Kibi Clinic",-22.83644,28.84697,CLINIC,e41a1c
+"Maraba Clinic",-23.786389,29.172167,CLINIC,e41a1c
+"Klipspruit Clinic",-25.008715,29.740741,CLINIC,e41a1c
+"Krantzplaas Clinic",-23.48622,28.91639,CLINIC,e41a1c
+"Kremetart Clinic",-23.31128,30.69169,CLINIC,e41a1c
+"Kromdraai Clinic",-24.95978,27.87869,CLINIC,e41a1c
+"Kromhoek Clinic",-22.93269,29.02653,CLINIC,e41a1c
+"Kulani Clinic",-23.09114,30.03227,CLINIC,e41a1c
+"Kuruleni Clinic",-23.155641,30.358443,CLINIC,e41a1c
+"Kutama Clinic",-23.064965,29.63562,CLINIC,e41a1c
+"Kwarrielaagte Clinic",-25.31952,29.2619,CHC,e41a1c
+"Laastehoop Clinic",-23.984667,29.645417,CLINIC,e41a1c
+"Lambani Clinic",-22.721439,30.83228,CLINIC,e41a1c
+"Lebaka Clinic",-23.463192,30.36741,CLINIC,e41a1c
+"Lebowakgomo Clinic",-24.308333,29.556667,CLINIC,e41a1c
+"Lebowakgomo Gateway Clinic",-24.295667,29.52875,CLINIC,e41a1c
+"Lebowakgomo Hospital",-24.295667,29.52875,"DISTRICT HOSPITAL",e41a1c
+"Ledwaba Clinic",-24.272889,29.421667,CLINIC,e41a1c
+"Lekhureng Clinic",-23.57325,28.92033,CLINIC,e41a1c
+"Lenyenye Clinic",-23.97418,30.268214,CLINIC,e41a1c
+"Lephalale Clinic",-23.68182,27.72298,CLINIC,e41a1c
+"Lephepane Clinic",-23.986542,30.194432,CLINIC,e41a1c
+"Lesfontein Clinic",-23.14932,28.78547,CLINIC,e41a1c
+"Letaba Hospital",-23.873658,30.269973,"REGIONAL HOSPITAL",e41a1c
+"Letsitele Clinic",-23.890017,30.386193,CLINIC,e41a1c
+"Levubu Clinic",-23.087825,30.293671,CLINIC,e41a1c
+"Lonsdale Clinic",-23.61286,29.15572,CLINIC,e41a1c
+"Lorraine Clinic",-24.191362,30.423154,CLINIC,e41a1c
+"Louis Trichardt Clinic",-23.0373,29.90747,CLINIC,e41a1c
+"Louis Trichardt Hospital",-23.029091,29.906158,"DISTRICT HOSPITAL",e41a1c
+"Lulekani CHC",-23.864548,31.07713,CHC,e41a1c
+"Lwamondo Clinic",-23.01423,30.36252,CLINIC,e41a1c
+"Maake Clinic",-24.03469,30.23681,CLINIC,e41a1c
+"Mabins Clinic",-24.376749,30.542912,CLINIC,e41a1c
+"Madala Clinic",-22.8317,30.272881,CLINIC,e41a1c
+"Madibong Clinic",-24.734598,29.882442,CLINIC,e41a1c
+"Madimbo Clinic",-22.451887,30.562704,CLINIC,e41a1c
+"Madombidzha Clinic",-23.114907,29.819636,CLINIC,e41a1c
+"Madumane Clinic",-23.62928,30.399637,CLINIC,e41a1c
+"Mafefe Clinic",-24.195278,30.099528,CLINIC,e41a1c
+"Magalies Clinic",-24.561873,29.642551,CLINIC,e41a1c
+"Magukubjane Clinic",-24.997465,29.812335,CLINIC,e41a1c
+"Magwedzha Clinic",-22.958171,30.56022,CLINIC,e41a1c
+"Mahale Clinic",-23.694781,30.968437,CLINIC,e41a1c
+"Mahubahube Clinic",-24.60853,30.297085,CLINIC,e41a1c
+"Mahwelereng 1 Clinic",-24.14738,28.98125,CLINIC,e41a1c
+"Mahwelereng 2 Clinic",-24.12868,28.98323,CLINIC,e41a1c
+"Mahwelereng Zone 2 Clinic",-24.13981,28.99181,CLINIC,e41a1c
+"Maja Clinic",-24.182778,29.537,CLINIC,e41a1c
+"Makahlule Clinic",-22.892465,30.91145,CLINIC,e41a1c
+"Makanye Clinic",-23.897889,29.724056,CLINIC,e41a1c
+"Makeepsvlei Clinic",-24.930143,29.044939,CLINIC,e41a1c
+"Makgato Clinic",-23.50556,29.66342,CLINIC,e41a1c
+"Makgope Clinic",-23.617767,30.46803,CLINIC,e41a1c
+"Makhado CHC",-22.900885,30.033966,CHC,e41a1c
+"Makhushane Clinic",-23.965475,31.04407,CLINIC,e41a1c
+"Makhuva Clinic",-23.58178,30.96644,CLINIC,e41a1c
+"Makofane Clinic",-24.496712,30.225188,CLINIC,e41a1c
+"Makonde Clinic",-22.807707,30.568468,CLINIC,e41a1c
+"Makotopong Clinic",-23.818227,29.641223,CLINIC,e41a1c
+"Makuleke Clinic",-22.86516,30.914707,CLINIC,e41a1c
+"Makuya Clinic",-22.649601,30.83,CLINIC,e41a1c
+"Malamulele Clinic",-23.013299,30.701439,CLINIC,e41a1c
+"Malamulele Hospital",-22.997084,30.697244,"DISTRICT HOSPITAL",e41a1c
+"Malemati Clinic",-24.385222,29.638333,CLINIC,e41a1c
+"Mamaila Clinic",-23.351114,30.242666,CLINIC,e41a1c
+"Mamanyoha Clinic",-23.52643,30.517091,CLINIC,e41a1c
+"Mamaselela Clinic",-24.004258,28.872221,CLINIC,e41a1c
+"Mamitwa Clinic",-23.732543,30.408768,CLINIC,e41a1c
+"Mamotshwa Clinic",-23.85175,29.805972,CLINIC,e41a1c
+"Mampana Clinic",-24.728285,29.533364,CLINIC,e41a1c
+"Mamushi Clinic",-24.059222,29.695722,CLINIC,e41a1c
+"Manamela Clinic",-23.70282,29.22873,CLINIC,e41a1c
+"Manavhela Clinic",-23.100741,30.451789,CLINIC,e41a1c
+"Manenzhe Clinic",-22.469377,30.681097,CLINIC,e41a1c
+"Manganeng Clinic",-24.669982,29.969145,CLINIC,e41a1c
+"Mankotsane Clinic",-24.414675,29.747176,CLINIC,e41a1c
+"Mankuwe Clinic",-23.4678,28.55959,CLINIC,e41a1c
+"Mankweng Clinic",-23.885833,29.727167,CLINIC,e41a1c
+"Mankweng Gateway Clinic",-23.880744,29.726032,CLINIC,e41a1c
+"Mankweng Hospital",-23.880744,29.726032,"TERTIARY HOSPITAL",e41a1c
+"Manotoana Clinic",-24.35622,29.94908,CLINIC,e41a1c
+"Manyima Clinic",-23.276653,30.018919,CLINIC,e41a1c
+"Mapayeni Clinic",-23.349082,30.819102,CLINIC,e41a1c
+"Mapela Clinic",-23.955384,28.847587,CLINIC,e41a1c
+"Maphalle Clinic",-23.468453,30.311993,CLINIC,e41a1c
+"Maphutha L Malatjie Hospital",-23.924395,31.0365,"DISTRICT HOSPITAL",e41a1c
+"Mapodu Clinic",-23.88762,29.87347,CLINIC,e41a1c
+"Marapong Clinic",-23.65853,27.62908,CLINIC,e41a1c
+"Marble Hall Clinic",-24.96662,29.29493,CLINIC,e41a1c
+"Marishane Clinic",-24.72744,29.74683,CLINIC,e41a1c
+"Mariveni Clinic",-23.887486,30.348744,CLINIC,e41a1c
+"Marseilles Clinic",-23.221564,30.335789,CLINIC,e41a1c
+"Marulaneng Clinic
+(Makhuduthamaga)",-24.67355,29.89997,CLINIC,e41a1c
+"Marulaneng Clinic (Marble Hall)",-24.673967,29.900837,CLINIC,e41a1c
+"Masakona Clinic",-23.274246,30.24442,CLINIC,e41a1c
+"Mashabela Clinic",-24.438398,30.004837,CLINIC,e41a1c
+"Mashamba Clinic",-23.235539,30.152806,CLINIC,e41a1c
+"Mashashane Clinic",-23.93,29.13306,CLINIC,e41a1c
+"Mashau Clinic",-23.168721,30.2184,CLINIC,e41a1c
+"Mashite Clinic",-24.31061,29.69817,CLINIC,e41a1c
+"Masisi Clinic",-22.422521,30.862379,CLINIC,e41a1c
+"Matavhela Clinic",-22.671483,30.524605,CLINIC,e41a1c
+"Mathabatha Clinic",-24.20625,29.871694,CLINIC,e41a1c
+"Matiyani Clinic",-22.74638,30.977865,CLINIC,e41a1c
+"Matlala Clinic (Aganang)",-23.745666,29.056199,CLINIC,e41a1c
+"Mattanau Clinic",-23.42494,28.79839,CLINIC,e41a1c
+"Matlala Clinic (Marble Hall)",-25.030771,29.093527,"DISTRICT HOSPITAL",e41a1c
+"Matlala Gateway Clinic",-24.832837,29.503607,CLINIC,e41a1c
+"Matlala Hospital",-24.832837,29.503607,"DISTRICT HOSPITAL",e41a1c
+"Matoks Clinic",-23.47785,29.71385,CLINIC,e41a1c
+"Matsa Clinic",-22.867602,29.954843,CLINIC,e41a1c
+"Matsageng Clinic",-24.493407,30.057703,CLINIC,e41a1c
+"Matsepe Clinic",-25.02339,29.49703,CLINIC,e41a1c
+"Matsheka Clinic",-22.878691,30.739172,CLINIC,e41a1c
+"Matswi Clinic",-23.586051,30.357285,CLINIC,e41a1c
+"Mavambe Clinic",-23.003834,30.648744,CLINIC,e41a1c
+"Mawa Clinic",-23.589849,30.525362,CLINIC,e41a1c
+"Mbilwi Clinic",-22.928985,30.468999,CLINIC,e41a1c
+"Mbokota Clinic",-23.20013,30.09879,CLINIC,e41a1c
+"Mecklenburg Hospital",-24.386888,30.073641,"DISTRICT HOSPITAL",e41a1c
+"Meedingen Clinic",-23.641436,30.242454,CLINIC,e41a1c
+"Messina Hospital",-22.341725,30.042897,"DISTRICT HOSPITAL",e41a1c
+"Mhinga Clinic",-22.793388,30.903028,CLINIC,e41a1c
+"Mhlava Willem Clinic",-23.21106,30.85988,CLINIC,e41a1c
+"Middelwater Clinic",-23.415513,30.205654,CLINIC,e41a1c
+"Mmotoaneng Clinic",-24.922274,29.620871,CLINIC,e41a1c
+"Mmutlane Clinic",-24.347141,30.145304,CLINIC,e41a1c
+"Modjadji 5 Clinic",-23.622574,30.326136,CLINIC,e41a1c
+"Moeding Clinic",-24.953848,29.457462,CLINIC,e41a1c
+"Moganyaka Clinic",-24.951321,29.410288,CLINIC,e41a1c
+"Mogoboya Clinic",-24.014208,30.197151,CLINIC,e41a1c
+"Mogodi Clinic",-23.327327,29.237221,CLINIC,e41a1c
+"Mogoto Clinic",-24.340833,29.288333,CLINIC,e41a1c
+"Mohlaletse Clinic",-24.471645,29.884156,CLINIC,e41a1c
+"Moime Clinic",-23.975693,30.245517,CLINIC,e41a1c
+"Mokamole Clinic",-23.96275,28.61325,CLINIC,e41a1c
+"Mokgwathi Clinic",-23.584581,30.583006,CLINIC,e41a1c
+"Mokopane Gateway Clinic",-24.16639,28.99,CLINIC,e41a1c
+"Mokopane Hospital",-24.15528,28.989272,"REGIONAL HOSPITAL",e41a1c
+"Molepo Clinic",-24.036,29.740861,CLINIC,e41a1c
+"Moletjie Clinic",-23.737833,29.302528,CLINIC,e41a1c
+"Moletlane Clinic",-24.36327,29.33555,CLINIC,e41a1c
+"Montz Clinic",-23.32614,28.69103,CLINIC,e41a1c
+"Mookgophong CHC",-24.5245,28.70837,CHC,e41a1c
+"Mookgophong Clinic",-24.51925,28.72191,CLINIC,e41a1c
+"Morapalala Clinic",-23.603259,30.417752,CLINIC,e41a1c
+"Morotse-Thamagane Clinic",-24.393778,29.533944,CLINIC,e41a1c
+"Morutji Clinic",-23.670274,30.367077,CLINIC,e41a1c
+"Motetema Clinic",-25.098347,29.465477,CLINIC,e41a1c
+"Mothiba Clinic",-23.8579,29.6359,CLINIC,e41a1c
+"Motlolo Clinic",-24.50919,30.17554,CLINIC,e41a1c
+"Motsepe Clinic",-24.283492,29.857584,CLINIC,e41a1c
+"Motshana Clinic",-24.480309,30.308761,CLINIC,e41a1c
+"Motupa Clinic",-23.682313,30.297289,CLINIC,e41a1c
+"Moutse East Clinic",-25.15122,29.10517,CLINIC,e41a1c
+"Mphahlele Clinic",-24.30819,29.63791,CLINIC,e41a1c
+"Mphambo CHC",-23.085047,30.671586,CHC,e41a1c
+"Mphanama Clinic",-24.582495,29.82228,CLINIC,e41a1c
+"Mphephu Clinic",-22.875024,30.138314,CLINIC,e41a1c
+"Msengi Clinic",-23.345603,30.37005,CLINIC,e41a1c
+"Mtititi Clinic",-23.101424,30.897519,CLINIC,e41a1c
+"Mudimeli Clinic",-22.798568,29.95685,CLINIC,e41a1c
+"Mugodeni Grace CHC",-23.716584,30.436319,CHC,e41a1c
+"Muhlaba Clinic",-23.930921,30.289248,CLINIC,e41a1c
+"Muila Clinic",-23.367006,29.979225,CLINIC,e41a1c
+"Mukhomi Clinic",-23.071993,30.561631,CLINIC,e41a1c
+"Mukula Clinic",-22.85959,30.587748,CLINIC,e41a1c
+"Mulala Clinic",-22.476004,30.877172,CLINIC,e41a1c
+"Muledane Clinic",-22.9946,30.456253,CLINIC,e41a1c
+"Mulenzhe Clinic",-23.004219,30.572602,CLINIC,e41a1c
+"Mulima Clinic",-23.308956,30.046202,CLINIC,e41a1c
+"Murangoni Clinic",-22.918091,30.371948,CLINIC,e41a1c
+"Mushubaba Clinic",-23.666278,29.346111,CLINIC,e41a1c
+"Musina Clinic",-22.34356,30.04502,CLINIC,e41a1c
+"Mutale CHC",-22.736636,30.5212,CHC,e41a1c
+"Muwaweni Clinic",-23.317435,30.115859,CLINIC,e41a1c
+"Muyexe Clinic",-23.194534,30.916871,CLINIC,e41a1c
+"My Darling Clinic",-23.083236,28.798556,CLINIC,e41a1c
+"Naboomkoppies Clinic",-24.557,30.34906,CLINIC,e41a1c
+"Naboomspruit Clinic",-24.5162,28.71,CLINIC,e41a1c
+"Namakgale A Clinic",-23.94067,31.04083,CLINIC,e41a1c
+"Namakgale B Clinic",-23.928104,31.016376,CLINIC,e41a1c
+"Nancefield Clinic",-22.331464,30.033958,CLINIC,e41a1c
+"Nchabeleng CHC",-24.43998,29.800673,CHC,e41a1c
+"Ndengeza Clinic",-23.315698,30.406079,CLINIC,e41a1c
+"Nghezimani Clinic",-22.910966,30.807587,CLINIC,e41a1c
+"Ngoabe Clinic",-24.87647,29.97694,CLINIC,e41a1c
+"Ngobe Clinic",-23.361968,30.721982,CLINIC,e41a1c
+"Nkhensani Clinic",-23.197951,30.136791,CLINIC,e41a1c
+"Nkhensani Hospital",-23.311853,30.6927,"DISTRICT HOSPITAL",e41a1c
+"Nkoana Clinic",-24.406574,29.78525,CLINIC,e41a1c
+"Nkomo B Clinic",-23.41747,30.77789,CLINIC,e41a1c
+"Nkowankowa CHC",-23.886598,30.292807,CHC,e41a1c
+"Nkuri Clinic",-23.213464,30.554336,CLINIC,e41a1c
+"Nobody Clinic",-23.890083,29.667472,CLINIC,e41a1c
+"Northam Clinic",-24.95264,27.26433,CLINIC,e41a1c
+"Nthabalala Clinic",-23.484495,29.913218,CLINIC,e41a1c
+"Ntlhaveni C Clinic",-22.914254,30.870523,CLINIC,e41a1c
+"Ntlhaveni D Clinic",-22.869196,30.884835,CLINIC,e41a1c
+"Ntlhaveni E Clinic",-23.020357,30.883757,CLINIC,e41a1c
+"Ntluri Clinic",-23.41279,30.33591,CLINIC,e41a1c
+"Nyavana Clinic",-23.655919,30.478365,CLINIC,e41a1c
+"Nylstroom LA Clinic",-24.70366,28.40659,CLINIC,e41a1c
+"Olifantshoek Clinic",-23.334557,30.275107,CLINIC,e41a1c
+"Ooghoek Clinic",-23.625599,30.533763,CLINIC,e41a1c
+"Parliament Clinic",-24.30556,29.47848,CLINIC,e41a1c
+"Paulos Clinic",-23.75333,28.65953,CLINIC,e41a1c
+"Paulus Masha Clinic",-24.452033,29.735602,CLINIC,e41a1c
+"Penge CHC",-24.383267,30.290106,CHC,e41a1c
+"Peninghotsa Clinic",-23.020696,30.838148,CLINIC,e41a1c
+"Persie Clinic",-23.48083,29.18611,CLINIC,e41a1c
+"Perskebult Clinic",-23.80154,29.35804,CLINIC,e41a1c
+"Pfanani Clinic",-22.952737,30.430128,CLINIC,e41a1c
+"Phaahla Clinic",-24.69764,29.73542,CLINIC,e41a1c
+"Phaahlamanoge Clinic",-24.58,29.85,CLINIC,e41a1c
+"Phadzima Clinic",-22.947141,30.189427,CLINIC,e41a1c
+"Phafola Clinic",-23.91619,28.87575,CLINIC,e41a1c
+"Phagameng Clinic",-24.69372,28.44295,CLINIC,e41a1c
+"Phalaborwa Busstop Clinic",-23.952146,31.148354,CLINIC,e41a1c
+"Phasha Clinic",-24.32822,30.00456,CLINIC,e41a1c
+"Phatantsoane Clinic",-24.932259,29.898836,CLINIC,e41a1c
+"Pheeha Clinic",-23.451495,30.045786,CLINIC,e41a1c
+"Philadelphia Gateway Clinic",-25.292,29.14855,CLINIC,e41a1c
+"Philadelphia Hospital",-25.259392,29.14867,"REGIONAL HOSPITAL",e41a1c
+"Phiphidi Clinic",-22.951211,30.387231,CLINIC,e41a1c
+"Phokoane Clinic",-24.866366,29.74227,CLINIC,e41a1c
+"Pholotji Clinic",-24.0301,28.89345,CLINIC,e41a1c
+"Phuti Clinic",-23.955806,29.706778,CLINIC,e41a1c
+"Pienaarsrivier Clinic",-25.216643,28.301366,CLINIC,e41a1c
+"Pietersburg Hospital",-23.895137,29.456899,"TERTIARY HOSPITAL",e41a1c
+"Potgietersrus/Mogalakwena Clinic",-24.179617,29.011742,CLINIC,e41a1c
+"Praktiseer Clinic",-24.57767,30.31433,CLINIC,e41a1c
+"Probeerin Clinic",-24.620744,29.728097,CLINIC,e41a1c
+"Rabali Clinic",-22.880226,30.093178,CLINIC,e41a1c
+"Rakgoatha Clinic",-24.350056,29.368306,CLINIC,e41a1c
+"Rambuda Clinic",-22.784966,30.434135,CLINIC,e41a1c
+"Rammupudu Clinic",-25.03054,29.30433,CLINIC,e41a1c
+"Ramokgopa Clinic",-23.46653,29.81592,CLINIC,e41a1c
+"Ramotshinyadi Clinic",-23.638244,30.591999,CLINIC,e41a1c
+"Raphahlelo Clinic",-23.363963,30.163018,CLINIC,e41a1c
+"Ratanang Clinic",-23.43634,30.63536,CLINIC,e41a1c
+"Ratshaatshaa CHC",-22.898694,28.824472,CHC,e41a1c
+"Rebone Clinic",-23.4321,28.61001,CLINIC,e41a1c
+"Regorogile 1 Clinic",-24.580932,27.382908,CLINIC,e41a1c
+"Regorogile 2 Clinic",-24.59878,27.39531,CLINIC,e41a1c
+"Rethabile CHC",-23.89106,29.46253,CHC,e41a1c
+"Riba Clinic",-24.5652,30.2225,CLINIC,e41a1c
+"Rietfontein Clinic at Ngwaritsi",-24.948843,29.811401,CLINIC,e41a1c
+"Rietfontein Clinic of HC Boshoff",-24.591678,30.52775,CLINIC,e41a1c
+"Riverplaats Clinic",-23.232049,30.054034,CLINIC,e41a1c
+"Roedtan Clinic",-24.5959,29.079663,CLINIC,e41a1c
+"Rooiberg Clinic",-24.78507,27.73632,CLINIC,e41a1c
+"Roossenekal Clinic",-25.195826,29.923786,CLINIC,e41a1c
+"Rosenkrantz Clinic",-23.49481,28.9844,CLINIC,e41a1c
+"Rotterdam Clinic",-23.400889,30.27445,CLINIC,e41a1c
+"Rumani Clinic",-22.900876,30.193675,CLINIC,e41a1c
+"Sadu Clinic",-23.30603,28.76161,CLINIC,e41a1c
+"Sambandou Clinic",-22.737302,30.657724,CLINIC,e41a1c
+"Schoongezight Clinic",-23.336631,29.043227,CLINIC,e41a1c
+"Schoonoord Clinic",-24.75505,30.010207,CLINIC,e41a1c
+"Seakamela Clinic",-23.14132,29.1015,CLINIC,e41a1c
+"Seapole Clinic",-23.496298,30.460099,CLINIC,e41a1c
+"Sebayeng Clinic",-23.766361,29.701694,CLINIC,e41a1c
+"Segole Clinic",-23.60242,28.64022,CLINIC,e41a1c
+"Sehlale Clinic",-23.998417,29.806139,CLINIC,e41a1c
+"Sekgakgapeng Clinic",-24.17334,28.96594,CLINIC,e41a1c
+"Sekgopo Clinic",-23.617764,29.9817,CLINIC,e41a1c
+"Sekororo Clinic",-24.214615,30.406259,CLINIC,e41a1c
+"Sekororo Gateway Clinic",-24.252237,30.448244,CLINIC,e41a1c
+"Sekororo Hospital",-24.252237,30.448244,"DISTRICT HOSPITAL",e41a1c
+"Selala Clinic",-24.50656,30.1379,CLINIC,e41a1c
+"Seleka Clinic",-23.21484,27.9082,CLINIC,e41a1c
+"Selepe Clinic",-24.354591,29.93246,CLINIC,e41a1c
+"Sello-Moloto Clinic",-23.625194,29.245639,CLINIC,e41a1c
+"Seloane Clinic",-23.695144,30.927292,CLINIC,e41a1c
+"Semenya Clinic",-23.696556,29.406667,CLINIC,e41a1c
+"Senobela Clinic",-23.55162,30.397528,CLINIC,e41a1c
+"Seobi-Dikgale Clinic",-23.800694,29.750639,CLINIC,e41a1c
+"Seroka Clinic",-24.507051,29.930658,CLINIC,e41a1c
+"Seshego Hospital",-23.854908,29.396453,"DISTRICT HOSPITAL",e41a1c
+"Seshego I Clinic",-23.854908,29.396453,CLINIC,e41a1c
+"Seshego II Clinic",-23.84615,29.3914,CLINIC,e41a1c
+"Seshego III Clinic",-23.841333,29.386472,CLINIC,e41a1c
+"Seshego IV Clinic",-23.847194,29.37225,CLINIC,e41a1c
+"Setlabosoane Clinic",-24.673918,29.470031,CLINIC,e41a1c
+"Settlers Clinic",-24.96037,28.53935,CLINIC,e41a1c
+"Shakadza Clinic",-22.616172,30.553574,CLINIC,e41a1c
+"Sibasa Clinic",-22.946373,30.491459,CLINIC,e41a1c
+"Shayandima Clinic",-23.00531,30.426652,CLINIC,e41a1c
+"Shigalo Clinic",-22.924707,30.722682,CLINIC,e41a1c
+"Shikhumba Clinic",-23.50013,30.881235,CLINIC,e41a1c
+"Shikundu Clinic",-22.829142,30.834466,CLINIC,e41a1c
+"Shiluvana CHC",-24.044176,30.2742,CHC,e41a1c
+"Shingwedzi Clinic",-23.001624,30.737536,CLINIC,e41a1c
+"Shitlakati Clinic",-23.660499,30.881321,CLINIC,e41a1c
+"Shivulani Clinic",-23.141554,30.702351,CLINIC,e41a1c
+"Shongoane Clinic",-23.56767,28.10367,CLINIC,e41a1c
+"Shotong Clinic",-23.630538,30.298976,CLINIC,e41a1c
+"Siloam Hospital",-22.900964,30.193683,"DISTRICT HOSPITAL",e41a1c
+"Skimming Clinic",-23.430333,30.560964,CLINIC,e41a1c
+"Slypsteen Clinic",-24.4459,29.4057,CLINIC,e41a1c
+"Smugglers Union Clinic",-24.537778,29.430833,CLINIC,e41a1c
+"Soetfontein Clinic",-24.099972,29.606167,CLINIC,e41a1c
+"Sophia Clinic/Sekwai Clinic",-24.234,30.405709,CLINIC,e41a1c
+"Spitspunte Clinic",-24.9689,28.92894,CLINIC,e41a1c
+"St Rita's Hospital",-24.844409,29.809374,"REGIONAL HOSPITAL",e41a1c
+"St Rita's Gateway Clinic",-24.844409,29.809374,CLINIC,e41a1c
+"Steenbokpan Clinic",-23.714963,27.278581,CLINIC,e41a1c
+"Sterkspruit Clinic",-24.52624,30.698759,CLINIC,e41a1c
+"Sterkstroom Clinic",-22.872209,30.646749,CLINIC,e41a1c
+"Sterkwater Clinic",-24.05844,28.81651,CLINIC,e41a1c
+"Straighthardt Clinic",-22.755978,30.143799,CLINIC,e41a1c
+"Swaranang Clinic",-24.50976,30.647907,CLINIC,e41a1c
+"Swartklip Clinic",-24.937811,27.155749,CLINIC,e41a1c
+"Taaibos Clinic",-22.84608,28.91726,CLINIC,e41a1c
+"Taung Clinic",-24.455051,30.396042,CLINIC,e41a1c
+"Tshififi Clinic",-22.917281,30.553209,CLINIC,e41a1c
+"Thabamoopo Hospital",-24.302306,29.54685,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Thabazimbi Clinic",-24.6064,27.39007,CLINIC,e41a1c
+"Thabazimbi Hospital",-24.59871,27.4069,"DISTRICT HOSPITAL",e41a1c
+"The Oaks Clinic",-24.362058,30.668048,CLINIC,e41a1c
+"Thengwe Clinic",-22.713675,30.559252,CLINIC,e41a1c
+"Thohoyandou CHC",-22.966202,30.478064,CHC,e41a1c
+"Thomo Clinic",-23.248235,30.7884,CLINIC,e41a1c
+"Thondotshivhase Clinic",-22.90215,30.430391,CLINIC,e41a1c
+"Tiberius Clinic",-23.629196,28.769792,CLINIC,e41a1c
+"Tiyani CHC",-23.306956,30.294489,CHC,e41a1c
+"Tlangelani Clinic",-23.126165,30.533814,CLINIC,e41a1c
+"Toitskraal Clinic",-25.05369,29.11309,CLINIC,e41a1c
+"Tours Clinic",-24.10322,30.26758,CLINIC,e41a1c
+"Towerfontein Clinic",-22.903455,28.774449,CLINIC,e41a1c
+"Tsamahansi Clinic",-24.07572,28.98011,CLINIC,e41a1c
+"Tshakhuma Clinic",-23.048445,30.302213,CLINIC,e41a1c
+"Tshaulu Clinic",-22.804928,30.753146,CLINIC,e41a1c
+"Tshehlwaneng Clinic",-24.789306,29.973552,CLINIC,e41a1c
+"Tshepong Clinic",-24.87021,27.51365,CLINIC,e41a1c
+"Tshifudi Clinic",-22.81482,30.698708,CLINIC,e41a1c
+"Tshikundamalema Clinic",-22.67161,30.691075,CLINIC,e41a1c
+"Tshikuwi Clinic",-22.90221,29.950029,CLINIC,e41a1c
+"Tshilidzi Gateway Clinic",-22.995005,30.41463,CLINIC,e41a1c
+"Tshilidzini Hospital",-22.995005,30.41463,"REGIONAL HOSPITAL",e41a1c
+"Tshilwavhusiku CHC",-23.097137,29.738123,CHC,e41a1c
+"Tshimbupfe Clinic",-23.120045,30.491205,CLINIC,e41a1c
+"Tshino Clinic",-23.114921,30.398481,CLINIC,e41a1c
+"Tshiombo Clinic",-22.805746,30.500686,CLINIC,e41a1c
+"Tshipise Clinic",-22.530966,30.676569,CLINIC,e41a1c
+"Tshisaulu Clinic",-22.998743,30.398027,CLINIC,e41a1c
+"Tshiungani Clinic",-22.49817,30.580353,CLINIC,e41a1c
+"Tshixwadza Clinic",-22.800858,30.351638,CLINIC,e41a1c
+"Tswaing Clinic",-24.4755,29.675671,CLINIC,e41a1c
+"Tswinga Clinic",-23.022547,30.475779,CLINIC,e41a1c
+"Turkey Clinic",-24.30875,30.509902,CLINIC,e41a1c
+"Tzaneen Clinic",-23.8375,30.15567,CLINIC,e41a1c
+"Tzaneen LA Clinic",-23.829401,30.15823,CLINIC,e41a1c
+"Unit R Clinic",-24.30245,29.53038,CLINIC,e41a1c
+"Vaalkop Clinic",-24.00507,28.93253,CLINIC,e41a1c
+"Vaalwater Clinic",-24.29443,28.11132,CLINIC,e41a1c
+"Valdezia Clinic",-23.10027,30.179577,CLINIC,e41a1c
+"Van der Merwes Kraal Clinic",-24.66442,29.44483,CLINIC,e41a1c
+"Van Velden Memorial (Tzaneen)
+Hospital",-23.834556,30.164659,"DISTRICT HOSPITAL",e41a1c
+"Vhambelani Maelula Clinic",-22.979246,30.147496,CLINIC,e41a1c
+"Vhufuli Tshitereke Clinic",-22.882976,30.48197,CLINIC,e41a1c
+"Vhurivhuri Clinic",-22.702573,30.765163,CLINIC,e41a1c
+"Vleifontein Clinic",-23.216484,29.995149,CLINIC,e41a1c
+"Voortrekker Memorial (Potgietersrus)
+Hospital",-24.195797,29.014238,"DISTRICT HOSPITAL",e41a1c
+"Vuvha Clinic",-22.994059,30.200922,CLINIC,e41a1c
+"Vyeboom Clinic",-23.09133,30.23179,CLINIC,e41a1c
+"Warmbaths Clinic",-24.884354,28.29163,CLINIC,e41a1c
+"Warmbaths Hospital",-24.88592,28.28873,"DISTRICT HOSPITAL",e41a1c
+"Waterval Clinic",-23.16008,30.06951,CLINIC,e41a1c
+"Wayeni Clinic",-23.241393,30.218579,CLINIC,e41a1c
+"Weltevreden Clinic",-23.560894,28.599365,CLINIC,e41a1c
+"WF Knobel Gateway Clinic",-23.633,29.1209,CLINIC,e41a1c
+"WF Knobel Hospital",-23.63409,29.12057,"DISTRICT HOSPITAL",e41a1c
+"William Eddie CHC",-22.872883,30.544878,CHC,e41a1c
+"Willows Clinic",-24.359627,30.622265,CLINIC,e41a1c
+"Witfontein Clinic",-25.2319,29.043083,CLINIC,e41a1c
+"Witpoort Hospital",-23.33521,28.01054,"DISTRICT HOSPITAL",e41a1c
+"Zaaiplaas CHC",-25.170883,29.746331,CHC,e41a1c
+"Zangoma Clinic",-23.91278,30.340848,CLINIC,e41a1c
+"Zava Clinic",-23.641148,30.737584,CLINIC,e41a1c
+"Zebediela Clinic",-24.325083,29.298389,CLINIC,e41a1c
+"Zebediela Hospital",-24.470485,29.414279,"DISTRICT HOSPITAL",e41a1c
+"Zebediela Hospital Gateway Clinic",-24.470485,29.414279,CLINIC,e41a1c
+"Zeist Clinic",-23.022167,28.705583,CLINIC,e41a1c
+"Ackerville Clinic",-25.866789,29.17411,CLINIC,e41a1c
+"Agincourt CHC",-24.819497,31.260996,CHC,e41a1c
+"Allemansdrift B Clinic",-25.14146,28.864592,CLINIC,e41a1c
+"Allemansdrift C CHC",-25.116223,28.905056,CHC,e41a1c
+"Amersfoort Clinic",-27.005689,29.869439,CLINIC,e41a1c
+"Amsterdam CHC",-26.62896,30.667605,CHC,e41a1c
+"Arnhemburg Clinic",-26.04871,30.837883,CLINIC,e41a1c
+"Arthurseat Clinic",-24.669512,31.020418,CLINIC,e41a1c
+"Arthurstone Clinic",-24.785926,31.134701,CLINIC,e41a1c
+"Badplaas CHC",-25.9541,30.57177,CHC,e41a1c
+"Balfour Clinic",-26.653078,28.592622,CLINIC,e41a1c
+"Barberton Clinic",-25.791753,31.053776,CLINIC,e41a1c
+"Beatty Clinic",-25.87815,29.214071,CLINIC,e41a1c
+"Belfast Clinic (Bushbuckridge)",-24.95786,31.367565,CLINIC,e41a1c
+"Belfast Gateway Clinic",-25.6968,30.043697,CLINIC,e41a1c
+"Bethal Town Clinic",-26.456882,29.465659,CLINIC,e41a1c
+"Betty'sgoed Clinic",-26.252797,30.921927,CLINIC,e41a1c
+"Bhuga CHC",-25.333326,31.164131,CHC,e41a1c
+"Bloedfontein Clinic",-25.055439,28.924513,CLINIC,e41a1c
+"Boekenhouthoek Clinic",-25.299917,29.007958,CLINIC,e41a1c
+"Boschfontein Clinic",-25.744697,31.619875,CLINIC,e41a1c
+"Botleng Clinic",-26.129975,28.694385,CLINIC,e41a1c
+"Botleng Extension 3 Clinic",-26.104772,28.694508,CLINIC,e41a1c
+"Boulders Clinic",-25.553293,31.307272,CLINIC,e41a1c
+"Bourkes Luck Clinic",-24.6804,30.8107,CLINIC,e41a1c
+"Breyten Clinic",-26.30575,29.980364,CLINIC,e41a1c
+"Brondal Clinic",-25.353814,30.840399,CLINIC,e41a1c
+"Brooklyn Clinic",-24.600014,30.992796,CLINIC,e41a1c
+"Buffelshoek Clinic",-24.633703,31.128889,CLINIC,e41a1c
+"Buffelspruit CHC",-25.658887,31.521009,CHC,e41a1c
+"Calcutta Clinic",-24.972661,31.218563,CLINIC,e41a1c
+"Carolina Clinic",-26.0669,30.115,CLINIC,e41a1c
+"Casteel Clinic",-24.721393,31.031308,CLINIC,e41a1c
+"Cathyville Clinic",-25.777204,31.038896,CLINIC,e41a1c
+"Chrissiesmeer/Kwachibikhulu Clinic",-26.277081,30.224263,CLINIC,e41a1c
+"Clau Clau Clinic",-25.363907,31.162629,CLINIC,e41a1c
+"Cork Clinic",-24.956231,31.310834,CLINIC,e41a1c
+"Cottondale Clinic",-24.616136,31.148866,CLINIC,e41a1c
+"Cunningmoore Clinic",-24.899188,31.213733,CLINIC,e41a1c
+"Daggakraal/Thembalokuphila CHC",-27.12882,29.966514,CHC,e41a1c
+"Davel Clinic",-26.4612,29.6611,CLINIC,e41a1c
+"De Beersput Clinic",-25.049622,28.862495,CLINIC,e41a1c
+"Delmas Clinic",-26.14965,28.68707,CLINIC,e41a1c
+"Derby/Rustplaas Clinic",-26.90695,30.760139,CLINIC,e41a1c
+"Diepdale Clinic",-26.462592,30.798862,CLINIC,e41a1c
+"Dingledale Clinic",-24.68174,31.17591,CLINIC,e41a1c
+"Diphalane (Pankop) CHC",-25.168426,28.416494,CHC,e41a1c
+"Dirkiesdorp Clinic",-27.177242,30.402979,CLINIC,e41a1c
+"Dludluma Clinic",-25.659583,31.95712,CLINIC,e41a1c
+"Doornkop Clinic",-25.592405,29.432491,CLINIC,e41a1c
+"Driefontein New Stands CHC",-26.998573,30.417227,CHC,e41a1c
+"Driefontein Old Stands Clinic",-26.981646,30.452342,CLINIC,e41a1c
+"Driekoppies Clinic",-25.695123,31.55605,CLINIC,e41a1c
+"Dundonald CHC",-26.236677,30.828398,CHC,e41a1c
+"Dwaleni Clinic",-25.361255,31.096925,CLINIC,e41a1c
+"Dwarsloop Clinic",-24.767104,31.042745,CHC,e41a1c
+"Eastdene Clinic",-25.771489,29.480138,CLINIC,e41a1c
+"Edinburg Clinic",-23.72,29.78,CLINIC,e41a1c
+"Eerstehoek Clinic",-26.051414,30.791534,CLINIC,e41a1c
+"Elandsfontein Clinic",-24.621798,30.761791,CLINIC,e41a1c
+"Embalenhle CHC",-26.540503,29.074446,CHC,e41a1c
+"Empilweni Clinic",-25.420607,28.772582,CLINIC,e41a1c
+"Emthonjeni Clinic (Machadodorp)",-25.697748,30.249473,CLINIC,e41a1c
+"Emthonjeni Clinic (Msukaligwa)",-26.52,29.97,CLINIC,e41a1c
+"Emzinoni Clinic",-26.49965,29.431488,CLINIC,e41a1c
+"Entombe Clinic",-27.2859,30.7562,CLINIC,e41a1c
+"Ermelo Clinic",-26.525226,29.988706,CLINIC,e41a1c
+"Ethandakukhanya Clinic",-27.28,30.75,CLINIC,e41a1c
+"Evander Clinic",-26.471471,29.110696,CLINIC,e41a1c
+"Ezamokuhle Clinic",-27.000609,29.849381,CLINIC,e41a1c
+"Eziweni Clinic",-25.413,31.1811,CLINIC,e41a1c
+"Fernie 1 Clinic",-26.397785,30.794898,CLINIC,e41a1c
+"Fernie 2 Clinic",-26.418015,30.774011,CLINIC,e41a1c
+"Fig Tree Clinic",-25.813042,31.85256,CLINIC,e41a1c
+"Gemsbokspruit Clinic",-25.404099,28.875504,CLINIC,e41a1c
+"Glenthorpe Clinic",-25.73028,30.842534,CLINIC,e41a1c
+"Glory Hill Clinic",-24.558575,30.484166,CLINIC,e41a1c
+"Goederede Clinic",-25.307534,29.074352,CLINIC,e41a1c
+"Gottenburg Clinic",-24.636356,31.410534,CLINIC,e41a1c
+"Greylingstad Clinic",-26.745998,28.748839,CLINIC,e41a1c
+"Grootvlei CHC",-26.800535,28.504779,CHC,e41a1c
+"Gutshwa Clinic",-25.309243,31.151656,CLINIC,e41a1c
+"Haakdoringlaagte Clinic",-24.969347,28.870335,CLINIC,e41a1c
+"Harmony Hill Clinic",-25.09987,30.789732,CLINIC,e41a1c
+"Hartebeeskop Clinic",-26.168915,30.902127,CLINIC,e41a1c
+"Hazyview Clinic",-25.043975,31.126703,CLINIC,e41a1c
+"Hendrina Clinic",-26.160698,29.715786,CLINIC,e41a1c
+"Hlalanikahle Clinic",-25.846735,29.123769,CLINIC,e41a1c
+"Hluvukani Clinic",-24.647836,31.34805,CLINIC,e41a1c
+"Islington Clinic",-24.62567,31.258273,CLINIC,e41a1c
+"Iswepe CHC",-26.832405,30.527524,CHC,e41a1c
+"Jeppes Reef Clinic",-25.721044,31.466759,CLINIC,e41a1c
+"Jeppes Rust Clinic",-25.796757,31.598388,CLINIC,e41a1c
+"Jerusalem Clinic",-25.186547,31.101461,CLINIC,e41a1c
+"Jim Brown Clinic",-24.984298,31.104296,CLINIC,e41a1c
+"Justicia Clinic",-24.885346,31.412246,CLINIC,e41a1c
+"Kaapmuiden Clinic",-25.533685,31.333829,CLINIC,e41a1c
+"Kaapschehoop Clinic",-25.3631,30.5227,CLINIC,e41a1c
+"Kabokweni CHC",-25.343473,31.130313,CHC,e41a1c
+"Kalkfontein Clinic",-25.001685,28.626565,CLINIC,e41a1c
+"Kameelpoortnek Clinic",-25.389662,28.726027,CLINIC,e41a1c
+"Kameelrivier B Clinic",-25.126957,28.994942,CLINIC,e41a1c
+"Kamhlushwa Clinic",-25.665064,31.680619,CLINIC,e41a1c
+"Kanyamazane CHC",-25.465703,31.184161,CHC,e41a1c
+"Khumbula Clinic",-25.281367,31.177214,CLINIC,e41a1c
+"Kinross/Thistle Grove Clinic",-26.416062,29.081768,CLINIC,e41a1c
+"Klipfontein Clinic",-25.0851,29.2358,CLINIC,e41a1c
+"Kliplaatdrift Clinic",-25.133141,28.949696,CLINIC,e41a1c
+"Komatipoort Clinic",-25.428257,31.948296,CLINIC,e41a1c
+"Kriel Clinic",-26.24784,29.23291,CLINIC,e41a1c
+"Kromdraai Clinic",-26.046537,31.022534,CLINIC,e41a1c
+"Kwa Guqa Extension 10 CHC",-25.854466,29.105868,CHC,e41a1c
+"Kwaggafontein A Clinic",-25.294175,28.960108,CLINIC,e41a1c
+"Kwaggafontein C CHC",-25.31088,28.943653,CHC,e41a1c
+"KwaMhlanga Clinic",-25.434623,28.715724,CHC,e41a1c
+"KwaNgema CHC",-27.022696,30.459943,CHC,e41a1c
+"Kwazamokuhle Clinic",-26.135062,29.73023,CLINIC,e41a1c
+"Kwazanele Clinic",-26.313202,29.982628,CLINIC,e41a1c
+"Langloop CHC",-25.674722,31.634536,CHC,e41a1c
+"Langverwacht Clinic",-26.545187,29.07616,CLINIC,e41a1c
+"Langverwacht Ext 14 Clinic",-26.546394,29.079657,CLINIC,e41a1c
+"Lebohang CHC",-26.375518,28.921785,CHC,e41a1c
+"Leeufontein Clinic",-25.178852,28.899273,CLINIC,e41a1c
+"Lefiso CHC",-24.93552,28.892597,CHC,e41a1c
+"Lefisoane Clinic",-24.961836,28.850967,CLINIC,e41a1c
+"Legogote Clinic",-25.222192,31.105809,CLINIC,e41a1c
+"Lillydale Clinic",-24.871002,31.36833,CLINIC,e41a1c
+"Loding Clinic",-25.10608,28.763401,CLINIC,e41a1c
+"Lothair/Silindile Clinic",-26.391966,30.460142,CLINIC,e41a1c
+"Louise Clinic",-25.886987,29.232398,CLINIC,e41a1c
+"Louisville Clinic",-25.686344,31.294742,CLINIC,e41a1c
+"Louw's Creek Clinic",-25.647243,31.282958,CLINIC,e41a1c
+"Ludlow Clinic",-24.676141,31.283371,CLINIC,e41a1c
+"Luphisi Clinic",-25.406425,31.277009,CLINIC,e41a1c
+"Lydenburg Gateway Clinic",-25.107921,30.452401,CLINIC,e41a1c
+"Lynnville Clinic",-25.878419,29.19249,CLINIC,e41a1c
+"M'Africa CHC",-25.768182,31.027636,CHC,e41a1c
+"Machadodorp Clinic",-25.663103,30.250643,CLINIC,e41a1c
+"Madras Clinic",-24.414241,30.556793,CLINIC,e41a1c
+"Makoko Clinic",-25.223619,31.221862,CLINIC,e41a1c
+"Malelane Estates Clinic",-25.49351,31.50485,CLINIC,e41a1c
+"Mananga Clinic",-25.959388,31.843124,CHC,e41a1c
+"Mangweni CHC",-25.741172,31.817989,CHC,e41a1c
+"Manzini Clinic",-25.178561,31.138094,CLINIC,e41a1c
+"Marapyane CHC",-25.004942,28.795649,CHC,e41a1c
+"Marite Clinic",-24.957865,31.12754,CLINIC,e41a1c
+"Matsulu CHC",-25.517582,31.352129,CHC,e41a1c
+"Maviljan Clinic",-24.845879,31.071364,CLINIC,e41a1c
+"Mayflower CHC",-26.299571,30.775344,CHC,e41a1c
+"Mbangwane Clinic",-25.837438,31.889829,CLINIC,e41a1c
+"Mbonisweni Clinic",-25.309224,31.108051,CLINIC,e41a1c
+"Mbuzini Clinic",-25.936078,31.952451,CLINIC,e41a1c
+"Mgobodi CHC",-25.8589,31.7043,CHC,e41a1c
+"Mhluzi Clinic",-25.75199,29.446605,CLINIC,e41a1c
+"Middelburg Civic Centre Clinic",-25.772992,29.455043,CLINIC,e41a1c
+"Middelburg Ext 6 Clinic",-25.768315,29.408595,CLINIC,e41a1c
+"Middelburg Ext 8 Clinic",-25.759426,29.419917,CLINIC,e41a1c
+"Middelburg Gateway Clinic",-25.774308,29.452498,CLINIC,e41a1c
+"Middelplaas Clinic",-25.717855,31.550921,CLINIC,e41a1c
+"Mispel Street Clinic",-26.925193,29.229051,CLINIC,e41a1c
+"Mjejane Clinic",-25.280339,31.231025,CLINIC,e41a1c
+"Mkhondo Town Clinic",-27.0046,30.8029,CLINIC,e41a1c
+"Mkhuhlu Clinic",-24.987539,31.237645,CLINIC,e41a1c
+"Mmametlhake CHC",-25.106653,28.545839,CHC,e41a1c
+"Moloto CHC",-25.458094,28.640344,CHC,e41a1c
+"Mooiplaas Clinic",-26.067233,30.87715,CLINIC,e41a1c
+"Moreipuso Clinic",-24.703055,31.004936,CLINIC,e41a1c
+"Morgenzon Clinic",-26.7358,29.609,CLINIC,e41a1c
+"Mpakeni Clinic",-25.488995,31.247942,CLINIC,e41a1c
+"MS Msimanga Clinic",-26.961667,29.198742,CLINIC,e41a1c
+"Msogwaba Clinic",-25.422768,31.166791,CLINIC,e41a1c
+"Mthimba Clinic",-25.131017,31.158128,CLINIC,e41a1c
+"Murhotso Clinic",-24.566308,31.143783,CLINIC,e41a1c
+"Naas CHC",-25.67126,31.862964,CHC,e41a1c
+"Aggeneys Clinic",-29.241417,18.842502,CLINIC,e41a1c
+"Alexander Bay CHC",-28.596976,16.484835,CHC,e41a1c
+"Alexander Bay Clinic",-28.591738,16.489234,CLINIC,e41a1c
+"Alheit Satellite Clinic",-28.760685,20.53342,"SATELLITE CLINIC",e41a1c
+"Askham CHC",-26.978369,20.783107,CHC,e41a1c
+"Augrabies Satellite Clinic",-28.67398,20.426438,"SATELLITE CLINIC",e41a1c
+"Bankhara/Bodulong Clinic",-27.42083,23.38164,CLINIC,e41a1c
+"Beaconsfield Clinic",-28.757892,24.783981,CLINIC,e41a1c
+"Bendel Clinic",-26.99551,23.64706,CLINIC,e41a1c
+"Bergsig/Max Shapiro Clinic",-29.65003,17.87546,CLINIC,e41a1c
+"Betty Gaetsewe Clinic",-28.711611,24.711235,CLINIC,e41a1c
+"Boegoeberg (Brandboom) Clinic",-28.92776,22.12832,CLINIC,e41a1c
+"Boichoko Satellite Clinic",-28.32211,23.045009,CLINIC,e41a1c
+"Bothetheletsa Clinic",-27.417881,23.81101,CLINIC,e41a1c
+"Bothithong Clinic",-27.06435,23.82899,CLINIC,e41a1c
+"Brandvlei CHC",-30.462315,20.480018,CHC,e41a1c
+"Breipaal Clinic",-29.04467,23.76622,CLINIC,e41a1c
+"Britstown Clinic",-30.584772,23.50046,CLINIC,e41a1c
+"Bulletrap Satellite Clinic",-29.461667,17.765786,"SATELLITE CLINIC",e41a1c
+"Calvinia (Abraham Esau) Hospital",-31.462164,19.775133,"DISTRICT HOSPITAL",e41a1c
+"Calvinia Clinic",-31.46447,19.768374,CLINIC,e41a1c
+"Campbell Clinic",-28.800241,23.720942,CLINIC,e41a1c
+"Carnarvon CHC",-30.9656,22.13304,CHC,e41a1c
+"Carnarvon Clinic",-30.959284,22.128643,CLINIC,e41a1c
+"Carolusberg Satellite Clinic",-29.636581,17.949225,"SATELLITE CLINIC",e41a1c
+"Cassels CHC",-26.965549,23.990436,CHC,e41a1c
+"Catherine Koikoi Clinic",-27.955875,22.750626,CLINIC,e41a1c
+"Churchill Clinic",-27.27881,23.47783,CLINIC,e41a1c
+"Cillie Satellite Clinic",-28.73795,20.58302,"SATELLITE CLINIC",e41a1c
+"Concordia Clinic",-29.541792,17.947546,CLINIC,e41a1c
+"Danielskuil CHC",-28.182986,23.547435,CHC,e41a1c
+"De Aar (Central Karoo) Hospital",-30.6591,24.007739,"DISTRICT HOSPITAL",e41a1c
+"De Aar Clinic",-30.659331,24.003528,CLINIC,e41a1c
+"De Aar Town Clinic",-30.650438,24.010636,CLINIC,e41a1c
+"De Beershoogte Clinic",-28.532377,24.514924,CLINIC,e41a1c
+"Deerward Clinic",-27.12556,23.61634,CLINIC,e41a1c
+"Delportshoop Clinic",-28.417501,24.307251,CLINIC,e41a1c
+"Dingleton Clinic",-27.78566,22.983871,CLINIC,e41a1c
+"Dithakong Clinic",-27.085608,23.92399,CLINIC,e41a1c
+"Ditshipeng Clinic",-26.951482,23.812121,CLINIC,e41a1c
+"Douglas (Hester Malan) CHC",-29.06054,23.767172,"DISTRICT HOSPITAL",e41a1c
+"Dr Torres Clinic",-28.662511,24.7154,CLINIC,e41a1c
+"Eksteenfontein Satellite Clinic",-28.825388,17.255423,"SATELLITE CLINIC",e41a1c
+"Ethembeni Clinic",-29.660246,22.727618,CLINIC,e41a1c
+"Eurekaville Clinic",-31.188262,24.947913,CLINIC,e41a1c
+"Florianville (Floors) Clinic",-28.72261,24.760265,CLINIC,e41a1c
+"Fraserburg CHC",-31.915232,21.511745,CHC,e41a1c
+"Gadiboe Clinic",-27.07591,23.29435,CLINIC,e41a1c
+"Galeshewe Day Hospital",-28.727653,24.747021,CHC,e41a1c
+"Ganspan Clinic",-27.973456,24.767644,CLINIC,e41a1c
+"Garies Clinic",-30.56584,17.98933,CLINIC,e41a1c
+"Gasehunelo Wyk 5 Clinic",-27.09567,23.54454,CLINIC,e41a1c
+"Glen Red Clinic",-26.972022,23.909812,CLINIC,e41a1c
+"Gong-Gong Satellite Clinic",-28.454005,24.368936,"SATELLITE CLINIC",e41a1c
+"Gordonia Hospital",-28.446582,21.264296,"REGIONAL HOSPITAL",e41a1c
+"Greenpoint Clinic",-28.78007,24.77181,CLINIC,e41a1c
+"Griekwastad (Helpmekaar) CHC",-28.843941,23.253186,CHC,e41a1c
+"Groblershoop CHC",-28.895127,21.980864,CHC,e41a1c
+"Groot Mier Satellite Clinic",-26.73932,20.320576,"SATELLITE CLINIC",e41a1c
+"Grootdrink Satellite Clinic",-28.564151,21.749164,"SATELLITE CLINIC",e41a1c
+"Hanover Clinic",-31.06752,24.4474,CLINIC,e41a1c
+"Hartswater (Connie Vorster) Hospital",-27.757152,24.813631,"DISTRICT HOSPITAL",e41a1c
+"Heuningvlei Clinic",-26.30514,23.13953,CLINIC,e41a1c
+"Holpan Satellite Clinic",-28.358554,24.641792,"SATELLITE CLINIC",e41a1c
+"Hondeklipbaai Clinic",-30.31899,17.27886,"SATELLITE CLINIC",e41a1c
+"Hopetown (Wege) CHC",-29.627544,24.088125,CHC,e41a1c
+"Hopetown Clinic",-29.61791,24.101075,CLINIC,e41a1c
+"Ikhutseng Clinic",-28.130357,24.853987,CLINIC,e41a1c
+"Jan Kempdorp CHC",-27.92135,24.834031,"DISTRICT HOSPITAL",e41a1c
+"Jan Kempdorp Clinic",-27.92135,24.834031,CLINIC,e41a1c
+"Jan Witbooi Clinic",-27.593995,22.88669,CLINIC,e41a1c
+"Jerry Botha Clinic",-27.733445,24.801968,CLINIC,e41a1c
+"Joe Slovo CHC",-30.564949,17.990263,CHC,e41a1c
+"Kagiso CHC",-27.406123,23.493163,CHC,e41a1c
+"Kakamas Clinic",-28.77969,20.62254,CLINIC,e41a1c
+"Kakamas Hospital",-28.780787,20.621719,"DISTRICT HOSPITAL",e41a1c
+"Kamden CHC",-27.35928,23.88987,CHC,e41a1c
+"Kamieskroon Clinic",-30.212155,17.932767,CLINIC,e41a1c
+"Kanoneiland Satellite Clinic",-28.655693,21.083214,"SATELLITE CLINIC",e41a1c
+"Karos Satellite Clinic",-28.42214,21.61318,"SATELLITE CLINIC",e41a1c
+"Kathu Clinic",-27.69762,23.05101,CLINIC,e41a1c
+"Keimoes CHC",-28.70541,20.95593,"DISTRICT HOSPITAL",e41a1c
+"Keimoes Clinic",-28.701159,20.960197,CLINIC,e41a1c
+"Kenhardt CHC",-29.353564,21.157458,CHC,e41a1c
+"Kenhardt Clinic",-29.34135,21.16004,CLINIC,e41a1c
+"Keurtjieskloof Clinic",-30.012446,24.730801,CLINIC,e41a1c
+"Kharkams/Garagams Clinic",-30.37007,17.88799,CLINIC,e41a1c
+"Kholekile Edward Twani Clinic",-30.661698,24.027065,CLINIC,e41a1c
+"Kimberley City Clinic",-28.745344,24.763151,CLINIC,e41a1c
+"Kimberley Hospital",-28.745511,24.7724,"TERTIARY HOSPITAL",e41a1c
+"Klein Mier Satellite Clinic",-26.738741,20.27786,"SATELLITE CLINIC",e41a1c
+"Komaggas Clinic",-29.796881,17.487627,CLINIC,e41a1c
+"Kuruman Clinic",-27.45969,23.44261,CLINIC,e41a1c
+"Kuruman Hospital",-27.46592,23.42663,"DISTRICT HOSPITAL",e41a1c
+"Kuyasa Clinic",-30.723518,25.11341,CLINIC,e41a1c
+"Laxey Clinic",-26.72244,23.16697,CLINIC,e41a1c
+"Leerkrans Satellite Clinic",-28.407567,21.52425,"SATELLITE CLINIC",e41a1c
+"Lehlohonolo Adams Clinic",-29.06871,23.7772,CLINIC,e41a1c
+"Lekkersing Clinic",-29.001286,17.100601,"SATELLITE CLINIC",e41a1c
+"Leliefontein Clinic",-30.314756,18.082895,CLINIC,e41a1c
+"Lennertsville Clinic",-28.7522,20.99551,"SATELLITE CLINIC",e41a1c
+"Lingelethu Clinic (Pabalello)",-28.438733,21.215518,CLINIC,e41a1c
+"Ma-Doyle Clinic",-28.717405,24.736665,CLINIC,e41a1c
+"Loeriesfontein CHC",-30.964031,19.443687,CHC,e41a1c
+"Loeriesfontein Clinic",-30.948355,19.434753,CLINIC,e41a1c
+"Logobate Clinic",-27.18022,23.40793,CLINIC,e41a1c
+"Longlands Clinic",-28.463051,24.362918,CLINIC,e41a1c
+"Loopeng CHC",-26.79602,23.35159,CHC,e41a1c
+"Louisvaleweg Clinic",-28.476519,21.268287,CLINIC,e41a1c
+"Lowryville Clinic",-30.709284,25.102467,CLINIC,e41a1c
+"Loxton Clinic",-31.475597,22.352484,CLINIC,e41a1c
+"Lutzburg Satellite Clinic",-28.74676,20.629985,"SATELLITE CLINIC",e41a1c
+"Manne Dipico (Colesberg) Hospital",-30.73001,25.08956,"DISTRICT HOSPITAL",e41a1c
+"Manyeding Clinic",-27.49575,23.68566,CLINIC,e41a1c
+"Mapule Matsepane Clinic",-28.710247,24.725955,CLINIC,e41a1c
+"Marchand Satellite Clinic",-28.732165,20.50158,"SATELLITE CLINIC",e41a1c
+"Maruping Clinic",-27.347136,23.367019,CLINIC,e41a1c
+"Marydale Clinic",-29.406142,22.10211,CLINIC,e41a1c
+"Masakhane Clinic",-28.701975,24.733245,CLINIC,e41a1c
+"Masibambane Clinic",-30.434272,24.474213,CLINIC,e41a1c
+"Mataleng Clinic",-28.53421,24.50485,CLINIC,e41a1c
+"Matjieskloof Clinic",-29.670731,17.867211,CLINIC,e41a1c
+"Mecwetsaneng Clinic",-27.31091,23.67563,CLINIC,e41a1c
+"Melkbosrand Satellite Clinic",-28.77025,19.26917,"SATELLITE CLINIC",e41a1c
+"Metsimansti Wyk 3 Clinic",-26.941373,23.166325,CLINIC,e41a1c
+"Montana Clinic",-30.646067,24.028899,CLINIC,e41a1c
+"Nababeep CHC",-29.59271,17.78176,CHC,e41a1c
+"Nanqo Simon Zono Clinic",-30.700217,25.097754,CLINIC,e41a1c
+"Niekerkshoop Clinic",-29.323373,22.839804,CLINIC,e41a1c
+"Nieuwoudtville Clinic",-31.365886,19.117112,CLINIC,e41a1c
+"Nomimi Mothibi Clinic",-27.774079,24.693848,CLINIC,e41a1c
+"Norvalspont Clinic",-30.629013,25.451862,CLINIC,e41a1c
+"Noupoort (Fritz Visser) CHC",-31.17565,24.951904,CHC,e41a1c
+"Okiep Clinic",-29.59969,17.88336,CLINIC,e41a1c
+"Olierivier Satellite Clinic",-28.55493,23.58663,"SATELLITE CLINIC",e41a1c
+"Olifantshoek CHC",-27.943953,22.735498,CHC,e41a1c
+"Onseepkans Clinic",-28.77292,19.2704,CLINIC,e41a1c
+"Orania Clinic",-29.810608,24.416556,CLINIC,e41a1c
+"Padstow Clinic",-26.82447,23.20404,CLINIC,e41a1c
+"Pako Seboko Clinic",-27.4196,23.00604,CLINIC,e41a1c
+"Pampierstad CHC",-27.779241,24.689088,CHC,e41a1c
+"Pella Clinic",-29.03291,19.15453,CLINIC,e41a1c
+"Penryn Clinic",-26.88016,23.06688,CLINIC,e41a1c
+"Prieska (Bill Pickard) Hospital",-29.667583,22.740798,"DISTRICT HOSPITAL",e41a1c
+"Prof ZK Matthews Hospital",-28.540049,24.514441,"DISTRICT HOSPITAL",e41a1c
+"Springbok (Dr Van Niekerk) Hospital",-29.661243,17.881633,"DISTRICT HOSPITAL",e41a1c
+"Tshwaragano Hospital",-27.3067,23.34494,"DISTRICT HOSPITAL",e41a1c
+"Warrenton Hospital",-28.106225,24.858788,"DISTRICT HOSPITAL",e41a1c
+"West End TB Hospital",-28.736995,24.722972,"SPECIALISED TB HOSPITAL",e41a1c
+"AfriSam Clinic",-26.19,26.16,CLINIC,e41a1c
+"Agisanang Clinic",-26.558853,25.82337,CLINIC,e41a1c
+"Alabama Clinic",-26.872722,26.587665,CLINIC,e41a1c
+"Amalia Clinic",-27.250309,25.030672,CLINIC,e41a1c
+"Anna Legoale Clinic",-25.57,27.27,CLINIC,e41a1c
+"Atamelang CHC",-26.502977,25.36858,CHC,e41a1c
+"Austrey Clinic",-26.46701,24.18114,CLINIC,e41a1c
+"Bafokeng CHC",-25.560266,27.156116,CHC,e41a1c
+"Bakerville Clinic",-26.14,26.29,CLINIC,e41a1c
+"Bakubung Clinic",-25.35734,27.05199,CLINIC,e41a1c
+"Baleema Clinic",-25.225276,26.942988,CLINIC,e41a1c
+"Bapong CHC",-25.703567,27.678047,CHC,e41a1c
+"Bapong Clinic",-25.31256,26.84421,CLINIC,e41a1c
+"Bethanie Clinic",-25.550398,27.601819,CLINIC,e41a1c
+"Bloemhof CHC",-27.64678,25.60798,CHC,e41a1c
+"Blydeville 2 Clinic",-26.180947,26.160376,CLINIC,e41a1c
+"Blydeville Clinic",-26.188653,26.159064,CLINIC,e41a1c
+"Bodibe 1 Clinic",-26.067189,25.847155,CLINIC,e41a1c
+"Bodibe 2 Clinic",-26.076352,25.880608,CLINIC,e41a1c
+"Boikanyo Clinic",-25.06694,26.94953,CLINIC,e41a1c
+"Boikhutso Clinic",-26.179083,26.143277,CLINIC,e41a1c
+"Boikhutso Satellite Clinic",-26.22523,26.8166,"SATELLITE CLINIC",e41a1c
+"Boikhutsong Satellite Clinic",-26.18647,26.90714,"SATELLITE CLINIC",e41a1c
+"Boiki Thlapi CHC",-26.717884,27.056361,CHC,e41a1c
+"Boitekong CHC",-25.616731,27.315676,CHC,e41a1c
+"Boitekong Clinic",-25.613452,27.3142,CLINIC,e41a1c
+"Boitshoko Clinic",-26.051593,25.853475,CLINIC,e41a1c
+"Boitumelong Clinic",-27.64143,25.57177,CLINIC,e41a1c
+"Bonabona Clinic",-26.23521,23.538796,CLINIC,e41a1c
+"Bophelo Clinic",-27.178729,26.112643,CLINIC,e41a1c
+"Borakalalo CHC",-25.283123,25.915487,CHC,e41a1c
+"Borolelo Clinic",-25.629948,26.676795,CLINIC,e41a1c
+"Boskop Health Post",-26.58149,27.12048,"HEALTH POST",e41a1c
+"Bosplaas Clinic",-25.319138,28.249841,CLINIC,e41a1c
+"Botshabelo CHC",-26.854532,26.846289,CHC,e41a1c
+"Brakkuil Clinic",-25.25494,26.48267,CLINIC,e41a1c
+"Braklaagte Clinic",-25.386549,26.092993,CLINIC,e41a1c
+"Bray CHC",-26.51763,24.109,CHC,e41a1c
+"Broederstroom Clinic",-25.793951,27.857026,CLINIC,e41a1c
+"Buxton Clinic",-27.62584,24.636535,CLINIC,e41a1c
+"Chaneng Clinic",-25.413199,27.124579,CLINIC,e41a1c
+"Charon Clinic",-27.191449,25.307247,CLINIC,e41a1c
+"Christiana Town Clinic",-27.914311,25.154196,CLINIC,e41a1c
+"Classic House Clinic",-25.68,27.21,CLINIC,e41a1c
+"Cokonyane Clinic",-27.484946,24.802376,CLINIC,e41a1c
+"Coligny CHC",-26.330778,26.324438,CHC,e41a1c
+"Colridge Clinic",-26.95015,24.73919,CLINIC,e41a1c
+"Coverdale Clinic",-27.63577,25.5896,CLINIC,e41a1c
+"Cyferkuil (Kutloanong) CHC",-25.079516,28.233501,CHC,e41a1c
+"Damonsville Clinic",-25.624966,27.851323,CLINIC,e41a1c
+"David Katnagel Clinic",-25.11324,26.524161,CLINIC,e41a1c
+"Delareyville CHC",-26.687765,25.465075,CHC,e41a1c
+"Delareyville Clinic",-26.689759,25.459903,CLINIC,e41a1c
+"Delekile Khoza Clinic",-26.738111,26.417082,CLINIC,e41a1c
+"Dertig (Leseding) Clinic",-25.283943,28.23857,CLINIC,e41a1c
+"Dikebu (Sediane) Clinic",-25.193025,27.969059,CLINIC,e41a1c
+"Dinokana CHC",-25.446617,25.869032,CHC,e41a1c
+"Dinokana Clinic",-25.444662,25.864362,CLINIC,e41a1c
+"Disaneng Clinic",-25.800509,25.297233,CLINIC,e41a1c
+"Dithakong (Mafikeng) Clinic",-25.968337,25.629709,CLINIC,e41a1c
+"Driefontein Clinic",-25.143211,25.974013,CLINIC,e41a1c
+"Dryharts Clinic",-27.32757,24.72465,CLINIC,e41a1c
+"Dwarsberg Clinic",-24.938402,26.61744,CLINIC,e41a1c
+"Eckron Clinic",-26.80719,23.76479,CLINIC,e41a1c
+"Elandskuil Clinic",-25.073528,26.819582,CLINIC,e41a1c
+"Empilisweni Clinic",-26.887923,26.603737,CLINIC,e41a1c
+"Fafung Clinic",-25.20833,27.80433,CLINIC,e41a1c
+"Ga-Motla Clinic",-25.617295,27.944123,CLINIC,e41a1c
+"Ga Motlatla Clinic",-26.075152,26.569276,CLINIC,e41a1c
+"Ganalaagte Clinic",-26.471135,25.536652,CLINIC,e41a1c
+"Ganyesa CHC",-26.5875,24.17605,CHC,e41a1c
+"Gelukspan Gateway Clinic",-26.20149,25.60216,CLINIC,e41a1c
+"Glaudina Clinic",-27.041055,25.621381,CLINIC,e41a1c
+"Goedgevonden Satellite Clinic",-26.15957,26.89828,"SATELLITE CLINIC",e41a1c
+"Gopane Clinic",-25.318093,25.795523,CLINIC,e41a1c
+"Grace Mokgomo CHC",-26.956316,26.635105,CHC,e41a1c
+"Groot Marico Clinic",-25.599674,26.419053,CLINIC,e41a1c
+"Hartebeesfontein Clinic",-25.436028,27.510876,CLINIC,e41a1c
+"Hartebeespoort Clinic",-26.59,23.68,CLINIC,e41a1c
+"Hebron Clinic",-25.550582,28.016405,CLINIC,e41a1c
+"Hoekfontein (Mmakau) Clinic",-25.61569,27.94406,CLINIC,e41a1c
+"Huhudi CHC",-26.974269,24.739387,CHC,e41a1c
+"Ikhutseng (Klipgat) Clinic",-25.451679,27.97006,CLINIC,e41a1c
+"Ipelegeng Clinic",-27.19632,25.30646,CLINIC,e41a1c
+"Ipopeng Clinic",-24.944337,27.088997,CLINIC,e41a1c
+"Itekeng Clinic",-26.36164,25.909359,CLINIC,e41a1c
+"Itsoseng CHC",-26.082264,25.88446,CHC,e41a1c
+"Itsoseng Clinic",-26.076352,25.880608,CLINIC,e41a1c
+"JB Marks CHC",-26.319662,26.812069,CHC,e41a1c
+"Jericho Clinic",-25.326557,27.802596,CLINIC,e41a1c
+"Jouberton CHC",-26.896004,26.606242,CHC,e41a1c
+"Kana Clinic",-25.573022,27.303206,CLINIC,e41a1c
+"Kanana Clinic",-26.964024,26.63919,CLINIC,e41a1c
+"Karlien Park Clinic",-25.62,27.24,CLINIC,e41a1c
+"Kgabalatsane Clinic",-25.53572,27.95809,CLINIC,e41a1c
+"Kgakala Clinic",-27.219969,26.262584,CLINIC,e41a1c
+"Kgokgojane Clinic",-26.75117,23.97976,CLINIC,e41a1c
+"Kgokgole Clinic",-26.71547,23.92194,CLINIC,e41a1c
+"Kgomo-Kgomo Clinic",-25.156773,28.071951,CLINIC,e41a1c
+"Kgomotso Clinic",-27.97852,24.60855,CLINIC,e41a1c
+"Kgotso Clinic",-26.352577,27.12989,CLINIC,e41a1c
+"Khayakulu Clinic",-25.107805,26.65471,CLINIC,e41a1c
+"Khudutlou Clinic",-27.66322,25.05277,CLINIC,e41a1c
+"Khuma Clinic",-26.845544,26.858976,CLINIC,e41a1c
+"Khunotswana Clinic",-25.570857,25.826867,CLINIC,e41a1c
+"Klerksdorp Youth Centre",-26.87821,26.6298,CLINIC,e41a1c
+"Koedoesrand Clinic",-25.24776,26.668933,CLINIC,e41a1c
+"Koffiekraal Clinic",-25.284089,26.417168,CLINIC,e41a1c
+"Kokoana Clinic",-26.044463,23.48822,CLINIC,e41a1c
+"Kokomeng Clinic",-27.62815,25.04541,CLINIC,e41a1c
+"Kopela Clinic",-26.42409,25.525156,CLINIC,e41a1c
+"Koster Gateway Clinic",-25.856163,26.893193,CLINIC,e41a1c
+"Kraaipan Clinic",-26.273671,25.305365,CLINIC,e41a1c
+"Kraalhoek Clinic",-24.915526,27.077418,CLINIC,e41a1c
+"Kudunkgwane Clinic",-26.42286,24.40456,CLINIC,e41a1c
+"Kunana Clinic",-26.372719,25.329752,CLINIC,e41a1c
+"Lebotloane Clinic",-25.049362,27.932871,CLINIC,e41a1c
+"Leeudoringstad CHC",-27.235436,26.237103,CHC,e41a1c
+"Lefatlheng Clinic",-25.15,28.12,CLINIC,e41a1c
+"Legkraal Clinic",-25.132709,27.051491,CLINIC,e41a1c
+"Lehurutshe Clinic",-25.48322,25.963008,CLINIC,e41a1c
+"Lekgophung Clinic",-24.806954,26.023532,CLINIC,e41a1c
+"Lekoko CHC",-25.930144,25.502942,CHC,e41a1c
+"Lesego Clinic",-26.728948,27.053393,CLINIC,e41a1c
+"Lesetlheng Clinic",-25.15207,27.12183,CLINIC,e41a1c
+"Leshobo Clinic",-27.47999,24.69791,CLINIC,e41a1c
+"Letlhabile CHC",-25.486949,27.842306,CHC,e41a1c
+"Letlhakeng Clinic",-25.14744,26.71169,CLINIC,e41a1c
+"Letsopa Clinic",-26.805658,25.982564,CLINIC,e41a1c
+"Lichtenburg Fast-Lane Clinic",-26.167639,26.162792,CLINIC,e41a1c
+"Lichtenburg Municipal Clinic",-26.150835,26.159391,CLINIC,e41a1c
+"Lincoe Clinic",-24.80383,26.996174,CLINIC,e41a1c
+"Lobatla Clinic",-25.177529,25.83831,CLINIC,e41a1c
+"Logageng Clinic",-25.940255,24.692743,CLINIC,e41a1c
+"Lokaleng Clinic",-25.781409,25.56996,CLINIC,e41a1c
+"Lonely Park Clinic",-25.734796,25.66252,CLINIC,e41a1c
+"Loporung Clinic",-25.760431,24.980947,CLINIC,e41a1c
+"Lower Majeakgoro Clinic",-27.77107,24.668496,CLINIC,e41a1c
+"Luka Clinic",-25.506687,27.188898,CLINIC,e41a1c
+"Mabeskraal CHC",-25.197588,26.802408,CHC,e41a1c
+"Maboloka Clinic",-25.428705,27.860279,CLINIC,e41a1c
+"Mabule Clinic",-25.776822,24.55484,CLINIC,e41a1c
+"Madibeng Clinic",-25.636303,27.776691,CLINIC,e41a1c
+"Madibogo Clinic",-26.427755,25.162366,CLINIC,e41a1c
+"Madibogopan Clinic",-26.493851,25.148005,CLINIC,e41a1c
+"Madidi (Kleinfontein) Clinic",-25.445636,27.954194,CLINIC,e41a1c
+"Madikwe Clinic",-25.353017,26.530408,CLINIC,e41a1c
+"Madipelesa Clinic",-27.895247,24.41956,CLINIC,e41a1c
+"Mafikeng Gateway Clinic",-25.884834,25.65735,CLINIC,e41a1c
+"Maganeng Clinic",-27.27031,24.67809,CLINIC,e41a1c
+"Magogong Clinic",-27.65136,24.81547,CLINIC,e41a1c
+"Magogwe Clinic",-25.90717,25.606615,CLINIC,e41a1c
+"Majakaneng Clinic",-25.740918,27.672195,CLINIC,e41a1c
+"Majara Sephapo Clinic",-26.967526,26.618591,CLINIC,e41a1c
+"Makapanstad (Seaparankwe) CHC",-25.230479,28.126041,CHC,e41a1c
+"Makgobistadt CHC",-25.757078,25.098014,CHC,e41a1c
+"Makouspan Clinic",-26.103683,25.620326,CLINIC,e41a1c
+"Makwassie Clinic",-27.318438,25.99586,CLINIC,e41a1c
+"Mammutla Clinic",-28.06503,24.51093,CLINIC,e41a1c
+"Mamusa CHC",-27.149,25.1822,CHC,e41a1c
+"Manthe CHC",-27.54611,24.88482,CHC,e41a1c
+"Maphoitsile Clinic",-27.601521,24.784043,CLINIC,e41a1c
+"Marcus Zinzele Clinic",-26.85269,26.819298,CLINIC,e41a1c
+"Mareetsane Clinic",-26.203709,25.475004,CLINIC,e41a1c
+"Marikana Clinic",-25.698146,27.479878,CLINIC,e41a1c
+"Masamane Clinic",-25.825722,24.621204,CLINIC,e41a1c
+"Masutlhe 1 Clinic",-25.850884,25.409124,CLINIC,e41a1c
+"Masutlhe 2 Clinic",-25.785585,25.419788,CLINIC,e41a1c
+"Mathibestad Clinic",-25.267339,28.152841,CLINIC,e41a1c
+"Matile Clinic",-26.08,25.94,CLINIC,e41a1c
+"Matlapaneng Clinic",-27.42316,24.68483,CLINIC,e41a1c
+"Matlhonyane Clinic",-25.976967,25.690273,CLINIC,e41a1c
+"Matloding Clinic",-25.913561,24.66472,CLINIC,e41a1c
+"Matshepe Clinic",-26.02262,25.74937,CLINIC,e41a1c
+"Maubane Clinic",-25.294825,28.278471,CLINIC,e41a1c
+"Maureen Roberts Clinic",-25.873931,25.652907,CLINIC,e41a1c
+"Mfidikwe Clinic",-25.663152,27.3432,CLINIC,e41a1c
+"Miga Clinic",-25.652366,25.563037,CLINIC,e41a1c
+"Mmakaunyane Clinic",-25.38939,27.87515,CLINIC,e41a1c
+"Mmankaipaya Clinic",-24.981541,26.562774,CLINIC,e41a1c
+"Mmasebudule Clinic",-25.041537,26.304469,CLINIC,e41a1c
+"Mocoseng Clinic",-25.890686,25.586622,CLINIC,e41a1c
+"Mocweding Clinic",-27.57,24.7,CLINIC,e41a1c
+"Modderkuil Clinic",-25.124174,27.197283,CLINIC,e41a1c
+"Modimola Clinic",-25.862086,25.454088,CLINIC,e41a1c
+"Mofufutso Clinic",-26.444135,25.402574,CLINIC,e41a1c
+"Mogogelo Clinic",-25.353058,28.144261,CLINIC,e41a1c
+"Mogopa Satellite Clinic",-26.31,26.85,"SATELLITE CLINIC",e41a1c
+"Mogosane Clinic",-25.738599,25.550449,CLINIC,e41a1c
+"Mogwase CHC",-25.278442,27.226047,CHC,e41a1c
+"Mohadin Clinic",-26.715292,27.033204,CLINIC,e41a1c
+"Moiletsoane (Buffelsdoorn) Clinic",-25.380643,27.931296,CLINIC,e41a1c
+"Mokgareng Clinic",-27.530912,24.704781,CLINIC,e41a1c
+"Mokgola Clinic",-25.328909,26.123318,CLINIC,e41a1c
+"Molatedi Clinic",-24.85175,26.497672,CLINIC,e41a1c
+"Molelema Clinic",-27.65736,24.99766,CLINIC,e41a1c
+"Molorwe Clinic",-25.088801,26.89793,CLINIC,e41a1c
+"Monakato Clinic",-25.357983,27.275904,CLINIC,e41a1c
+"Mononono Clinic",-25.044779,27.187418,CLINIC,e41a1c
+"Montsana Clinic",-25.100448,26.585173,CLINIC,e41a1c
+"Montshioa Stadt CHC",-25.871682,25.634067,CHC,e41a1c
+"Montshioa Town Clinic",-25.852987,25.626149,CLINIC,e41a1c
+"Moretele CHC",-25.14578,27.96025,CHC,e41a1c
+"Morokwaneng Clinic",-26.0863,23.73044,CLINIC,e41a1c
+"Morokweng CHC",-26.12736,23.77395,CHC,e41a1c
+"Moruleng Clinic",-25.16971,27.16777,CLINIC,e41a1c
+"Moshana CHC",-24.976279,25.890288,CHC,e41a1c
+"Mothanthanyaneng Clinic",-27.65961,24.906481,CLINIC,e41a1c
+"Mothutlong Clinic",-25.603327,27.884205,CLINIC,e41a1c
+"Motlhabe Clinic",-25.06694,26.94953,CLINIC,e41a1c
+"Motlhabeng Clinic",-25.851249,25.602637,CLINIC,e41a1c
+"Motswedi Clinic",-25.284627,25.888644,CLINIC,e41a1c
+"N Pretorious Gateway Clinic",-26.885543,26.615276,CLINIC,e41a1c
+"Neo Clinic",-24.83527,27.01116,CLINIC,e41a1c
+"Ntsweletsoku Health Post",-25.458465,25.970719,"HEALTH POST",e41a1c
+"Obakeng Clinic",-24.923921,26.653259,CLINIC,e41a1c
+"Orkney Town Clinic",-26.98066,26.6687,CLINIC,e41a1c
+"Ottosdal CHC",-26.813409,26.0087,CHC,e41a1c
+"Oukasie Clinic",-25.608114,27.791966,CLINIC,e41a1c
+"Oukasie Maternity MOU",-25.604679,27.799836,MOU,e41a1c
+"Pachsdraai Clinic",-25.208606,26.39619,CLINIC,e41a1c
+"Park Street Clinic",-26.866961,26.661528,CLINIC,e41a1c
+"Pella CHC",-25.463056,26.456559,CHC,e41a1c
+"Phalane Clinic",-25.26493,26.843682,CLINIC,e41a1c
+"Phaposane Clinic",-26.55667,24.317,CLINIC,e41a1c
+"Phatsima Clinic",-25.396423,27.013884,CLINIC,e41a1c
+"Picong Clinic",-27.590199,24.864652,CLINIC,e41a1c
+"Piet Plessis CHC",-26.16024,24.40884,CHC,e41a1c
+"Pitsedisulejang Clinic",-25.027785,26.478387,CLINIC,e41a1c
+"Potchefstroom Clinic",-26.712978,27.099294,CLINIC,e41a1c
+"Potchefstroom Gateway Clinic",-26.728986,27.083595,CLINIC,e41a1c
+"Promosa CHC",-26.702126,27.030932,CHC,e41a1c
+"Pudumoe CHC",-27.41001,24.7208,CHC,e41a1c
+"Rabokala Clinic",-25.499894,27.906759,CLINIC,e41a1c
+"Ramatlabama CHC",-25.703652,25.616204,CHC,e41a1c
+"Ramokokastad Clinic",-25.148113,27.446852,CLINIC,e41a1c
+"Rampampaspoort Clinic",-24.985915,26.672565,CLINIC,e41a1c
+"Rankelenyane Clinic",-25.571723,27.429184,CLINIC,e41a1c
+"Rapulana Clinic",-26.028824,25.63937,CLINIC,e41a1c
+"Ratjiepan Clinic",-25.33176,28.08897,CLINIC,e41a1c
+"Ratlou CHC",-26.262448,25.124268,CHC,e41a1c
+"Reagile Clinic",-25.849429,26.891656,CLINIC,e41a1c
+"Refentse (Mmakgabetlwane) Clinic",-25.1938,26.59205,CLINIC,e41a1c
+"Reivilo CHC",-27.56684,24.17642,CHC,e41a1c
+"Rietfontein Clinic",-25.3105,26.76337,CLINIC,e41a1c
+"Rietpan Clinic",-25.11139,25.945292,CLINIC,e41a1c
+"Rugtesloot Clinic",-25.027503,27.853298,CLINIC,e41a1c
+"Rustenburg Gateway Clinic",-25.677115,27.244678,CLINIC,e41a1c
+"Sandfontein Clinic",-25.187103,27.266237,CLINIC,e41a1c
+"Sannieshof CHC",-26.523647,25.802625,CHC,e41a1c
+"Schweizer-Reneke Town Clinic",-27.19068,25.3292,CLINIC,e41a1c
+"Segametsi Mogaetsho Clinic",-27.327112,25.980829,CLINIC,e41a1c
+"Segwaelane Clinic",-25.666087,27.609686,CLINIC,e41a1c
+"Seolong Clinic",-25.14517,26.82548,CLINIC,e41a1c
+"Sesobe Clinic",-25.040825,26.429533,CLINIC,e41a1c
+"Setabeng Clinic",-25.90207,23.50341,CLINIC,e41a1c
+"Setlagole Clinic",-26.303303,25.128436,CLINIC,e41a1c
+"Setlopo Clinic",-25.932884,25.655638,CLINIC,e41a1c
+"Siga Clinic",-25.194508,26.591198,CLINIC,e41a1c
+"Silverkrans Clinic",-25.493704,26.624908,CLINIC,e41a1c
+"Sonop Clinic",-25.648084,27.697815,CLINIC,e41a1c
+"Soutpansleegte Clinic",-25.16841,27.90559,CLINIC,e41a1c
+"Stella CHC",-26.548695,24.859539,CHC,e41a1c
+"Steve Tshwete Clinic",-26.72396,27.020375,CLINIC,e41a1c
+"Stilfontein Clinic",-26.845099,26.774864,CLINIC,e41a1c
+"Sunrisepark Clinic",-25.55,27.29,CLINIC,e41a1c
+"Supingstad Clinic",-24.788941,26.053396,CLINIC,e41a1c
+"Swartdam (Rekopantswe) Clinic",-25.297383,28.054968,CLINIC,e41a1c
+"Swartruggens Clinic",-25.649578,26.689259,CLINIC,e41a1c
+"Taung Gateway Clinic",-27.53775,24.79175,CLINIC,e41a1c
+"Taung Station Clinic",-27.56333,24.74978,CLINIC,e41a1c
+"Thekwane Clinic",-25.669561,27.370505,CLINIC,e41a1c
+"Thulwe Clinic",-25.251164,28.198804,CLINIC,e41a1c
+"Thusong Gateway Clinic",-26.052224,25.947781,CLINIC,e41a1c
+"Tigane CHC",-26.747016,26.419772,CHC,e41a1c
+"Tladistad Clinic",-25.204485,28.031498,CLINIC,e41a1c
+"Tlakgameng CHC",-26.46853,24.34303,CHC,e41a1c
+"Tlapeng (Ganyesa) Clinic",-26.65513,24.10245,CLINIC,e41a1c
+"Tlapeng (Greater Taung) Clinic",-27.51837,24.95402,CLINIC,e41a1c
+"Tlapeng (Mafikeng) Clinic",-25.720008,25.454966,CLINIC,e41a1c
+"Tlaseng Clinic",-25.472471,27.349577,CLINIC,e41a1c
+"Tlhabane CHC",-25.63869,27.216297,CHC,e41a1c
+"Tlhabologang Clinic",-26.329999,26.29944,CLINIC,e41a1c
+"Top City Clinic",-26.73618,27.03587,CLINIC,e41a1c
+"Tseoge Clinic",-25.98623,23.51797,CLINIC,e41a1c
+"Tsetse Clinic",-25.734796,25.66252,CLINIC,e41a1c
+"Tshidilamolomo Clinic",-25.828798,24.683345,CLINIC,e41a1c
+"Tshireletso Clinic",-25.02101,26.9241,CLINIC,e41a1c
+"Tsholofelo Clinic",-26.891545,26.588953,CLINIC,e41a1c
+"Tshunyane Clinic",-25.99647,25.494002,CLINIC,e41a1c
+"Tswelelang 1 Clinic",-27.220472,25.984318,CLINIC,e41a1c
+"Tswelelang 2 CHC",-27.230005,25.979646,CHC,e41a1c
+"Tswelelopele CHC",-25.558214,26.097735,CHC,e41a1c
+"Tweelaagte Clinic",-25.27243,26.85287,CLINIC,e41a1c
+"Tweelingspan Clinic",-27.55994,25.00491,CLINIC,e41a1c
+"Uitkyk Clinic",-25.204155,26.429747,CLINIC,e41a1c
+"Unit 9 CHC",-25.845661,25.58965,CHC,e41a1c
+"Upper Majeakgoro Clinic",-27.79626,24.62533,CLINIC,e41a1c
+"Utlwanang Clinic",-27.89527,25.12859,CLINIC,e41a1c
+"Ventersdorp Gateway Clinic",-26.31092,26.817713,CLINIC,e41a1c
+"Ventersdorp Tsetse Satellite Clinic",-26.17581,26.79535,"SATELLITE CLINIC",e41a1c
+"Vlakplaas Clinic",-25.00421,26.87796,CLINIC,e41a1c
+"Vrede 2 Clinic",-25.466529,26.562361,CLINIC,e41a1c
+"Vriesgewacht Clinic",-26.46,25.4,CLINIC,e41a1c
+"Vryburg Gateway Clinic",-26.95725,24.71612,CLINIC,e41a1c
+"Vryburg Road Side Clinic",-26.958405,24.729861,CLINIC,e41a1c
+"Welgeval Clinic",-24.928314,26.679209,CLINIC,e41a1c
+"Welgevonden Satellite Clinic",-26.16072,26.8126,"SATELLITE CLINIC",e41a1c
+"Weltevrede Clinic",-26.317625,25.490491,CLINIC,e41a1c
+"Welverdiendt Clinic",-26.38687,27.27646,"SATELLITE CLINIC",e41a1c
+"Wolmaransstad Town Clinic",-27.20569,25.981582,CLINIC,e41a1c
+"Wonderkop Clinic",-25.671081,27.529228,CLINIC,e41a1c
+"Zeerust Clinic",-25.546679,26.0794,CLINIC,e41a1c
+"Alexandra Hospital",-33.929372,18.484454,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Beaufort West Hospital",-32.351987,22.606505,"DISTRICT HOSPITAL",e41a1c
+"Beaufort West Hospital CDC",-32.35278,22.6075,CDC,e41a1c
+"Brewelskloof TB Hospital",-33.622173,19.456084,"SPECIALISED TB HOSPITAL",e41a1c
+"Brooklyn Chest Hospital",-33.900297,18.486659,"SPECIALISED TB HOSPITAL",e41a1c
+"Caledon Hospital",-34.224653,19.434852,"DISTRICT HOSPITAL",e41a1c
+"Ceres Hospital",-33.363465,19.301326,"DISTRICT HOSPITAL",e41a1c
+"Citrusdal Hospital",-32.598597,19.015258,"DISTRICT HOSPITAL",e41a1c
+"Clanwilliam Hospital",-32.184325,18.891737,"DISTRICT HOSPITAL",e41a1c
+"DP Marais TB Hospital",-34.062763,18.460242,"SPECIALISED TB HOSPITAL",e41a1c
+"Eerste River Hospital",-33.997289,18.719067,"DISTRICT HOSPITAL",e41a1c
+"False Bay Hospital",-34.131866,18.416683,"DISTRICT HOSPITAL",e41a1c
+"George Hospital",-33.951806,22.452192,"REGIONAL HOSPITAL",e41a1c
+"GF Jooste Hospital",-33.984697,18.557984,"DISTRICT HOSPITAL",e41a1c
+"Groote Schuur Level 3 Hospital",-33.939715,18.463404,"CENTRAL HOSPITAL",e41a1c
+"Harry Comay TB Hospital",-33.980129,22.471917,"SPECIALISED TB HOSPITAL",e41a1c
+"Helderberg Hospital",-34.076559,18.857646,"DISTRICT HOSPITAL",e41a1c
+"Hermanus Hospital",-34.42209,19.22831,"DISTRICT HOSPITAL",e41a1c
+"Karl Bremer Hospital",-33.892558,18.610228,"DISTRICT HOSPITAL",e41a1c
+"Khayelitsha (Tygerberg) Hospital",-33.915345,18.611789,"DISTRICT HOSPITAL",e41a1c
+"Knysna Hospital",-34.037613,23.059863,"DISTRICT HOSPITAL",e41a1c
+"Ladismith (Alan Blyth) Hospital",-33.48665,21.268281,"DISTRICT HOSPITAL",e41a1c
+"Laingsburg Hospital",-33.194284,20.849889,"DISTRICT HOSPITAL",e41a1c
+"LAPA Munnik Hospital",-33.01797,18.993827,"DISTRICT HOSPITAL",e41a1c
+"Lentegeur Hospital",-34.026646,18.615839,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Malmesbury Infectious Disease
+Hospital",-33.47583,18.73722,"SPECIALISED TB HOSPITAL",e41a1c
+"Mitchells Plain Hospital",-34.026646,18.615839,"DISTRICT HOSPITAL",e41a1c
+"Montagu Hospital",-33.796428,20.122683,"DISTRICT HOSPITAL",e41a1c
+"Mossel Bay Hospital",-34.186002,22.129863,"DISTRICT HOSPITAL",e41a1c
+"Mowbray Maternity Hospital",-33.949087,18.474986,"REGIONAL HOSPITAL",e41a1c
+"Murraysburg Hospital",-31.962762,23.768556,"DISTRICT HOSPITAL",e41a1c
+"Nelspoort TB Hospital",-32.17361,23.09085,"SPECIALISED TB HOSPITAL",e41a1c
+"Otto Du Plessis Hospital",-34.537257,20.035726,"DISTRICT HOSPITAL",e41a1c
+"Oudtshoorn Hospital",-33.588419,22.190108,"DISTRICT HOSPITAL",e41a1c
+"Paarl Hospital",-33.725277,18.970572,"REGIONAL HOSPITAL",e41a1c
+"Prince Albert Hospital",-33.217279,22.026392,"DISTRICT HOSPITAL",e41a1c
+"Radie Kotze Hospital",-32.907037,18.762696,"DISTRICT HOSPITAL",e41a1c
+"Red Cross War Memorial Children's
+Level 3 Hospital",-33.953695,18.488821,"SPECIALISED CHILDRENS HOSPITAL",e41a1c
+"Riversdale Hospital",-34.09318,21.254677,"DISTRICT HOSPITAL",e41a1c
+"Robertson Hospital",-33.801256,19.890935,"DISTRICT HOSPITAL",e41a1c
+"Somerset Hospital",-33.906375,18.416256,"REGIONAL HOSPITAL",e41a1c
+"Sonstraal TB Hospital",-33.71233,18.98662,"SPECIALISED TB HOSPITAL",e41a1c
+"Stellenbosch Hospital",-33.930858,18.870403,"DISTRICT HOSPITAL",e41a1c
+"Stikland Hospital",-33.90239,18.657575,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Swartland Hospital",-33.45602,18.723359,"DISTRICT HOSPITAL",e41a1c
+"Swellendam Hospital",-34.02348,20.448797,"DISTRICT HOSPITAL",e41a1c
+"Swellendam Hospital PHC Clinic",-34.02348,20.448797,CLINIC,e41a1c
+"Tygerberg Level 3 Hospital",-33.915345,18.611789,"CENTRAL HOSPITAL",e41a1c
+"Uniondale Hospital",-33.659808,23.124955,"DISTRICT HOSPITAL",e41a1c
+"Valkenberg Hospital",-33.936177,18.477684,"SPECIALISED PSYCHIATRIC HOSPITAL",e41a1c
+"Victoria Hospital",-34.012058,18.459633,"DISTRICT HOSPITAL",e41a1c
+"Vredenburg Hospital",-32.913112,18.1,"DISTRICT HOSPITAL",e41a1c
+"Vredendal Hospital",-31.669189,18.503938,"DISTRICT HOSPITAL",e41a1c
+"Wesfleur Hospital",-33.564445,18.494711,"DISTRICT HOSPITAL",e41a1c
+"Worcester Hospital",-33.644354,19.458058,"REGIONAL HOSPITAL",e41a1c
