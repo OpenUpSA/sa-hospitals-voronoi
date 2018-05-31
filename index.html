@@ -19,19 +19,23 @@
   <div id='loading'>
   </div>
   <div id='selected'>
-    <h1>South African Hospitals</h1>
+    <h1 class="name">South African Hospitals</h1>
+    <div class="type"><b>This map uses an incomplete dataset from a survey done between 2011 and 2012</b></div>
+    <div class="address"></div>
+    <div class="email"></div>
+    <div class="tel"></div>
+    <div class="cel"></div>
   </div>
 
   <script src="js/mapbox.js"></script>
   <script src="js/d3.min.js"></script>
-  <script src="js/voronoi_map.js"></script>
+  <script src="js/voronoi.js"></script>
   <script>
     L.mapbox.accessToken = 'pk.eyJ1IjoiemV0dGVyIiwiYSI6ImVvQ3FGVlEifQ.jGp_PWb6xineYqezpSd7wA';
     map = L.mapbox.map('map', 'mapbox.light')
       .fitBounds([[-22.9827, 14.6231], [-34.7007, 32.7833]]);
     url = 'input.csv';
-    initialSelection = d3.set(['DISTRICT HOSPITAL']);
-    voronoiMap(map, url, initialSelection);
+    voronoiMap(map, url);
   </script>
 
 </body>

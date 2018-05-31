@@ -12,7 +12,7 @@ showHide = function(selector) {
   });
 }
 
-voronoiMap = function(map, url, initialSelections) {
+voronoiMap = function(map, url) {
   var pointTypes = d3.map(),
       points = [],
       lastSelectedPoint;
@@ -30,11 +30,44 @@ voronoiMap = function(map, url, initialSelections) {
     lastSelectedPoint = point;
     cell.classed('selected', true);
 
-    d3.select('#selected h1')
+    // add name to infobox
+    d3.select('#selected .name')
+      .html('')
+      .append('span')
+        .text(point.name)
+
+    // add address to infobox
+    d3.select('#selected .type')
+      .html('')
+      .append('span')
+        .text(point.type)
+
+    // add address to infobox
+    d3.select('#selected .address')
+      .html('')
+      .append('span')
+        .text(point.address)
+
+    // add email address to infobox
+    d3.select('#selected .email')
       .html('')
       .append('a')
-        .text(point.name)
-        .attr('target', '_blank')
+        .text(point.email)
+        .attr('href', 'mailto:' + point.email)
+
+    // add phone number to infobox
+    d3.select('#selected .tel')
+      .html('')
+      .append('a')
+        .text(point.tel)
+        .attr('href', 'tel:' + point.tel)
+
+    // add cell phone number to infobox
+    d3.select('#selected .cel')
+      .html('')
+      .append('a')
+        .text(point.cel)
+        .attr('href', 'tel:' + point.cel)
   }
 
   var drawPointTypeSelection = function() {
@@ -45,15 +78,13 @@ voronoiMap = function(map, url, initialSelections) {
 
     labels.append("input")
       .attr('type', 'checkbox')
-      .property('checked', function(d) {
-        return initialSelections === undefined || initialSelections.has(d.type)
-      })
+      .property('checked', 'checked')
       .attr("value", function(d) { return d.type; })
       .on("change", drawWithLoading);
 
     labels.append("span")
       .attr('class', 'key')
-      .style('background-color', function(d) { return '#' + d.color; });
+      .style('background-color', '#ff1c60');
 
     labels.append("span")
       .text(function(d) { return d.type; });
@@ -141,7 +172,7 @@ voronoiMap = function(map, url, initialSelections) {
 
     svgPoints.append("circle")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-      .style('fill', function(d) { return '#' + d.color } )
+      .style('fill', '#ff1c60' )
       .attr("r", 2);
   }
 

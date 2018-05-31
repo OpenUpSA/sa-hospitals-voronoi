@@ -113,7 +113,7 @@ p {
 #selected {
   bottom: 10px;
   left: 10px;
-  height: 28px;
+  padding: 8px;
 }
 
 #selected h1 {
@@ -125,6 +125,11 @@ p {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+#selected div {
+  margin-top: 5px;
+}
+
 
 .hide,
 .show {
