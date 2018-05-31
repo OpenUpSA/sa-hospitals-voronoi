@@ -187,7 +187,7 @@ voronoiMap = function(map, url) {
     d3.csv(url, function(csv) {
       points = csv;
       points.forEach(function(point) {
-        pointTypes.set(point.type, {type: point.type, color: point.color});
+        pointTypes.set(point.type, {type: point.type});
       })
       drawPointTypeSelection();
       map.addLayer(mapLayer);
